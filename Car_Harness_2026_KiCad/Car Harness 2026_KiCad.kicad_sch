@@ -1,0 +1,198 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "5dbc07ba-3bc7-4ac7-a248-7c4937eb7523")
+	(paper "User" 381 241.3)
+	(lib_symbols)
+	(sheet
+		(at 12.7 8.89)
+		(size 55.88 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "14a27544-892c-405d-a2d9-61a7cb7a920b")
+		(property "Sheetname" "M150"
+			(at 12.7 8.1784 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "M150.kicad_sch"
+			(at 12.7 31.0646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Car Harness 2026_KiCad"
+				(path "/5dbc07ba-3bc7-4ac7-a248-7c4937eb7523"
+					(page "1")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 13.97 48.26)
+		(size 53.34 22.86)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "46632f4c-7820-4264-84db-88ac5623aa8b")
+		(property "Sheetname" "C185"
+			(at 13.97 47.5484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "C185.kicad_sch"
+			(at 13.97 71.7046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Car Harness 2026_KiCad"
+				(path "/5dbc07ba-3bc7-4ac7-a248-7c4937eb7523"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 88.9 48.26)
+		(size 52.07 19.05)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "906f009d-b4bb-4cb3-b7c4-02e86603a528")
+		(property "Sheetname" "PDM30"
+			(at 88.9 47.5484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PDM30.kicad_sch"
+			(at 88.9 67.8946 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Car Harness 2026_KiCad"
+				(path "/5dbc07ba-3bc7-4ac7-a248-7c4937eb7523"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 90.17 8.89)
+		(size 53.34 24.13)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "aece6259-3318-408c-9f06-199ff26a50b1")
+		(property "Sheetname" "Critial Components"
+			(at 90.17 8.1784 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Critical Components.kicad_sch"
+			(at 90.17 33.6046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Car Harness 2026_KiCad"
+				(path "/5dbc07ba-3bc7-4ac7-a248-7c4937eb7523"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "3")
+		)
+	)
+	(embedded_fonts no)
+)

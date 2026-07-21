@@ -1,0 +1,26 @@
+# KiCad local history — this is a NESTED git repo, must be ignored
+.history/
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# KiCad backups & autosaves
+*-backups/
+*.bak
+*-bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+_autosave-*
+*.000
+
+# Caches
+fp-info-cache
+*-cache.lib
+
+# Exported / generated
+*.net
+*.xml
+
+# Per-user UI state
+*.kicad_prl

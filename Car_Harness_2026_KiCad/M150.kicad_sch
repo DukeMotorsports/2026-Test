@@ -1,0 +1,6566 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "d13c5794-76eb-4519-a9ce-490cd47a1530")
+	(paper "User" 381 241.3)
+	(lib_symbols
+		(symbol "Car Harness 2026_KiCad-altium-import:GND_POWER_GROUND"
+			(power global)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "#PWR"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "GND"
+				(at 0 -6.35 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name 'GND'"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "power-flag"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "GND_POWER_GROUND_0_0"
+				(polyline
+					(pts
+						(xy -2.54 -2.54) (xy 2.54 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.778 -3.302) (xy 1.778 -3.302)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.016 -4.064) (xy 1.016 -4.064)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.254 -4.826) (xy 0.254 -4.826)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Duke Motorsports:root_0_MoTeC M150-C / M130-A - Symbol-1_Duke Motorsports"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "34 Pin Connector for M150-C and M130-A"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "root_0_MoTeC M150-C / M130-A - Symbol-1_Duke Motorsports_1_0"
+				(rectangle
+					(start 78.74 -25.4)
+					(end -93.98 -2.54)
+					(stroke
+						(width 0.0254)
+						(type solid)
+						(color 128 0 0 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(text "[Critical Connector]"
+					(at 81.28 -2.54 900)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+						(justify right)
+					)
+				)
+				(pin power_in line
+					(at -86.36 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5V_-_OUT_A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -50.8 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5V_-_OUT_B"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -25.4 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -20.32 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -15.24 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -10.16 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 30.48 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-25"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -45.72 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "BAT_NEG1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -40.64 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "BAT_NEG2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 35.56 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-26"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "BAT_POS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -81.28 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "IGN-LS1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -76.2 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "IGN_LS2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -71.12 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "IGN_LS3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -66.04 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "IGN_LS4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -60.96 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "IGN_LS5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -55.88 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "IGN_LS6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -35.56 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "IGN_LS7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -30.48 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "IGN_LS8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 20.32 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-23"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "INJ_LS1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 25.4 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-24"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "INJ_LS2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 0 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-19"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "INJ_PH1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 5.08 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "INJ_PH2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 10.16 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-21"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "INJ_PH3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 15.24 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "INJ_PH4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 40.64 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-27"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "INJ_PH5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 45.72 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-28"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "INJ_PH6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 50.8 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-29"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "INJ_PH7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 55.88 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-30"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "INJ_PH8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -5.08 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-18"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "OUT_HB1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -91.44 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "OUT_HB2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 60.96 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-31"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "OUT_HB3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 66.04 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-32"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "OUT_HB4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 71.12 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-33"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "OUT_HB5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 76.2 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-34"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "OUT_HB6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Duke Motorsports:root_0_MoTec M150 Connector A-Symbol-1_Duke Motorsports"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "26 Pin Connector for M150-B"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "root_0_MoTec M150 Connector A-Symbol-1_Duke Motorsports_1_0"
+				(rectangle
+					(start 40.64 -25.4)
+					(end -93.98 -2.54)
+					(stroke
+						(width 0.0254)
+						(type solid)
+						(color 128 0 0 1)
+					)
+					(fill
+						(type color)
+						(color 208 224 227 1)
+					)
+				)
+				(pin power_in line
+					(at 35.56 -39.37 90)
+					(length 13.97)
+					(name "(M150)_B26"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5V_-_OUT_A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -45.72 -39.37 90)
+					(length 13.97)
+					(name "(M150)_B10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -40.64 -39.37 90)
+					(length 13.97)
+					(name "(M150)_B11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -35.56 -39.37 90)
+					(length 13.97)
+					(name "(M150)_B12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -15.24 -39.37 90)
+					(length 13.97)
+					(name "(M150)_B16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -10.16 -39.37 90)
+					(length 13.97)
+					(name "(M150)_B17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -5.08 -39.37 90)
+					(length 13.97)
+					(name "(M150)_B18"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -30.48 -39.37 90)
+					(length 13.97)
+					(name "(M150)_B13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "BAT_POS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 -39.37 90)
+					(length 13.97)
+					(name "(M150)_B19"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "BAT_POS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -50.8 -39.37 90)
+					(length 13.97)
+					(name "(M150)_B9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "INJ_LS3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -20.32 -39.37 90)
+					(length 13.97)
+					(name "(M150)_B15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "INJ_LS4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -55.88 -39.37 90)
+					(length 13.97)
+					(name "(M150)_B8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "INJ_LS5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -25.4 -39.37 90)
+					(length 13.97)
+					(name "(M150)_B14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "INJ_LS6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 15.24 -39.37 90)
+					(length 13.97)
+					(name "(M150)_B22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "INJ_PH9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 20.32 -39.37 90)
+					(length 13.97)
+					(name "(M150)_B23"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "INJ_PH10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 25.4 -39.37 90)
+					(length 13.97)
+					(name "(M150)_B24"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "INJ_PH11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 30.48 -39.37 90)
+					(length 13.97)
+					(name "(M150)_B25"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "INK_PH12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 5.08 -39.37 90)
+					(length 13.97)
+					(name "(M150)_B20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "OUT_HB7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 10.16 -39.37 90)
+					(length 13.97)
+					(name "(M150)_B21"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "OUT_HB8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -91.44 -39.37 90)
+					(length 13.97)
+					(name "(M150)_B1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "OUT_HB9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -86.36 -39.37 90)
+					(length 13.97)
+					(name "(M150)_B2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "OUT_HB10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -81.28 -39.37 90)
+					(length 13.97)
+					(name "(M150)_B3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "UDIG8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -76.2 -39.37 90)
+					(length 13.97)
+					(name "(M150)_B4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "UDIG9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -71.12 -39.37 90)
+					(length 13.97)
+					(name "(M150)_B5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "UDIG10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -66.04 -39.37 90)
+					(length 13.97)
+					(name "(M150)_B6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "UDIG11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -60.96 -39.37 90)
+					(length 13.97)
+					(name "(M150)_B7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "UDIG12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Duke Motorsports:root_0_MoTec M150-D / M130-B-Symbol-1_Duke Motorsports"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "26 Pin Connector for M150-D and M130-B"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "root_0_MoTec M150-D / M130-B-Symbol-1_Duke Motorsports_1_0"
+				(rectangle
+					(start 40.64 -25.4)
+					(end -93.98 -2.54)
+					(stroke
+						(width 0.0254)
+						(type solid)
+						(color 128 0 0 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(text "[Critical Connector]"
+					(at 43.18 -2.54 900)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+						(justify right)
+					)
+				)
+				(pin power_in line
+					(at -20.32 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(B/D)-15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "0V_-_OUT_A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -15.24 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(B/D)-16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "0V_-_OUT_B"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(B/D)-19"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6.3V_-_OUT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -81.28 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(B/D)-3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AT1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -76.2 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(B/D)-4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AT2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -71.12 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(B/D)-5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AT3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -66.04 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(B/D)-6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AT4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 5.08 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(B/D)-20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 10.16 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(B/D)-21"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 15.24 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(B/D)-22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -35.56 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(B/D)-12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "BAT_BAK"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -10.16 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(B/D)-17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "CAN1-HI"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -5.08 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(B/D)-18"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "CAN1-LO"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 30.48 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(B/D)-25"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "ETH_RX+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 35.56 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(B/D)-26"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "ETH_RX-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 20.32 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(B/D)-23"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "ETH_TX+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 25.4 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(B/D)-24"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "ETH_TX-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -30.48 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(B/D)-13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "KNOCK2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -60.96 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(B/D)-7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "KNOCK_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -91.44 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(B/D)-1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "UDIG1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -86.36 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(B/D)-2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "UDIG2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -55.88 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(B/D)-8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "UDIG3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -50.8 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(B/D)-9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "UDIG4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -45.72 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(B/D)-10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "UDIG5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -40.64 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(B/D)-11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "UDIG6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -25.4 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(B/D)-14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "UDIG7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Duke Motorsports:root_1_RES-2_Duke Motorsports_0"
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Chip Resistor, 120 Ohms, +/-5 %, 0.1 W, -55 to 155 degC, 0603"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "*RESC0603(1608)_L*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "root_1_RES-2_Duke Motorsports_0_1_0"
+				(polyline
+					(pts
+						(xy 0 -10.16) (xy 0.762 -9.398) (xy 0 -8.636) (xy -0.762 -7.874) (xy 0.762 -6.35) (xy -0.762 -4.826)
+						(xy 0.762 -3.302) (xy 0 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 0 0 270)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -12.7 90)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "root_0_MoTeC M150-C / M130-A - Symbol-1_Duke Motorsports_1"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "34 Pin Connector for M150-A"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "root_0_MoTeC M150-C / M130-A - Symbol-1_Duke Motorsports_1_1_0"
+				(rectangle
+					(start 78.74 -25.4)
+					(end -93.98 -2.54)
+					(stroke
+						(width 0.0254)
+						(type solid)
+						(color 128 0 0 1)
+					)
+					(fill
+						(type color)
+						(color 208 224 227 1)
+					)
+				)
+				(pin power_in line
+					(at 71.12 -40.64 90)
+					(length 15.24)
+					(name "(M150)_A-33"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "0V_-_OUT_B1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 35.56 -40.64 90)
+					(length 15.24)
+					(name "(M150)_A-26"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "0V_-_OUT_C1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 40.64 -40.64 90)
+					(length 15.24)
+					(name "(M150)_A-27"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "0V_-_OUT_C2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 -40.64 90)
+					(length 15.24)
+					(name "(M150)_A-19"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5V_-_OUT_B2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -45.72 -40.64 90)
+					(length 15.24)
+					(name "(M150)_A-10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5V_-_OUT_C1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -5.08 -40.64 90)
+					(length 15.24)
+					(name "(M150)_A-18"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5V_-_OUT_C2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -91.44 -40.64 90)
+					(length 15.24)
+					(name "(M150)_A-1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AT5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -86.36 -40.64 90)
+					(length 15.24)
+					(name "(M150)_A-2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AT6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -81.28 -40.64 90)
+					(length 15.24)
+					(name "(M150)_A-3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -76.2 -40.64 90)
+					(length 15.24)
+					(name "(M150)_A-4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -71.12 -40.64 90)
+					(length 15.24)
+					(name "(M150)_A-5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 25.4 -40.64 90)
+					(length 15.24)
+					(name "(M150)_A-24"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "BAT_NEG3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 30.48 -40.64 90)
+					(length 15.24)
+					(name "(M150)_A-25"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "BAT_NEG4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 66.04 -40.64 90)
+					(length 15.24)
+					(name "(M150)_A-32"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "BAT_NEG5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 55.88 -40.64 90)
+					(length 15.24)
+					(name "(M150)_A-30"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "CAN2-HI"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 60.96 -40.64 90)
+					(length 15.24)
+					(name "(M150)_A-31"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "CAN2-LOW"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 45.72 -40.64 90)
+					(length 15.24)
+					(name "(M150)_A-28"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "CAN3-HI"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 50.8 -40.64 90)
+					(length 15.24)
+					(name "(M150)_A-29"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "CAN3-LO"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 20.32 -40.64 90)
+					(length 15.24)
+					(name "(M150)_A-23"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "DIG1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -20.32 -40.64 90)
+					(length 15.24)
+					(name "(M150)_A-15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "DIG2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -15.24 -40.64 90)
+					(length 15.24)
+					(name "(M150)_A-16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "DIG3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -10.16 -40.64 90)
+					(length 15.24)
+					(name "(M150)_A-17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "DIG4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -66.04 -40.64 90)
+					(length 15.24)
+					(name "(M150)_A-6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "IGN_LS9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -60.96 -40.64 90)
+					(length 15.24)
+					(name "(M150)_A-7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "IGN_LS10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -55.88 -40.64 90)
+					(length 15.24)
+					(name "(M150)_A-8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "IGN_LS11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -50.8 -40.64 90)
+					(length 15.24)
+					(name "(M150)_A-9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "IGN_LS12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -30.48 -40.64 90)
+					(length 15.24)
+					(name "(M150)_A-13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "KNOCK_3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -25.4 -40.64 90)
+					(length 15.24)
+					(name "(M150)_A-14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "KNOCK_4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -40.64 -40.64 90)
+					(length 15.24)
+					(name "(M150)_A-11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "LA_NB1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -35.56 -40.64 90)
+					(length 15.24)
+					(name "(M150)_A-12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "LA_NB2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 5.08 -40.64 90)
+					(length 15.24)
+					(name "(M150)_A-20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "LIN_BUS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 76.2 -40.64 90)
+					(length 15.24)
+					(name "(M150)_A-34"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "OV_-_OUT_A1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 10.16 -40.64 90)
+					(length 15.24)
+					(name "(M150)_A-21"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "RS232_RX"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 15.24 -40.64 90)
+					(length 15.24)
+					(name "(M150)_A-22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "RS232_TX"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(text "C"
+		(exclude_from_sim no)
+		(at 177.8 17.78 0)
+		(effects
+			(font
+				(size 4.572 4.572)
+			)
+		)
+		(uuid "2c223310-9126-462c-83d3-219957eba430")
+	)
+	(text "B"
+		(exclude_from_sim no)
+		(at 99.06 20.32 0)
+		(effects
+			(font
+				(size 4.572 4.572)
+			)
+		)
+		(uuid "477ab230-28f6-46a0-bf6e-66d81eadc29e")
+	)
+	(text "A"
+		(exclude_from_sim no)
+		(at 20.32 20.32 0)
+		(effects
+			(font
+				(size 4.572 4.572)
+			)
+		)
+		(uuid "6229a445-2124-473d-975f-29ab5b3b41a7")
+	)
+	(text "D"
+		(exclude_from_sim no)
+		(at 276.86 17.78 0)
+		(effects
+			(font
+				(size 4.572 4.572)
+			)
+		)
+		(uuid "f9a255e4-163c-46ea-b78c-ff0e4f65c1be")
+	)
+	(text_box "AYO, THIS SHI HARD CODED TO CRANK CUH, DON'T FUCK IT UP AGAIN. CRANK HARDCODED TO UDI 1"
+		(exclude_from_sim no)
+		(at 368.3 170.18 0)
+		(size -58.42 12.7)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type color)
+			(color 255 255 150 1)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "3be9e623-f4ed-4a64-a98e-fb96e3883f2b")
+	)
+	(text_box "Notes:\n1. All 5V and 0V signals with same letter convention are internally connected. 5V_A is internally connected to 5V_A_2, the M150 just exposes multiple pins to access those lines."
+		(exclude_from_sim no)
+		(at 496.57 30.48 0)
+		(size -110.49 22.86)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type color)
+			(color 255 255 150 1)
+		)
+		(effects
+			(font
+				(size 2.286 2.286)
+			)
+			(justify left top)
+		)
+		(uuid "4f930fe0-94d0-4399-8a70-015356ca6ddf")
+	)
+	(junction
+		(at 215.9 48.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0f8ccf27-92f0-4ad2-8da6-c36bdb524918")
+	)
+	(junction
+		(at 223.52 43.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3cb794d3-f686-43f4-bb38-cdbcb13a7df7")
+	)
+	(junction
+		(at 231.14 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "894dceee-3223-458e-8469-1e4c8dc92684")
+	)
+	(junction
+		(at 58.42 81.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c0876fb5-5e36-4564-8066-420a46b89232")
+	)
+	(junction
+		(at 137.16 101.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dda5780b-ec33-432f-b750-4ef346950018")
+	)
+	(junction
+		(at 215.9 152.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f6992e73-a9e4-4661-867e-8ace0150066a")
+	)
+	(no_connect
+		(at 312.42 101.6)
+		(uuid "1148d79f-bac5-4c9b-91ad-fd78564678cf")
+	)
+	(no_connect
+		(at 55.88 88.9)
+		(uuid "120cc526-e557-4b87-ba06-684638e38867")
+	)
+	(no_connect
+		(at 210.82 78.74)
+		(uuid "12e4c2e1-7d6d-428a-a718-fb9feba8c4cd")
+	)
+	(no_connect
+		(at 312.42 157.48)
+		(uuid "1421a100-a327-4f38-975e-6114971c1c6d")
+	)
+	(no_connect
+		(at 134.62 132.08)
+		(uuid "18848bcc-8c28-4619-ae7a-b8a88636af69")
+	)
+	(no_connect
+		(at 312.42 60.96)
+		(uuid "1b742cb0-9aaf-409d-bccc-35ad95f9b404")
+	)
+	(no_connect
+		(at 55.88 119.38)
+		(uuid "2e2afd08-c7dc-43b9-8d9f-df249c3eeef4")
+	)
+	(no_connect
+		(at 55.88 200.66)
+		(uuid "35d6ba17-5e40-4d3d-badc-b0ee6bc4aaab")
+	)
+	(no_connect
+		(at 312.42 96.52)
+		(uuid "41dbe0f6-6e6a-4d3f-a110-ab1e5d8325e1")
+	)
+	(no_connect
+		(at 55.88 144.78)
+		(uuid "4f20c913-a2d9-4f56-af45-35b378884fb1")
+	)
+	(no_connect
+		(at 312.42 132.08)
+		(uuid "598fa140-c0d5-496f-b7df-dfa0b1d385f2")
+	)
+	(no_connect
+		(at 55.88 124.46)
+		(uuid "7ace7d50-e122-48df-9ef0-c69df2853a68")
+	)
+	(no_connect
+		(at 312.42 137.16)
+		(uuid "8f964912-8ca4-48e6-b4c2-a93206f99baf")
+	)
+	(no_connect
+		(at 312.42 66.04)
+		(uuid "9efa07ab-6318-4cd5-8860-8888b43b84bd")
+	)
+	(no_connect
+		(at 55.88 149.86)
+		(uuid "9ffb10ca-8030-4eae-8765-d24270c021bc")
+	)
+	(no_connect
+		(at 55.88 129.54)
+		(uuid "a26a72bb-98ff-4f2c-b364-9e31857b72b5")
+	)
+	(no_connect
+		(at 55.88 195.58)
+		(uuid "a9455de4-eccd-404b-a3fa-df1f20a37b0c")
+	)
+	(no_connect
+		(at 55.88 99.06)
+		(uuid "d7359af7-63fc-4b3f-a344-11b69bc1f62b")
+	)
+	(no_connect
+		(at 312.42 55.88)
+		(uuid "d788c7bf-4533-492f-b324-fe39326a5388")
+	)
+	(no_connect
+		(at 134.62 142.24)
+		(uuid "f864ebcc-b8f7-41e9-9129-5044dd5b1d98")
+	)
+	(wire
+		(pts
+			(xy 63.5 109.22) (xy 55.88 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "016c470e-f239-4e3a-9d4e-d592110ac59b")
+	)
+	(wire
+		(pts
+			(xy 210.82 195.58) (xy 218.555 195.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0a772f48-e5a6-4589-984c-a4990c6ffbdf")
+	)
+	(wire
+		(pts
+			(xy 137.16 71.12) (xy 137.16 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0f274627-82be-43ed-9bed-0f1a9b408283")
+	)
+	(wire
+		(pts
+			(xy 318.77 142.24) (xy 312.42 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "19bf8ffb-d101-40a1-aa32-46e6b7838f02")
+	)
+	(wire
+		(pts
+			(xy 318.77 121.92) (xy 312.42 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1a755c98-f3dd-4cd7-9289-8aaf3f9f2730")
+	)
+	(wire
+		(pts
+			(xy 63.5 190.5) (xy 55.88 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1aa103c7-eee9-4def-bf72-6f1c5351bcb1")
+	)
+	(wire
+		(pts
+			(xy 312.42 40.64) (xy 320.04 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1cbe4612-5363-4b7a-8b23-47ac19685363")
+	)
+	(wire
+		(pts
+			(xy 218.44 73.66) (xy 210.82 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e0e5d47-33e2-4df1-a820-e233a57d29b7")
+	)
+	(wire
+		(pts
+			(xy 218.44 119.38) (xy 210.82 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1ec14685-dfd6-4326-aa0b-3b012eac1a4c")
+	)
+	(wire
+		(pts
+			(xy 63.5 68.58) (xy 55.88 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1fb94f02-666f-4db4-8dbf-af5ccf73385b")
+	)
+	(wire
+		(pts
+			(xy 63.5 33.02) (xy 55.88 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2410a2e5-8320-4cf2-a541-0f3790065153")
+	)
+	(wire
+		(pts
+			(xy 139.7 116.84) (xy 134.62 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2c52f81d-ae1c-46b9-92dc-b187913aceb0")
+	)
+	(wire
+		(pts
+			(xy 215.9 149.86) (xy 215.9 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2d109057-d913-4098-a27b-f02fa883c688")
+	)
+	(wire
+		(pts
+			(xy 210.82 83.82) (xy 218.44 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "39c01a6d-c08e-49f2-8f96-ca355749ec66")
+	)
+	(wire
+		(pts
+			(xy 139.7 137.16) (xy 134.62 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d0b8b6e-3d33-477d-9696-76955bfb77de")
+	)
+	(wire
+		(pts
+			(xy 312.42 81.28) (xy 317.5 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3f92e239-1c66-4934-962c-a4f547063b8f")
+	)
+	(wire
+		(pts
+			(xy 312.42 152.4) (xy 318.77 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "486511fc-36de-4e0d-acf4-06fabf9a7e31")
+	)
+	(wire
+		(pts
+			(xy 63.5 139.7) (xy 55.88 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "487ec083-ec4b-4bef-a5c3-7d73fd696590")
+	)
+	(wire
+		(pts
+			(xy 312.42 76.2) (xy 317.5 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b4f5664-7243-4229-84d2-edadbcd23ec9")
+	)
+	(wire
+		(pts
+			(xy 139.7 157.48) (xy 134.62 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4df427c7-629b-48f1-a107-ac79ae6b1715")
+	)
+	(wire
+		(pts
+			(xy 137.16 101.6) (xy 139.7 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "52181974-b92b-407b-94bc-8b6b851b4450")
+	)
+	(wire
+		(pts
+			(xy 318.77 116.84) (xy 312.42 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5423fd82-8731-4527-8efe-987a2403f268")
+	)
+	(wire
+		(pts
+			(xy 63.5 38.1) (xy 55.88 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5667d7e7-fa43-461b-b35f-42b83f5f15ad")
+	)
+	(wire
+		(pts
+			(xy 233.68 38.1) (xy 231.14 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5718018f-55e7-4d0f-9dbf-7c51e5a51224")
+	)
+	(wire
+		(pts
+			(xy 137.16 101.6) (xy 134.62 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "575ac6f0-d17f-4d7d-a243-2d8537020267")
+	)
+	(wire
+		(pts
+			(xy 210.82 149.86) (xy 215.9 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "586a62e9-ec5e-4ec0-8a1c-b44c1dad7ad9")
+	)
+	(wire
+		(pts
+			(xy 318.77 127) (xy 312.42 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5a1b3008-7723-4fbb-b51e-fb85c84a6336")
+	)
+	(wire
+		(pts
+			(xy 63.5 180.34) (xy 55.88 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5bf7630d-603c-48c3-ad68-694265b06134")
+	)
+	(wire
+		(pts
+			(xy 231.14 38.1) (xy 231.14 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5f5039f0-07b7-4bbe-bfd7-fdb6723aa57a")
+	)
+	(wire
+		(pts
+			(xy 55.88 78.74) (xy 58.42 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "60485485-f65e-4f3a-96c7-630a50d2b4e7")
+	)
+	(wire
+		(pts
+			(xy 218.44 114.3) (xy 210.82 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "65076e1c-0f54-461e-840c-4b45c6202d04")
+	)
+	(wire
+		(pts
+			(xy 218.44 200.66) (xy 210.82 200.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "65f1872d-4c8c-40f1-83ac-66a2648d9b08")
+	)
+	(wire
+		(pts
+			(xy 318.77 106.68) (xy 312.42 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "660d3b7a-cc7e-4f11-ad36-71533f04f8c3")
+	)
+	(wire
+		(pts
+			(xy 231.14 38.1) (xy 210.82 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6a082a7a-5c39-41ff-9946-825f4d4031c8")
+	)
+	(wire
+		(pts
+			(xy 312.42 45.72) (xy 320.04 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6af05a52-e0ab-4e09-aaf5-60bee77b71f9")
+	)
+	(wire
+		(pts
+			(xy 218.44 48.26) (xy 215.9 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6bc9c7a4-6979-42fe-a2d9-5145f6fdf659")
+	)
+	(wire
+		(pts
+			(xy 139.7 147.32) (xy 134.62 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "70a3efbb-af7a-4b1e-bf27-2b9617a1f9e2")
+	)
+	(wire
+		(pts
+			(xy 63.5 134.62) (xy 55.88 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71028e7b-d557-4370-9fb1-88f622c13381")
+	)
+	(wire
+		(pts
+			(xy 318.77 147.32) (xy 312.42 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71aeabbe-b9c9-40e8-8935-20a533998922")
+	)
+	(wire
+		(pts
+			(xy 210.82 88.9) (xy 218.44 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "76d221b1-8c56-45e8-954b-4b0fc737c03a")
+	)
+	(wire
+		(pts
+			(xy 139.7 152.4) (xy 134.62 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7814b648-14c5-499b-b3de-4a71ab48118a")
+	)
+	(wire
+		(pts
+			(xy 312.42 86.36) (xy 319.112 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "78367614-8fb3-4a0f-886d-7283da29ae90")
+	)
+	(wire
+		(pts
+			(xy 312.42 91.44) (xy 319.112 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7e9bac49-142e-4155-8560-80a7c999ad9e")
+	)
+	(wire
+		(pts
+			(xy 215.9 48.26) (xy 210.82 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8011e93e-0f69-4585-910b-3950e4866072")
+	)
+	(wire
+		(pts
+			(xy 215.9 48.26) (xy 215.9 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "805662c4-da28-4fba-9367-42738717be04")
+	)
+	(wire
+		(pts
+			(xy 218.44 129.54) (xy 210.82 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8229d6bc-90cf-49c5-834e-ffea72fe193c")
+	)
+	(wire
+		(pts
+			(xy 210.82 160.02) (xy 217.512 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "912155e7-cacb-4df9-bd4d-a0fe70e27e4b")
+	)
+	(wire
+		(pts
+			(xy 318.77 111.76) (xy 312.42 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9601ccaa-79cb-4454-8af0-d7f7d3ea22bf")
+	)
+	(wire
+		(pts
+			(xy 312.42 35.56) (xy 320.04 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "971e8335-6a30-42cf-b74f-14401f6c5501")
+	)
+	(wire
+		(pts
+			(xy 210.82 154.94) (xy 215.9 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "978242f4-cf01-415c-a627-8a3b2e15bffd")
+	)
+	(wire
+		(pts
+			(xy 63.5 185.42) (xy 55.88 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9b944065-bffb-406e-9c8b-a0068178d57f")
+	)
+	(wire
+		(pts
+			(xy 58.42 83.82) (xy 55.88 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a04ebad7-f545-4609-bd50-766b5fdae248")
+	)
+	(wire
+		(pts
+			(xy 220.98 152.4) (xy 215.9 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a0bbc72b-c092-4bcb-a4ca-031fe179adaa")
+	)
+	(wire
+		(pts
+			(xy 63.503 114.3) (xy 55.88 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a654220a-2048-42b1-8181-98f75fa6de13")
+	)
+	(wire
+		(pts
+			(xy 63.5 53.34) (xy 55.88 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a66d65e6-c0cd-4d30-8259-480b2f18f697")
+	)
+	(wire
+		(pts
+			(xy 312.42 50.8) (xy 320.04 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a7e4c9ee-2629-4916-b6dd-78bcd0342792")
+	)
+	(wire
+		(pts
+			(xy 223.52 43.18) (xy 223.52 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a8cce543-22d8-41b5-bbec-b6e6c7c24887")
+	)
+	(wire
+		(pts
+			(xy 139.7 81.28) (xy 134.62 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aa7d439e-a3a9-4363-b028-05bf48dfb7bd")
+	)
+	(wire
+		(pts
+			(xy 55.88 154.94) (xy 63.503 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ac466d52-523d-48c1-97c8-0ea0e6126650")
+	)
+	(wire
+		(pts
+			(xy 226.06 43.18) (xy 223.52 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ace7c246-a904-4c45-b88a-1898e228da28")
+	)
+	(wire
+		(pts
+			(xy 139.7 111.76) (xy 134.62 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ad0cf126-2124-42cf-8688-a6b9225cd86b")
+	)
+	(wire
+		(pts
+			(xy 58.42 78.74) (xy 58.42 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bd57270d-6a49-4fcc-805e-bfd59284de13")
+	)
+	(wire
+		(pts
+			(xy 139.7 76.2) (xy 134.62 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c59ef3e2-1745-48b9-b8c5-e02d54f83aec")
+	)
+	(wire
+		(pts
+			(xy 134.62 35.56) (xy 139.815 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c6cf1643-7940-4664-8273-8ff5baf3da25")
+	)
+	(wire
+		(pts
+			(xy 215.9 154.94) (xy 215.9 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c7df8bbd-9740-4f09-919c-f861cca34023")
+	)
+	(wire
+		(pts
+			(xy 134.62 71.12) (xy 137.16 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c87595b7-22a7-4a84-b340-b0f83701c71c")
+	)
+	(wire
+		(pts
+			(xy 210.82 190.5) (xy 218.44 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c9bf38a6-61a7-460e-8c52-0303f8dd536e")
+	)
+	(wire
+		(pts
+			(xy 218.44 124.46) (xy 210.82 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cb91435f-2492-4fe9-b146-4faf9132b24d")
+	)
+	(wire
+		(pts
+			(xy 210.82 185.42) (xy 218.44 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d47ecdc7-cf30-4ae2-b1c4-1530c506704a")
+	)
+	(wire
+		(pts
+			(xy 134.62 86.36) (xy 139.7 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dbdcc3f1-8742-4307-a2a6-f38a4c586cea")
+	)
+	(wire
+		(pts
+			(xy 63.5 48.26) (xy 55.88 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e96a728d-18f5-4b1c-92df-71df0334cd5f")
+	)
+	(wire
+		(pts
+			(xy 139.7 106.68) (xy 134.62 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e986c385-ebce-4f95-bb24-61fd1cfaf9ed")
+	)
+	(wire
+		(pts
+			(xy 218.44 134.62) (xy 210.82 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e9c0f32f-b3c7-40ba-8b77-adde613a6d55")
+	)
+	(wire
+		(pts
+			(xy 55.88 73.66) (xy 63.503 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ee973139-5cc1-4717-9f9b-88cfffe8c6ae")
+	)
+	(wire
+		(pts
+			(xy 223.52 43.18) (xy 210.82 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f48c135a-0902-43eb-89dd-6a4fe7505d91")
+	)
+	(wire
+		(pts
+			(xy 58.42 81.28) (xy 58.42 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f5bcd33b-8b95-41cc-ab2c-74c0096b4372")
+	)
+	(wire
+		(pts
+			(xy 63.5 81.28) (xy 58.42 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff59849d-52bf-4e8b-beb1-9792691858b9")
+	)
+	(hierarchical_label "IAT"
+		(shape input)
+		(at 318.77 147.32 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "002915da-7a8c-42d5-9bc9-3f88438ed357")
+	)
+	(hierarchical_label "ECU_ETH_RX-"
+		(shape bidirectional)
+		(at 320.04 35.56 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1599914a-ad6e-444c-aba5-874e12589dbd")
+	)
+	(hierarchical_label "ECU_ETH_RX+"
+		(shape bidirectional)
+		(at 320.04 40.64 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1d80ad82-7c22-4d56-8b7b-a02874ea5d3a")
+	)
+	(hierarchical_label "CRANK"
+		(shape input)
+		(at 325.548 162.56 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "204fd1f8-13dc-43e0-8cb7-47cde2d8dae3")
+	)
+	(hierarchical_label "KNOCK_SIGR"
+		(shape input)
+		(at 63.5 139.7 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2dd4d6d7-06af-4f39-a5ae-ec9758dbbefd")
+	)
+	(hierarchical_label "ECU_ETH_TX+"
+		(shape bidirectional)
+		(at 320.04 50.8 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3642046a-76d6-4665-848d-82453146af06")
+	)
+	(hierarchical_label "RRWS"
+		(shape input)
+		(at 318.77 121.92 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3921bbd1-1047-4ea1-bc45-8bffd0e7d204")
+	)
+	(hierarchical_label "ECU_12V"
+		(shape input)
+		(at 318.77 106.68 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3c8a4d2d-f7b9-4e68-88f9-56751ac4b04a")
+	)
+	(hierarchical_label "CAN_LO"
+		(shape bidirectional)
+		(at 317.5 76.2 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4a5e3fd3-f781-4761-aef9-7634ff90e18c")
+	)
+	(hierarchical_label "ECU_ETH_TX-"
+		(shape bidirectional)
+		(at 320.04 45.72 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5de29c77-a506-4920-a21f-dca27cc18bd4")
+	)
+	(hierarchical_label "INJ_LS1"
+		(shape passive)
+		(at 218.44 88.9 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6031c93f-4500-4ad1-a5e0-d2e4374247d7")
+	)
+	(hierarchical_label "ECU_5V_B2"
+		(shape output)
+		(at 63.5 109.22 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "62b656fd-80fa-4f6a-b61f-327235b9ac6d")
+	)
+	(hierarchical_label "CT"
+		(shape input)
+		(at 318.77 152.4 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "64435f61-7ec6-4be0-8853-09e3ef886c51")
+	)
+	(hierarchical_label "ECU_0V_B2"
+		(shape output)
+		(at 63.5 38.1 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "68812486-4f8a-4d9c-84b9-1c30f13725f2")
+	)
+	(hierarchical_label "KNOCK_SIGL"
+		(shape input)
+		(at 63.5 134.62 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "68dbe55d-1dd5-4776-94da-869884092097")
+	)
+	(hierarchical_label "ECU_0V_CRITICAL_C"
+		(shape output)
+		(at 63.503 73.66 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6993c29f-0836-4ee4-a0c1-fbf252882004")
+	)
+	(hierarchical_label "CLUTCH_PWM"
+		(shape output)
+		(at 218.44 48.26 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6d307861-4ee9-4667-a46a-0a9c7fa43180")
+	)
+	(hierarchical_label "CAN_HI_2"
+		(shape bidirectional)
+		(at 63.5 53.34 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6e181389-1aa4-4add-9978-0951f1d2f7ad")
+	)
+	(hierarchical_label "FRWS"
+		(shape input)
+		(at 318.77 116.84 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6e750348-39cb-41d5-aacd-981fbbf27b9d")
+	)
+	(hierarchical_label "RLWS"
+		(shape input)
+		(at 318.77 127 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "73e52a81-0c42-406c-8546-5062ba3bd4a3")
+	)
+	(hierarchical_label "TB_HB_1"
+		(shape output)
+		(at 218.44 200.66 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "75ed294b-320c-48ca-8416-0e838f5adb83")
+	)
+	(hierarchical_label "DRIVER_SW_L"
+		(shape input)
+		(at 139.7 81.28 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "796637f9-b88b-492a-af98-496784912312")
+	)
+	(hierarchical_label "ECU_0V_C2"
+		(shape output)
+		(at 63.5 68.58 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7af0dbf8-49ea-4853-9533-84fe21196462")
+	)
+	(hierarchical_label "DRIVER_SW_R"
+		(shape input)
+		(at 139.7 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "839c4ffa-1f1a-4537-9678-4372532e54f8")
+	)
+	(hierarchical_label "CAN_LO_2"
+		(shape bidirectional)
+		(at 63.5 48.26 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8646c49c-1538-4ae5-8082-614e0ef35f30")
+	)
+	(hierarchical_label "OIL_P_SIG"
+		(shape input)
+		(at 218.44 124.46 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "879c45c5-f35a-4505-8165-490e48b2119e")
+	)
+	(hierarchical_label "ECU_5V_B"
+		(shape output)
+		(at 217.512 160.02 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8d1a99c7-4bea-41fb-8834-c43b329fd71e")
+	)
+	(hierarchical_label "ECU_5V_A"
+		(shape output)
+		(at 218.555 195.58 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8f8d4743-7b8b-4141-8c01-4cb65ad66bb8")
+	)
+	(hierarchical_label "SHIFT_BOTTOM_PWM"
+		(shape output)
+		(at 233.68 38.1 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "91d7c54c-1afe-4af7-9d0b-5785d6d96350")
+	)
+	(hierarchical_label "SHIFT_TOP_PWM"
+		(shape output)
+		(at 226.06 43.18 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "92245b31-a040-4933-9972-db41bfcff475")
+	)
+	(hierarchical_label "IGN_LS1"
+		(shape passive)
+		(at 218.44 190.5 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "95d34812-b4dd-42d3-8eaf-0623773f5c9c")
+	)
+	(hierarchical_label "ECU_5V_C2"
+		(shape output)
+		(at 63.503 114.3 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "979aa3c4-5831-4fca-bbfd-b92daf29e13c")
+	)
+	(hierarchical_label "TPS_2"
+		(shape input)
+		(at 63.5 185.42 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9e0c00f2-1523-4726-a987-f3626d405dc9")
+	)
+	(hierarchical_label "MAP"
+		(shape input)
+		(at 218.44 129.54 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9eefa203-ca99-418a-8ee2-00b62c011297")
+	)
+	(hierarchical_label "INJ_LS2"
+		(shape passive)
+		(at 218.44 83.82 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a3947d5e-df76-48b7-9c54-ccc8024b59ea")
+	)
+	(hierarchical_label "ECU_0V_A"
+		(shape output)
+		(at 319.112 91.44 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a5b2fb5e-0f62-43a6-ba93-af26b163e6de")
+	)
+	(hierarchical_label "ECU_12V"
+		(shape input)
+		(at 218.44 73.66 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a73ecba5-c0b7-4f57-8765-4caa9622f606")
+	)
+	(hierarchical_label "ECU_0V_B"
+		(shape output)
+		(at 319.112 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a9691815-9e0e-41e1-969d-c5b0805129fe")
+	)
+	(hierarchical_label "SHIFT_SENSE"
+		(shape input)
+		(at 139.7 147.32 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a9ac9e80-a2a7-4d65-99c2-35e5861d8043")
+	)
+	(hierarchical_label "TPS_1"
+		(shape input)
+		(at 63.5 180.34 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b3c2eaf5-d63e-47b5-818b-a4182dd8aa88")
+	)
+	(hierarchical_label "EGTL"
+		(shape passive)
+		(at 139.7 111.76 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b5e81c19-a4a9-412b-827c-da086a0ada5f")
+	)
+	(hierarchical_label "ECU_0V_A2"
+		(shape output)
+		(at 63.5 33.02 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b8864bd7-b726-4b54-a17f-fe176dc54ada")
+	)
+	(hierarchical_label "EX_P_SIG"
+		(shape passive)
+		(at 139.7 106.68 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "bf3a8ee6-167d-4e7a-aba1-6c83cb881232")
+	)
+	(hierarchical_label "FPS"
+		(shape input)
+		(at 218.44 134.62 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "bfb825c3-5168-4323-813d-b65b99d1e2f0")
+	)
+	(hierarchical_label "OT"
+		(shape input)
+		(at 318.77 142.24 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c28e0cde-2d6a-40a0-ab09-4c692edfc9b1")
+	)
+	(hierarchical_label "CAN_HI"
+		(shape bidirectional)
+		(at 317.5 81.28 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c3d4398b-6117-4fa6-b3bf-090bae3195bd")
+	)
+	(hierarchical_label "IGN_LS2"
+		(shape passive)
+		(at 218.44 185.42 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c66f9a6f-b971-4279-919f-b576bffb8267")
+	)
+	(hierarchical_label "APS-T"
+		(shape output)
+		(at 139.7 76.2 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ca37b941-7142-448b-8239-798833b9cbca")
+	)
+	(hierarchical_label "EGTR"
+		(shape passive)
+		(at 139.7 116.84 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d704192d-a4a7-4631-af9c-980680bbad44")
+	)
+	(hierarchical_label "ECU_5V_A2"
+		(shape output)
+		(at 139.815 35.56 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d75c8f06-b330-42e4-80bb-698badcbdefc")
+	)
+	(hierarchical_label "CAM"
+		(shape input)
+		(at 139.7 137.16 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d86ec492-aff4-42af-acd8-7fdc00069eb9")
+	)
+	(hierarchical_label "ECU_5V_CRITICAL_C"
+		(shape output)
+		(at 63.503 154.94 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d986de33-8d1a-45ac-9f7f-8bb8848a15b5")
+	)
+	(hierarchical_label "APS-M"
+		(shape output)
+		(at 63.5 190.5 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "db72adb5-b1ad-4e74-b567-70401e4f0259")
+	)
+	(hierarchical_label "FLWS"
+		(shape input)
+		(at 318.77 111.76 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e0f305bc-f428-43ae-9b8c-8a5dd57a6632")
+	)
+	(hierarchical_label "BSPD_SAFE_SIG"
+		(shape input)
+		(at 139.7 152.4 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e1a59653-0850-40dd-b25a-dfee28ad83c8")
+	)
+	(hierarchical_label "RBP"
+		(shape output)
+		(at 218.44 119.38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e5c1cb2d-3c23-4596-ba63-5d8947ae5c0a")
+	)
+	(hierarchical_label "TB_HB_2"
+		(shape output)
+		(at 218.44 114.3 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f5612214-83fc-4723-91bf-01f70cb251f9")
+	)
+	(hierarchical_label "ECU_12V"
+		(shape input)
+		(at 139.7 101.6 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "fa4b1ad6-5346-4b70-b55a-4e71a36848dc")
+	)
+	(symbol
+		(lib_id "Duke Motorsports:root_0_MoTec M150 Connector A-Symbol-1_Duke Motorsports")
+		(at 95.25 71.12 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "1b28b5d3-6a62-4ba5-86ab-26047059ee9e")
+		(property "Reference" "B1"
+			(at 97.79 30.48 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Value" "M150-B - MoTeC"
+			(at 97.79 167.64 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 95.25 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 95.25 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "26 Pin Connector for M150-B"
+			(at 95.25 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ROHS COMPLIANT" ""
+			(at 93.98 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "PINS" ""
+			(at 93.98 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "MIN OPERATING TEMPERATURE" ""
+			(at 93.98 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "GENDER" ""
+			(at 93.98 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "VOLTAGE RATING" ""
+			(at 93.98 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "MAX OPERATING TEMPERATURE" ""
+			(at 93.98 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "MAX CURRENT RATING" ""
+			(at 93.98 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "CASE/PACKAGE" ""
+			(at 93.98 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "MOUNTING TECHNOLOGY" ""
+			(at 93.98 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "CONNECTOR TYPE" ""
+			(at 93.98 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(pin "OUT_HB9"
+			(uuid "80b21b65-7ee3-475e-812d-0590edaca416")
+		)
+		(pin "OUT_HB10"
+			(uuid "7892941b-2dd5-4f45-a454-abaab56622c9")
+		)
+		(pin "UDIG8"
+			(uuid "262a67c8-6211-414e-af24-cf35efa570dd")
+		)
+		(pin "UDIG9"
+			(uuid "0da9eed7-9ca7-44b8-b395-27c9fd63b338")
+		)
+		(pin "UDIG10"
+			(uuid "202cd870-1377-4bdc-8a02-d8a77b5dc78b")
+		)
+		(pin "UDIG11"
+			(uuid "bb68c7c9-c4bc-4566-b337-991fbe8e9e9e")
+		)
+		(pin "UDIG12"
+			(uuid "b2be3902-d95d-4470-85d9-50f5ce5b34b5")
+		)
+		(pin "INJ_LS5"
+			(uuid "f9b1e700-73cb-45d2-842f-db7d3095d52a")
+		)
+		(pin "INJ_LS3"
+			(uuid "f5f7ea09-81fc-4551-a2da-da2f3995e63c")
+		)
+		(pin "AV9"
+			(uuid "0209de1f-c19e-474c-9651-0131cd55df19")
+		)
+		(pin "AV10"
+			(uuid "ad1e81ce-7f72-47d8-a5f0-37ecfd7407cd")
+		)
+		(pin "AV11"
+			(uuid "b73b2d3a-6053-4331-9165-c7d488faf887")
+		)
+		(pin "BAT_POS"
+			(uuid "590f4faf-9c05-4f6d-b5dc-15e2731dc783")
+		)
+		(pin "INJ_LS6"
+			(uuid "56fc64d6-67af-40c4-830e-e6806862aef3")
+		)
+		(pin "INJ_LS4"
+			(uuid "b1818fb2-48bb-4d8b-9bfc-a4bfff24e8af")
+		)
+		(pin "AV12"
+			(uuid "7f26ab95-8235-4c4b-8908-a17bcf3bf5e2")
+		)
+		(pin "AV13"
+			(uuid "3731dd74-99c9-4185-be85-cc5476f3020c")
+		)
+		(pin "AV14"
+			(uuid "fa9cd53e-5657-40a5-94fa-59567aa8803c")
+		)
+		(pin "BAT_POS"
+			(uuid "5c8d04de-c19a-4aba-8e93-d3cd4c511661")
+		)
+		(pin "OUT_HB7"
+			(uuid "92874bef-e381-4a6b-886e-c5e9dfeace54")
+		)
+		(pin "OUT_HB8"
+			(uuid "6052789a-8fd1-4196-8761-ea55fdac7cb2")
+		)
+		(pin "INJ_PH9"
+			(uuid "d93d24ed-4acb-4439-a46c-249202ee1466")
+		)
+		(pin "INJ_PH10"
+			(uuid "2673a787-97f1-4713-bdc9-259833db2d7b")
+		)
+		(pin "INJ_PH11"
+			(uuid "ce50d4d3-f1e8-4d85-8a9c-dfa312ab3bdd")
+		)
+		(pin "INK_PH12"
+			(uuid "8e582a29-d5f8-4c4c-83f5-6e8cce6ec559")
+		)
+		(pin "5V_-_OUT_A"
+			(uuid "976fa888-a8bc-4b46-8b37-1e9f410e7659")
+		)
+		(instances
+			(project "Car Harness 2026_KiCad"
+				(path "/5dbc07ba-3bc7-4ac7-a248-7c4937eb7523/14a27544-892c-405d-a2d9-61a7cb7a920b"
+					(reference "B1")
+					(unit 1)
+				)
+			)
+			(project "Car Harness 2026_KiCad"
+				(path "/d13c5794-76eb-4519-a9ce-490cd47a1530"
+					(reference "B1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Duke Motorsports:root_1_RES-2_Duke Motorsports_0")
+		(at 223.52 30.48 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "406fc05d-e0bc-4ba8-8755-8b025378c4dd")
+		(property "Reference" "R2"
+			(at 224.536 22.606 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Value" "Resistor 120R +/-5 % 0603 0.1 W"
+			(at 222.504 17.272 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Footprint" "RESC0603(1608)_L"
+			(at 223.52 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 223.52 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Chip Resistor, 120 Ohms, +/-5 %, 0.1 W, -55 to 155 degC, 0603"
+			(at 223.52 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "POWER" "100mW"
+			(at 222.504 17.272 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "MOUNTING TECHNOLOGY" ""
+			(at 222.504 17.272 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "MAX OPERATING TEMPERATURE" "155°C"
+			(at 222.504 17.272 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "PINS" "2"
+			(at 222.504 17.272 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "ALTIUM_VALUE" "120"
+			(at 224.536 25.146 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "ROHS COMPLIANT" ""
+			(at 222.504 17.272 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "TOLERANCE" "5%"
+			(at 222.504 17.272 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "CASE/PACKAGE" "0603"
+			(at 222.504 17.272 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "MIN OPERATING TEMPERATURE" "-55°C"
+			(at 222.504 17.272 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "VOLTAGE RATING" ""
+			(at 222.504 17.272 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(pin "2"
+			(uuid "2d72f1fc-aafd-45eb-856e-7c1903571efd")
+		)
+		(pin "1"
+			(uuid "3c6c55d8-7956-485f-abf3-77e7236323b3")
+		)
+		(instances
+			(project "Car Harness 2026_KiCad"
+				(path "/5dbc07ba-3bc7-4ac7-a248-7c4937eb7523/14a27544-892c-405d-a2d9-61a7cb7a920b"
+					(reference "R2")
+					(unit 1)
+				)
+			)
+			(project "Car Harness 2026_KiCad"
+				(path "/d13c5794-76eb-4519-a9ce-490cd47a1530"
+					(reference "R2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Car Harness 2026_KiCad-altium-import:GND_POWER_GROUND")
+		(at 215.9 17.78 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "4eaaa1f8-bb71-4774-a1d0-ae884d9ce592")
+		(property "Reference" "#PWR?"
+			(at 215.9 17.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 215.9 11.43 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 215.9 17.78 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 215.9 17.78 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 215.9 17.78 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "06c90d55-d8a9-46af-a198-36d710975b0f")
+		)
+		(instances
+			(project "Car Harness 2026_KiCad"
+				(path "/5dbc07ba-3bc7-4ac7-a248-7c4937eb7523/14a27544-892c-405d-a2d9-61a7cb7a920b"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+			(project "Car Harness 2026_KiCad"
+				(path "/d13c5794-76eb-4519-a9ce-490cd47a1530"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Car Harness 2026_KiCad-altium-import:GND_POWER_GROUND")
+		(at 231.14 17.78 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "731e3442-9c76-42a5-a0e6-dc3cfb278224")
+		(property "Reference" "#PWR?"
+			(at 231.14 17.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 231.14 11.43 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 231.14 17.78 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 231.14 17.78 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 231.14 17.78 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "7af9bdd0-32ba-4dc2-9f31-18ab8f34c35d")
+		)
+		(instances
+			(project "Car Harness 2026_KiCad"
+				(path "/5dbc07ba-3bc7-4ac7-a248-7c4937eb7523/14a27544-892c-405d-a2d9-61a7cb7a920b"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+			(project "Car Harness 2026_KiCad"
+				(path "/d13c5794-76eb-4519-a9ce-490cd47a1530"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Duke Motorsports:root_0_MoTeC M150-C / M130-A - Symbol-1_Duke Motorsports")
+		(at 171.45 109.22 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "74ebd112-86c7-43a1-8942-6455fda578e4")
+		(property "Reference" "C1"
+			(at 173.99 26.67 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Value" "M150-C / M130-A - MoTeC"
+			(at 173.99 205.74 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 171.45 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 171.45 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "34 Pin Connector for M150-C and M130-A"
+			(at 171.45 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MAX OPERATING TEMPERATURE" ""
+			(at 170.18 26.67 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "MOUNTING TECHNOLOGY" ""
+			(at 170.18 26.67 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "MAX CURRENT RATING" ""
+			(at 170.18 26.67 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "ROHS COMPLIANT" ""
+			(at 170.18 26.67 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "PINS" ""
+			(at 170.18 26.67 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "GENDER" ""
+			(at 170.18 26.67 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "CASE/PACKAGE" ""
+			(at 170.18 26.67 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "VOLTAGE RATING" ""
+			(at 170.18 26.67 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "MIN OPERATING TEMPERATURE" ""
+			(at 170.18 26.67 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "CONNECTOR TYPE" ""
+			(at 170.18 26.67 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(pin "IGN_LS6"
+			(uuid "b07eb735-c78d-4c04-806d-a10fc5cda766")
+		)
+		(pin "5V_-_OUT_B"
+			(uuid "ffb90b2e-fe71-4a65-bcb2-450474958a7b")
+		)
+		(pin "BAT_NEG1"
+			(uuid "45db5764-f676-4fc9-ae6c-a25c8fd08b0b")
+		)
+		(pin "IGN_LS5"
+			(uuid "3ff14656-32a7-4258-8059-7012785a2283")
+		)
+		(pin "IGN_LS7"
+			(uuid "8b86ac78-4f5f-4782-83d8-ff40a9548a7f")
+		)
+		(pin "BAT_NEG2"
+			(uuid "e6e618c6-9943-41ed-9d26-25ee966cd056")
+		)
+		(pin "OUT_HB2"
+			(uuid "80561533-33e2-41ee-8f58-e6695a681839")
+		)
+		(pin "5V_-_OUT_A"
+			(uuid "a8253785-027f-424e-bd3a-26ce7aaf3203")
+		)
+		(pin "IGN-LS1"
+			(uuid "f0d15ee9-a06a-4213-8669-185de982d1f8")
+		)
+		(pin "IGN_LS4"
+			(uuid "3426a324-c57d-4f70-8fe4-54e54c792666")
+		)
+		(pin "IGN_LS3"
+			(uuid "86dc9ddc-f7fc-43bf-a027-8707668a2a78")
+		)
+		(pin "IGN_LS2"
+			(uuid "2aea7755-f045-4131-825a-74d18a67bce7")
+		)
+		(pin "IGN_LS8"
+			(uuid "1a2b2c55-a63f-4a38-81ef-ec2d3bb50c34")
+		)
+		(pin "AV1"
+			(uuid "08cba471-866d-4f18-b916-75dd833d76f6")
+		)
+		(pin "AV2"
+			(uuid "a8fa4c59-91bd-4d9a-8b3e-d02b8d451fc4")
+		)
+		(pin "AV3"
+			(uuid "f7c9c05b-db48-4af0-ad95-6b75cd6f9777")
+		)
+		(pin "AV4"
+			(uuid "2f20bf43-01cb-4925-b3ac-a4de3daafa7f")
+		)
+		(pin "OUT_HB1"
+			(uuid "1f8294ea-9114-464f-8bcc-10c791832b33")
+		)
+		(pin "INJ_PH1"
+			(uuid "546575f6-b695-4593-b596-00e748d5d1d5")
+		)
+		(pin "INJ_PH2"
+			(uuid "3e11b675-d743-4e72-99e4-0fcf148a4d3b")
+		)
+		(pin "INJ_PH3"
+			(uuid "5a4b10e5-9a42-4667-8752-c3d076776779")
+		)
+		(pin "INJ_PH4"
+			(uuid "0f4fd92d-69e1-4a0a-b0fe-ef4ecb0898d2")
+		)
+		(pin "INJ_LS1"
+			(uuid "e4299bd9-2b89-46bf-8d33-7184cf292b1e")
+		)
+		(pin "INJ_LS2"
+			(uuid "3256f90a-a28a-40ba-956b-6673f144754e")
+		)
+		(pin "AV5"
+			(uuid "6e421093-ceb3-4ede-b97e-0151fc41ed7f")
+		)
+		(pin "BAT_POS"
+			(uuid "b1103163-16d3-4860-aa4a-a119f350d4ea")
+		)
+		(pin "INJ_PH5"
+			(uuid "0abddfe8-f40e-4a99-b638-a79236d9cc03")
+		)
+		(pin "INJ_PH6"
+			(uuid "f42cfad7-58f9-44c7-bf35-3cc606bb53e9")
+		)
+		(pin "INJ_PH7"
+			(uuid "daa20eb7-23c7-4dd3-a4fb-3dc859c48435")
+		)
+		(pin "INJ_PH8"
+			(uuid "6bdc774f-02fa-4b6b-a87c-5a4f8263e5c4")
+		)
+		(pin "OUT_HB3"
+			(uuid "7a84481e-3136-485a-841c-ac993f288f6d")
+		)
+		(pin "OUT_HB4"
+			(uuid "8cb0fb23-2ea3-4c66-a38f-4971d43ce48b")
+		)
+		(pin "OUT_HB5"
+			(uuid "9c66f463-7922-4ca6-b02a-e70d80c117c3")
+		)
+		(pin "OUT_HB6"
+			(uuid "6eb5e657-24b9-4603-a219-4eca3fa87220")
+		)
+		(instances
+			(project "Car Harness 2026_KiCad"
+				(path "/5dbc07ba-3bc7-4ac7-a248-7c4937eb7523/14a27544-892c-405d-a2d9-61a7cb7a920b"
+					(reference "C1")
+					(unit 1)
+				)
+			)
+			(project "Car Harness 2026_KiCad"
+				(path "/d13c5794-76eb-4519-a9ce-490cd47a1530"
+					(reference "C2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Duke Motorsports:root_0_MoTec M150-D / M130-B-Symbol-1_Duke Motorsports")
+		(at 273.05 71.12 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "7f2611ca-fa4e-4319-b371-083cb0fae6b9")
+		(property "Reference" "D1"
+			(at 275.59 26.67 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Value" "M150-D / M130-B - MoTeC"
+			(at 275.59 167.64 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 273.05 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 273.05 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "26 Pin Connector for M150-D and M130-B"
+			(at 273.05 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "GENDER" ""
+			(at 271.78 26.67 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "MOUNTING TECHNOLOGY" ""
+			(at 271.78 26.67 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "CASE/PACKAGE" ""
+			(at 271.78 26.67 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "PINS" ""
+			(at 271.78 26.67 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "MIN OPERATING TEMPERATURE" ""
+			(at 271.78 26.67 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "MAX CURRENT RATING" ""
+			(at 271.78 26.67 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "MAX OPERATING TEMPERATURE" ""
+			(at 271.78 26.67 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "VOLTAGE RATING" ""
+			(at 271.78 26.67 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "ROHS COMPLIANT" ""
+			(at 271.78 26.67 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "CONNECTOR TYPE" ""
+			(at 271.78 26.67 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(pin "UDIG1"
+			(uuid "bfa4434a-908a-4b46-a3c2-17f230f71f20")
+		)
+		(pin "UDIG2"
+			(uuid "dba64a61-ff81-4c44-a4cb-6f94522189f4")
+		)
+		(pin "AT1"
+			(uuid "0fb33b8a-82a5-46b8-b7d7-1bc80b85e408")
+		)
+		(pin "AT2"
+			(uuid "2d216abc-6a3f-41e2-8410-cdafb3d96188")
+		)
+		(pin "AT3"
+			(uuid "896d15ad-94c2-475f-91d1-885bddaa7b2e")
+		)
+		(pin "AT4"
+			(uuid "774372a0-46d7-420a-b87b-c7fc9a85e8c7")
+		)
+		(pin "KNOCK_1"
+			(uuid "e0587c39-3899-45b1-9cbb-e190d9540bdf")
+		)
+		(pin "UDIG3"
+			(uuid "bdd45ddf-c7fe-48dd-a808-4d3cb368586a")
+		)
+		(pin "UDIG4"
+			(uuid "e5ebea43-2e01-45b4-979c-74a5153a7bfd")
+		)
+		(pin "UDIG5"
+			(uuid "eded62ea-1780-4090-b910-28c1913470fc")
+		)
+		(pin "UDIG6"
+			(uuid "7827e9eb-b781-44c9-b7db-8e8e42bd8474")
+		)
+		(pin "BAT_BAK"
+			(uuid "a1bb1ed4-5b9a-4e4e-b9a7-ba2b1970cef2")
+		)
+		(pin "KNOCK2"
+			(uuid "08fbc8cf-8784-4361-ae30-ac46b7030bb2")
+		)
+		(pin "UDIG7"
+			(uuid "22a04d7f-cb37-4002-b00e-73855b086bb2")
+		)
+		(pin "0V_-_OUT_A"
+			(uuid "b8ebbb8c-55ad-4d03-97fe-8599654c3e06")
+		)
+		(pin "0V_-_OUT_B"
+			(uuid "5b38e1e3-6726-4090-9825-8f7df4c1f0fc")
+		)
+		(pin "CAN1-HI"
+			(uuid "a4e4e7fb-321d-485a-b4f8-a48dbf61dbc7")
+		)
+		(pin "CAN1-LO"
+			(uuid "2c9be208-d38b-4d90-a63a-1253c1ced6fb")
+		)
+		(pin "6.3V_-_OUT"
+			(uuid "7480090b-6c67-4ec9-9de3-ffa70440e725")
+		)
+		(pin "AV6"
+			(uuid "ca9e97dd-7b66-41e5-bafe-a0489f95dd3d")
+		)
+		(pin "AV7"
+			(uuid "a89e7612-c7f3-4792-abae-e04b3bf94e02")
+		)
+		(pin "AV8"
+			(uuid "7be213bf-e36d-4f20-a9fc-0ebb57f83631")
+		)
+		(pin "ETH_TX+"
+			(uuid "4b964edd-7267-48ed-b8ab-913cac295723")
+		)
+		(pin "ETH_TX-"
+			(uuid "e0f5e0fe-6862-4c45-9e18-df368683e1bf")
+		)
+		(pin "ETH_RX+"
+			(uuid "41d7f291-e3ef-43a6-851f-cfc7402e0b74")
+		)
+		(pin "ETH_RX-"
+			(uuid "d5e8f9d0-181f-473d-a0cb-0c24f18fc208")
+		)
+		(instances
+			(project "Car Harness 2026_KiCad"
+				(path "/5dbc07ba-3bc7-4ac7-a248-7c4937eb7523/14a27544-892c-405d-a2d9-61a7cb7a920b"
+					(reference "D1")
+					(unit 1)
+				)
+			)
+			(project "Car Harness 2026_KiCad"
+				(path "/d13c5794-76eb-4519-a9ce-490cd47a1530"
+					(reference "D1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Duke Motorsports:root_1_RES-2_Duke Motorsports_0")
+		(at 215.9 30.48 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "a424fbd0-a407-4c98-8774-9fc83563a61c")
+		(property "Reference" "R1"
+			(at 216.916 22.606 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Value" "Resistor 120R +/-5 % 0603 0.1 W"
+			(at 214.884 17.272 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Footprint" "RESC0603(1608)_L"
+			(at 215.9 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 215.9 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Chip Resistor, 120 Ohms, +/-5 %, 0.1 W, -55 to 155 degC, 0603"
+			(at 215.9 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "POWER" "100mW"
+			(at 214.884 17.272 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "MOUNTING TECHNOLOGY" ""
+			(at 214.884 17.272 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "MAX OPERATING TEMPERATURE" "155°C"
+			(at 214.884 17.272 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "PINS" "2"
+			(at 214.884 17.272 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "ALTIUM_VALUE" "120"
+			(at 216.916 25.146 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "ROHS COMPLIANT" ""
+			(at 214.884 17.272 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "TOLERANCE" "5%"
+			(at 214.884 17.272 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "CASE/PACKAGE" "0603"
+			(at 214.884 17.272 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "MIN OPERATING TEMPERATURE" "-55°C"
+			(at 214.884 17.272 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "VOLTAGE RATING" ""
+			(at 214.884 17.272 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(pin "2"
+			(uuid "35583909-5b73-4dde-a3f8-6f74ee8c8a9a")
+		)
+		(pin "1"
+			(uuid "4fc662ae-f3f2-4a6c-bda8-d9f65b69a22f")
+		)
+		(instances
+			(project "Car Harness 2026_KiCad"
+				(path "/5dbc07ba-3bc7-4ac7-a248-7c4937eb7523/14a27544-892c-405d-a2d9-61a7cb7a920b"
+					(reference "R1")
+					(unit 1)
+				)
+			)
+			(project "Car Harness 2026_KiCad"
+				(path "/d13c5794-76eb-4519-a9ce-490cd47a1530"
+					(reference "R1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "root_0_MoTeC M150-C / M130-A - Symbol-1_Duke Motorsports_1")
+		(lib_id "Duke Motorsports:root_0_MoTeC M150-C / M130-A - Symbol-1_Duke Motorsports")
+		(at 15.24 109.22 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "b72f5793-a127-4f54-a21c-17ece0629477")
+		(property "Reference" "A1"
+			(at 17.78 30.48 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Value" "M150-A - MoTeC"
+			(at 17.78 205.74 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 15.24 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 15.24 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "34 Pin Connector for M150-A"
+			(at 15.24 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MAX OPERATING TEMPERATURE" ""
+			(at 13.97 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "MIN OPERATING TEMPERATURE" ""
+			(at 13.97 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "CONNECTOR TYPE" ""
+			(at 13.97 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "PINS" ""
+			(at 13.97 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "GENDER" ""
+			(at 13.97 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "ROHS COMPLIANT" ""
+			(at 13.97 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "VOLTAGE RATING" ""
+			(at 13.97 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "MOUNTING TECHNOLOGY" ""
+			(at 13.97 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "MAX CURRENT RATING" ""
+			(at 13.97 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "CASE/PACKAGE" ""
+			(at 13.97 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(pin "0V_-_OUT_C2"
+			(uuid "5b0d4d8d-29e5-4e12-9022-aad74e00df27")
+		)
+		(pin "CAN3-HI"
+			(uuid "1236a39f-9559-4756-b212-e6f7fc5e4ef2")
+		)
+		(pin "CAN2-LOW"
+			(uuid "d364e41f-303b-4ba3-b6d5-05e157e1713d")
+		)
+		(pin "CAN3-LO"
+			(uuid "04d57da1-8a76-408b-85e8-9977b17444c9")
+		)
+		(pin "CAN2-HI"
+			(uuid "c1a1d73a-8b87-42c1-800b-6762f3e71f7f")
+		)
+		(pin "BAT_NEG5"
+			(uuid "4f24a07d-a164-4940-ab31-3865adaf17ae")
+		)
+		(pin "0V_-_OUT_B1"
+			(uuid "932e952f-76e6-4c8b-abc1-c758674180a8")
+		)
+		(pin "OV_-_OUT_A1"
+			(uuid "7d1a701e-6ec8-4929-8aed-6bb329a156da")
+		)
+		(pin "5V_-_OUT_C2"
+			(uuid "59e9109d-16d4-4572-b7ec-dd73aadc1d7c")
+		)
+		(pin "DIG4"
+			(uuid "8c391dbc-03c2-46da-8b0c-40fb6135080e")
+		)
+		(pin "DIG2"
+			(uuid "4b36426a-9351-4a33-93b5-92550ab66bff")
+		)
+		(pin "5V_-_OUT_B2"
+			(uuid "7192a5a7-054c-478e-acc1-a37ec08e8ba8")
+		)
+		(pin "DIG3"
+			(uuid "117779ef-09ba-43f9-84cd-c48f1d838c2d")
+		)
+		(pin "LIN_BUS"
+			(uuid "33ad6363-7ff4-4b6b-92d1-ed50cb00f9da")
+		)
+		(pin "RS232_RX"
+			(uuid "959d6d5b-904b-4455-a17e-dd0635783a2f")
+		)
+		(pin "RS232_TX"
+			(uuid "7eaa4e64-3e09-40cb-b446-e1ec774a7e24")
+		)
+		(pin "DIG1"
+			(uuid "4f33bb79-21a2-428a-8602-0520d54af5b3")
+		)
+		(pin "BAT_NEG3"
+			(uuid "6a900735-e3fe-47a4-8cdb-122238dcd105")
+		)
+		(pin "BAT_NEG4"
+			(uuid "46dc39cf-a668-4b4a-bc70-38e929cc1798")
+		)
+		(pin "0V_-_OUT_C1"
+			(uuid "9773f56d-c32e-4408-807d-8debb6bb8de0")
+		)
+		(pin "AV15"
+			(uuid "25f6579d-0a7b-4c41-b72d-53fc2297d044")
+		)
+		(pin "AT5"
+			(uuid "3f49d07a-bfcb-4fe6-8320-f14cbbb101d6")
+		)
+		(pin "AT6"
+			(uuid "94fd244a-20a9-46fa-9110-3774f990e918")
+		)
+		(pin "AV16"
+			(uuid "2d34129c-7892-44f2-9e09-d0860d77b4fd")
+		)
+		(pin "AV17"
+			(uuid "500069fc-f7bc-4a6f-afe7-7d96d1152cac")
+		)
+		(pin "IGN_LS9"
+			(uuid "9311134a-5e99-44ca-833d-6bd7cd7e2549")
+		)
+		(pin "IGN_LS10"
+			(uuid "33490c7f-b5d9-44f4-9cdb-8500bf14a341")
+		)
+		(pin "IGN_LS11"
+			(uuid "2276029d-b3b3-483e-b04d-7f2ecae7a34f")
+		)
+		(pin "IGN_LS12"
+			(uuid "0e6be97f-3707-4b9e-8018-7169ddc359c8")
+		)
+		(pin "5V_-_OUT_C1"
+			(uuid "0c7b4b86-6e78-473f-9c00-7141561fc21f")
+		)
+		(pin "LA_NB1"
+			(uuid "fabb8665-87e6-4da8-ac32-97a4d1bbebef")
+		)
+		(pin "LA_NB2"
+			(uuid "98485137-bf4c-4aa6-901d-fff685c4a2f1")
+		)
+		(pin "KNOCK_3"
+			(uuid "c64d1962-ccfb-44fa-93fb-c504cf3f0052")
+		)
+		(pin "KNOCK_4"
+			(uuid "33078039-ad63-4dc5-831b-71e5e6594957")
+		)
+		(instances
+			(project "Car Harness 2026_KiCad"
+				(path "/5dbc07ba-3bc7-4ac7-a248-7c4937eb7523/14a27544-892c-405d-a2d9-61a7cb7a920b"
+					(reference "A1")
+					(unit 1)
+				)
+			)
+			(project "Car Harness 2026_KiCad"
+				(path "/d13c5794-76eb-4519-a9ce-490cd47a1530"
+					(reference "A1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Car Harness 2026_KiCad-altium-import:GND_POWER_GROUND")
+		(at 220.98 152.4 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "bbc4a619-856a-43c8-b3dc-1994bf99dc6e")
+		(property "Reference" "#PWR?"
+			(at 220.98 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 227.33 152.4 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 220.98 152.4 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 220.98 152.4 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 220.98 152.4 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "032e8925-07a2-4a35-90ad-008d519282b6")
+		)
+		(instances
+			(project "Car Harness 2026_KiCad"
+				(path "/5dbc07ba-3bc7-4ac7-a248-7c4937eb7523/14a27544-892c-405d-a2d9-61a7cb7a920b"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+			(project "Car Harness 2026_KiCad"
+				(path "/d13c5794-76eb-4519-a9ce-490cd47a1530"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Car Harness 2026_KiCad-altium-import:GND_POWER_GROUND")
+		(at 223.52 17.78 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "c5f93bc8-b048-45da-86bc-b2726bfc86a5")
+		(property "Reference" "#PWR?"
+			(at 223.52 17.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 223.52 11.43 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 223.52 17.78 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 223.52 17.78 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 223.52 17.78 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "53045bdc-39ef-40ab-be24-c765f1bace45")
+		)
+		(instances
+			(project "Car Harness 2026_KiCad"
+				(path "/5dbc07ba-3bc7-4ac7-a248-7c4937eb7523/14a27544-892c-405d-a2d9-61a7cb7a920b"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+			(project "Car Harness 2026_KiCad"
+				(path "/d13c5794-76eb-4519-a9ce-490cd47a1530"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Car Harness 2026_KiCad-altium-import:GND_POWER_GROUND")
+		(at 63.5 81.28 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "d2b19da7-49a5-4ca2-a398-99a35c28b47c")
+		(property "Reference" "#PWR?"
+			(at 63.5 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 69.85 81.28 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 63.5 81.28 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 63.5 81.28 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 63.5 81.28 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "e22451d7-425f-4de3-bf91-3445473e3302")
+		)
+		(instances
+			(project "Car Harness 2026_KiCad"
+				(path "/5dbc07ba-3bc7-4ac7-a248-7c4937eb7523/14a27544-892c-405d-a2d9-61a7cb7a920b"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+			(project "Car Harness 2026_KiCad"
+				(path "/d13c5794-76eb-4519-a9ce-490cd47a1530"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Duke Motorsports:root_1_RES-2_Duke Motorsports_0")
+		(at 231.14 30.48 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "f0b9c84f-df0f-456e-b794-8dad2fa23224")
+		(property "Reference" "R3"
+			(at 232.156 22.606 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Value" "Resistor 120R +/-5 % 0603 0.1 W"
+			(at 230.124 17.272 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Footprint" "RESC0603(1608)_L"
+			(at 231.14 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 231.14 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Chip Resistor, 120 Ohms, +/-5 %, 0.1 W, -55 to 155 degC, 0603"
+			(at 231.14 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "POWER" "100mW"
+			(at 230.124 17.272 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "MOUNTING TECHNOLOGY" ""
+			(at 230.124 17.272 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "MAX OPERATING TEMPERATURE" "155°C"
+			(at 230.124 17.272 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "PINS" "2"
+			(at 230.124 17.272 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "ALTIUM_VALUE" "120"
+			(at 232.156 25.146 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "ROHS COMPLIANT" ""
+			(at 230.124 17.272 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "TOLERANCE" "5%"
+			(at 230.124 17.272 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "CASE/PACKAGE" "0603"
+			(at 230.124 17.272 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "MIN OPERATING TEMPERATURE" "-55°C"
+			(at 230.124 17.272 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "VOLTAGE RATING" ""
+			(at 230.124 17.272 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(pin "2"
+			(uuid "03111fc1-3058-4411-aabf-93ab1892831a")
+		)
+		(pin "1"
+			(uuid "0b5991e5-7d9a-400e-b99f-6865dedb6137")
+		)
+		(instances
+			(project "Car Harness 2026_KiCad"
+				(path "/5dbc07ba-3bc7-4ac7-a248-7c4937eb7523/14a27544-892c-405d-a2d9-61a7cb7a920b"
+					(reference "R3")
+					(unit 1)
+				)
+			)
+			(project "Car Harness 2026_KiCad"
+				(path "/d13c5794-76eb-4519-a9ce-490cd47a1530"
+					(reference "R3")
+					(unit 1)
+				)
+			)
+		)
+	)
+)
