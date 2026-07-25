@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "TBP02R1-381-03BE") (type "Altium") (uri "${KIPRJMOD}/TBP02R1-381-03BE.SchLib") (options "") (descr ""))
+	(lib (name "TBP02R1-381-06BE") (type "Altium") (uri "${KIPRJMOD}/TBP02R1-381-06BE.SchLib") (options "") (descr ""))
+)

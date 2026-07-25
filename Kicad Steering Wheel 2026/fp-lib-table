@@ -1,0 +1,7 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "TBP02R1-381-03BE") (type "Altium Designer") (uri "${KIPRJMOD}/TBP02R1-381-03BE.PcbLib") (options "") (descr ""))
+	(lib (name "TBP02R1-381-06BE") (type "Altium Designer") (uri "${KIPRJMOD}/TBP02R1-381-06BE.PcbLib") (options "") (descr ""))
+	(lib (name "Steering_Wheel_Comms") (type "Altium Designer") (uri "${KIPRJMOD}/Steering_Wheel_Comms.PcbLib") (options "") (descr ""))
+	(lib (name "Steering_Wheel_Comms_PCB") (type "Altium Designer") (uri "${KIPRJMOD}/Steering_Wheel_Comms_PCB.PcbLib") (options "") (descr ""))
+)
