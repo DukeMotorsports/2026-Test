@@ -2198,8 +2198,8 @@
 		)
 	)
 	(rectangle
-		(start 154.94 33.02)
-		(end 83.82 111.76)
+		(start 175.26 22.86)
+		(end 104.14 101.6)
 		(stroke
 			(width 0.508)
 			(type solid)
@@ -2212,8 +2212,8 @@
 	)
 	(polyline
 		(pts
-			(xy 7.62 116.84) (xy 160.02 116.84) (xy 160.02 162.56) (xy 58.42 162.56) (xy 58.42 203.2) (xy 7.62 203.2)
-			(xy 7.62 119.38) (xy 7.62 116.84)
+			(xy 27.94 106.68) (xy 180.34 106.68) (xy 180.34 152.4) (xy 78.74 152.4) (xy 78.74 193.04) (xy 27.94 193.04)
+			(xy 27.94 109.22) (xy 27.94 106.68)
 		)
 		(stroke
 			(width 0.508)
@@ -2226,8 +2226,8 @@
 		(uuid "d3efe9c3-761c-4009-9bc8-8b5c99f2ba90")
 	)
 	(rectangle
-		(start 231.14 33.02)
-		(end 160.02 83.82)
+		(start 251.46 22.86)
+		(end 180.34 73.66)
 		(stroke
 			(width 0.508)
 			(type solid)
@@ -2239,8 +2239,8 @@
 		(uuid "da0d5ea4-93e8-47f6-93f9-6f348f8c899f")
 	)
 	(rectangle
-		(start 78.74 33.02)
-		(end 7.62 111.76)
+		(start 99.06 22.86)
+		(end 27.94 101.6)
 		(stroke
 			(width 0.508)
 			(type solid)
@@ -2253,7 +2253,7 @@
 	)
 	(text "Face-Plate Connector"
 		(exclude_from_sim no)
-		(at 20.32 129.54 0)
+		(at 40.64 119.38 0)
 		(effects
 			(font
 				(size 1.778 1.778)
@@ -2264,7 +2264,7 @@
 	)
 	(text "Paddle Shifters"
 		(exclude_from_sim no)
-		(at 10.16 40.64 0)
+		(at 30.48 30.48 0)
 		(effects
 			(font
 				(size 2.286 2.286)
@@ -2277,7 +2277,7 @@
 	)
 	(text "Mounting Holes"
 		(exclude_from_sim no)
-		(at 162.56 40.64 0)
+		(at 182.88 30.48 0)
 		(effects
 			(font
 				(size 2.286 2.286)
@@ -2290,7 +2290,7 @@
 	)
 	(text "Right Clutch"
 		(exclude_from_sim no)
-		(at 129.54 78.74 0)
+		(at 149.86 68.58 0)
 		(effects
 			(font
 				(size 1.778 1.778)
@@ -2301,7 +2301,7 @@
 	)
 	(text "Quick-Connect"
 		(exclude_from_sim no)
-		(at 15.24 170.18 0)
+		(at 35.56 160.02 0)
 		(effects
 			(font
 				(size 1.778 1.778)
@@ -2312,7 +2312,7 @@
 	)
 	(text "Left clutch"
 		(exclude_from_sim no)
-		(at 129.54 48.26 0)
+		(at 149.86 38.1 0)
 		(effects
 			(font
 				(size 1.778 1.778)
@@ -2323,7 +2323,7 @@
 	)
 	(text "${PROJECTNAME}"
 		(exclude_from_sim no)
-		(at 149.86 186.69 0)
+		(at 162.56 181.61 0)
 		(effects
 			(font
 				(size 1.778 1.778)
@@ -2334,7 +2334,7 @@
 	)
 	(text "${TITLE}"
 		(exclude_from_sim no)
-		(at 149.86 196.85 0)
+		(at 170.688 190.246 0)
 		(effects
 			(font
 				(size 1.778 1.778)
@@ -2345,7 +2345,7 @@
 	)
 	(text "Down shift"
 		(exclude_from_sim no)
-		(at 50.8 48.26 0)
+		(at 71.12 38.1 0)
 		(effects
 			(font
 				(size 1.778 1.778)
@@ -2356,7 +2356,7 @@
 	)
 	(text "Clutch Pots"
 		(exclude_from_sim no)
-		(at 86.36 40.64 0)
+		(at 106.68 30.48 0)
 		(effects
 			(font
 				(size 2.286 2.286)
@@ -2369,7 +2369,7 @@
 	)
 	(text "Up shift"
 		(exclude_from_sim no)
-		(at 53.34 83.82 0)
+		(at 73.66 73.66 0)
 		(effects
 			(font
 				(size 1.778 1.778)
@@ -2380,7 +2380,7 @@
 	)
 	(text "CAN Transceiver"
 		(exclude_from_sim no)
-		(at 134.62 157.48 0)
+		(at 154.94 147.32 0)
 		(effects
 			(font
 				(size 1.778 1.778)
@@ -2391,7 +2391,7 @@
 	)
 	(text "${DRAWNBY}"
 		(exclude_from_sim no)
-		(at 210.82 210.82 0)
+		(at 162.814 186.182 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2402,7 +2402,7 @@
 	)
 	(text "Core Components"
 		(exclude_from_sim no)
-		(at 10.16 124.46 0)
+		(at 30.48 114.3 0)
 		(effects
 			(font
 				(size 2.286 2.286)
@@ -2415,7 +2415,7 @@
 	)
 	(text "Project"
 		(exclude_from_sim no)
-		(at 148.59 180.34 0)
+		(at 161.29 175.26 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2426,8 +2426,8 @@
 	)
 	(text_box "Mounting holes resized in PCBdoc. M2 used just as placeholder"
 		(exclude_from_sim no)
-		(at 215.9 71.12 0)
-		(size -50.8 7.62)
+		(at 190.5 60.96 0)
+		(size 50.8 7.62)
 		(margins 0.9525 0.9525 0.9525 0.9525)
 		(stroke
 			(width 0)
@@ -2442,14 +2442,14 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left top)
+			(justify left)
 		)
 		(uuid "6da345cd-4cd8-432a-a47c-f5e566822698")
 	)
 	(text_box "10 kOhm pull-ups recommended by manufacturer"
 		(exclude_from_sim no)
-		(at 35.56 66.04 0)
-		(size -20.32 12.7)
+		(at 35.56 55.88 0)
+		(size 20.32 12.7)
 		(margins 0.9525 0.9525 0.9525 0.9525)
 		(stroke
 			(width 0)
@@ -2464,47 +2464,47 @@
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left top)
+			(justify left)
 		)
 		(uuid "727edc3e-827c-4a80-935f-cda6e56ca863")
 	)
 	(junction
-		(at 195.58 60.96)
+		(at 220.98 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "09fc5ce4-5d72-4fe6-854a-9fead9eda345")
 	)
 	(junction
-		(at 180.34 60.96)
+		(at 205.74 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "392f130a-f2b8-4840-856a-03ea6f7c8b07")
 	)
 	(junction
-		(at 40.64 96.52)
+		(at 60.96 86.36)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "72df47c3-6d50-43bb-b8e9-d11ff5d6b6c2")
 	)
 	(junction
-		(at 40.64 60.96)
+		(at 60.96 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b429fd6e-b320-43fa-bf7e-2933c9d164a4")
 	)
 	(junction
-		(at 187.96 60.96)
+		(at 213.36 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f899f651-433e-463b-b1e1-4dd29a5eeab3")
 	)
 	(no_connect
-		(at 132.08 144.78)
+		(at 152.4 134.62)
 		(uuid "667b5a6f-3a96-4ff7-9dfb-6cbce78d6838")
 	)
 	(wire
 		(pts
-			(xy 124.46 129.54) (xy 132.08 129.54)
+			(xy 144.78 119.38) (xy 152.4 119.38)
 		)
 		(stroke
 			(width 0)
@@ -2514,7 +2514,7 @@
 	)
 	(polyline
 		(pts
-			(xy 137.16 78.74) (xy 129.54 83.82)
+			(xy 157.48 68.58) (xy 149.86 73.66)
 		)
 		(stroke
 			(width 0.254)
@@ -2525,7 +2525,7 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 154.94) (xy 33.02 154.94)
+			(xy 58.42 144.78) (xy 53.34 144.78)
 		)
 		(stroke
 			(width 0)
@@ -2535,7 +2535,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 137.16) (xy 132.08 137.16)
+			(xy 137.16 127) (xy 152.4 127)
 		)
 		(stroke
 			(width 0)
@@ -2543,20 +2543,9 @@
 		)
 		(uuid "04ffe1f2-9c76-4b61-b707-7c6e0575f413")
 	)
-	(polyline
-		(pts
-			(xy 147.32 190.5) (xy 147.32 177.8)
-		)
-		(stroke
-			(width 0.0254)
-			(type solid)
-			(color 0 0 0 1)
-		)
-		(uuid "0af44551-5ed0-40ae-bbfc-d01f8fb83264")
-	)
 	(wire
 		(pts
-			(xy 210.82 60.96) (xy 195.58 60.96)
+			(xy 236.22 50.8) (xy 220.98 50.8)
 		)
 		(stroke
 			(width 0)
@@ -2566,7 +2555,7 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 177.8) (xy 35.56 175.26)
+			(xy 55.88 167.64) (xy 55.88 165.1)
 		)
 		(stroke
 			(width 0)
@@ -2576,7 +2565,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 180.34) (xy 45.72 180.34)
+			(xy 53.34 170.18) (xy 66.04 170.18)
 		)
 		(stroke
 			(width 0)
@@ -2586,7 +2575,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 149.86) (xy 38.1 149.86)
+			(xy 53.34 139.7) (xy 58.42 139.7)
 		)
 		(stroke
 			(width 0)
@@ -2596,7 +2585,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 127) (xy 91.44 127)
+			(xy 116.84 116.84) (xy 111.76 116.84)
 		)
 		(stroke
 			(width 0)
@@ -2606,7 +2595,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 60.96) (xy 187.96 60.96)
+			(xy 205.74 50.8) (xy 213.36 50.8)
 		)
 		(stroke
 			(width 0)
@@ -2616,7 +2605,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 60.96) (xy 40.64 60.96)
+			(xy 71.12 50.8) (xy 60.96 50.8)
 		)
 		(stroke
 			(width 0)
@@ -2626,7 +2615,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 60.96) (xy 187.96 60.96)
+			(xy 220.98 50.8) (xy 213.36 50.8)
 		)
 		(stroke
 			(width 0)
@@ -2636,7 +2625,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 187.96) (xy 33.02 187.96)
+			(xy 66.04 177.8) (xy 53.34 177.8)
 		)
 		(stroke
 			(width 0)
@@ -2646,7 +2635,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 139.7) (xy 106.68 139.7)
+			(xy 111.76 129.54) (xy 127 129.54)
 		)
 		(stroke
 			(width 0)
@@ -2656,7 +2645,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 96.52) (xy 40.64 96.52)
+			(xy 71.12 86.36) (xy 60.96 86.36)
 		)
 		(stroke
 			(width 0)
@@ -2666,7 +2655,7 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 157.48) (xy 38.1 154.94)
+			(xy 58.42 147.32) (xy 58.42 144.78)
 		)
 		(stroke
 			(width 0)
@@ -2676,7 +2665,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 132.08) (xy 132.08 132.08)
+			(xy 111.76 121.92) (xy 152.4 121.92)
 		)
 		(stroke
 			(width 0)
@@ -2686,7 +2675,7 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 96.52) (xy 22.86 96.52)
+			(xy 60.96 86.36) (xy 43.18 86.36)
 		)
 		(stroke
 			(width 0)
@@ -2696,7 +2685,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 132.08) (xy 45.72 132.08)
+			(xy 76.2 121.92) (xy 66.04 121.92)
 		)
 		(stroke
 			(width 0)
@@ -2706,7 +2695,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 177.8) (xy 35.56 177.8)
+			(xy 53.34 167.64) (xy 55.88 167.64)
 		)
 		(stroke
 			(width 0)
@@ -2716,7 +2705,7 @@
 	)
 	(polyline
 		(pts
-			(xy 58.42 48.26) (xy 60.96 53.34)
+			(xy 78.74 38.1) (xy 77.47 43.18)
 		)
 		(stroke
 			(width 0.254)
@@ -2725,20 +2714,9 @@
 		)
 		(uuid "6831d7b4-08c3-45d2-8f22-6b99a9720afd")
 	)
-	(polyline
-		(pts
-			(xy 147.32 177.8) (xy 236.22 177.8)
-		)
-		(stroke
-			(width 0.0254)
-			(type solid)
-			(color 0 0 0 1)
-		)
-		(uuid "74879753-6867-4321-9e4c-3d8a88d6d5b9")
-	)
 	(wire
 		(pts
-			(xy 121.92 144.78) (xy 121.92 142.24)
+			(xy 142.24 134.62) (xy 142.24 132.08)
 		)
 		(stroke
 			(width 0)
@@ -2748,7 +2726,7 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 81.28) (xy 40.64 78.74)
+			(xy 60.96 71.12) (xy 60.96 68.58)
 		)
 		(stroke
 			(width 0)
@@ -2758,7 +2736,7 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 86.36) (xy 99.06 86.36)
+			(xy 134.62 76.2) (xy 119.38 76.2)
 		)
 		(stroke
 			(width 0)
@@ -2768,7 +2746,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 137.16) (xy 33.02 137.16)
+			(xy 76.2 127) (xy 53.34 127)
 		)
 		(stroke
 			(width 0)
@@ -2778,7 +2756,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 55.88) (xy 114.3 55.88)
+			(xy 119.38 45.72) (xy 134.62 45.72)
 		)
 		(stroke
 			(width 0)
@@ -2788,7 +2766,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 185.42) (xy 33.02 185.42)
+			(xy 66.04 175.26) (xy 53.34 175.26)
 		)
 		(stroke
 			(width 0)
@@ -2798,7 +2776,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 60.96) (xy 165.1 53.34)
+			(xy 190.5 50.8) (xy 190.5 43.18)
 		)
 		(stroke
 			(width 0)
@@ -2808,7 +2786,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 142.24) (xy 132.08 142.24)
+			(xy 142.24 132.08) (xy 152.4 132.08)
 		)
 		(stroke
 			(width 0)
@@ -2818,7 +2796,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 53.34) (xy 180.34 60.96)
+			(xy 205.74 43.18) (xy 205.74 50.8)
 		)
 		(stroke
 			(width 0)
@@ -2828,7 +2806,7 @@
 	)
 	(polyline
 		(pts
-			(xy 33.02 129.54) (xy 25.4 134.62)
+			(xy 53.34 119.38) (xy 46.99 124.46)
 		)
 		(stroke
 			(width 0.254)
@@ -2839,7 +2817,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 152.4) (xy 38.1 152.4)
+			(xy 53.34 142.24) (xy 58.42 142.24)
 		)
 		(stroke
 			(width 0)
@@ -2849,7 +2827,7 @@
 	)
 	(polyline
 		(pts
-			(xy 147.32 154.94) (xy 144.78 149.86)
+			(xy 167.64 144.78) (xy 165.1 139.7)
 		)
 		(stroke
 			(width 0.254)
@@ -2860,7 +2838,7 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 193.04) (xy 35.56 190.5)
+			(xy 55.88 182.88) (xy 55.88 180.34)
 		)
 		(stroke
 			(width 0)
@@ -2870,7 +2848,7 @@
 	)
 	(polyline
 		(pts
-			(xy 22.86 170.18) (xy 25.4 175.26)
+			(xy 43.18 160.02) (xy 41.91 165.1)
 		)
 		(stroke
 			(width 0.254)
@@ -2881,7 +2859,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 144.78) (xy 55.88 144.78)
+			(xy 53.34 134.62) (xy 76.2 134.62)
 		)
 		(stroke
 			(width 0)
@@ -2891,7 +2869,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 53.34) (xy 195.58 60.96)
+			(xy 220.98 43.18) (xy 220.98 50.8)
 		)
 		(stroke
 			(width 0)
@@ -2901,7 +2879,7 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 60.96) (xy 22.86 60.96)
+			(xy 60.96 50.8) (xy 43.18 50.8)
 		)
 		(stroke
 			(width 0)
@@ -2911,7 +2889,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 147.32) (xy 38.1 147.32)
+			(xy 53.34 137.16) (xy 58.42 137.16)
 		)
 		(stroke
 			(width 0)
@@ -2921,7 +2899,7 @@
 	)
 	(polyline
 		(pts
-			(xy 58.42 83.82) (xy 60.96 88.9)
+			(xy 78.74 73.66) (xy 77.47 78.74)
 		)
 		(stroke
 			(width 0.254)
@@ -2932,7 +2910,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 142.24) (xy 106.68 142.24)
+			(xy 111.76 132.08) (xy 127 132.08)
 		)
 		(stroke
 			(width 0)
@@ -2942,7 +2920,7 @@
 	)
 	(polyline
 		(pts
-			(xy 193.04 177.8) (xy 193.04 190.5)
+			(xy 205.74 172.72) (xy 205.74 185.42)
 		)
 		(stroke
 			(width 0.0254)
@@ -2953,7 +2931,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 139.7) (xy 132.08 139.7)
+			(xy 137.16 129.54) (xy 152.4 129.54)
 		)
 		(stroke
 			(width 0)
@@ -2963,7 +2941,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 142.24) (xy 33.02 142.24)
+			(xy 76.2 132.08) (xy 53.34 132.08)
 		)
 		(stroke
 			(width 0)
@@ -2973,7 +2951,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 134.62) (xy 132.08 134.62)
+			(xy 111.76 124.46) (xy 152.4 124.46)
 		)
 		(stroke
 			(width 0)
@@ -2983,7 +2961,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 182.88) (xy 33.02 182.88)
+			(xy 66.04 172.72) (xy 53.34 172.72)
 		)
 		(stroke
 			(width 0)
@@ -2993,7 +2971,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 139.7) (xy 55.88 139.7)
+			(xy 53.34 129.54) (xy 76.2 129.54)
 		)
 		(stroke
 			(width 0)
@@ -3003,7 +2981,7 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 190.5) (xy 33.02 190.5)
+			(xy 55.88 180.34) (xy 53.34 180.34)
 		)
 		(stroke
 			(width 0)
@@ -3013,7 +2991,7 @@
 	)
 	(polyline
 		(pts
-			(xy 137.16 48.26) (xy 129.54 53.34)
+			(xy 157.48 38.1) (xy 149.86 43.18)
 		)
 		(stroke
 			(width 0.254)
@@ -3024,7 +3002,7 @@
 	)
 	(wire
 		(pts
-			(xy 210.82 53.34) (xy 210.82 60.96)
+			(xy 236.22 43.18) (xy 236.22 50.8)
 		)
 		(stroke
 			(width 0)
@@ -3034,7 +3012,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 137.16) (xy 106.68 137.16)
+			(xy 111.76 127) (xy 127 127)
 		)
 		(stroke
 			(width 0)
@@ -3044,7 +3022,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 134.62) (xy 45.72 134.62)
+			(xy 76.2 124.46) (xy 66.04 124.46)
 		)
 		(stroke
 			(width 0)
@@ -3054,7 +3032,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 60.96) (xy 165.1 60.96)
+			(xy 205.74 50.8) (xy 190.5 50.8)
 		)
 		(stroke
 			(width 0)
@@ -3063,7 +3041,7 @@
 		(uuid "ff5b3fec-ad7f-46e6-8bfe-8956fb798b54")
 	)
 	(image
-		(at 214.63 184.2935)
+		(at 227.33 179.2135)
 		(scale 0.151074)
 		(uuid "8aa30855-846d-4d36-9b6f-5d679992e398")
 		(data "Qk02TBEAAAAAADYAAAAoAAAAAAQAAHEBAAABABgAAAAAAAAAAAB0EgAAdBIAAAAAAAAAAAAA////"
@@ -23479,7 +23457,7 @@
 		)
 	)
 	(label "CAN_P"
-		(at 45.72 185.42 0)
+		(at 66.04 175.26 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23489,7 +23467,7 @@
 		(uuid "022f2cd3-8482-4d2b-b302-1f9b58f474b4")
 	)
 	(label "SW1"
-		(at 33.02 137.16 0)
+		(at 53.34 127 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23499,7 +23477,7 @@
 		(uuid "0e5c9a11-607b-4fc0-8964-7357f0cbbf1a")
 	)
 	(label "SW2"
-		(at 33.02 139.7 0)
+		(at 53.34 129.54 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23509,7 +23487,7 @@
 		(uuid "18b5933c-15f6-4cfe-a473-cd29616ed93b")
 	)
 	(label "SW3"
-		(at 33.02 142.24 0)
+		(at 53.34 132.08 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23519,7 +23497,7 @@
 		(uuid "1e01ad99-c696-40a9-97eb-ddd8fe54a09f")
 	)
 	(label "ClutchPot1"
-		(at 45.72 132.08 0)
+		(at 66.04 121.92 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23529,7 +23507,7 @@
 		(uuid "2dfade20-093d-4c8f-a7fb-fcd5977c4685")
 	)
 	(label "SW5"
-		(at 33.02 147.32 0)
+		(at 53.34 137.16 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23539,7 +23517,7 @@
 		(uuid "42c41148-6f60-4941-a2d3-d3aed98e3074")
 	)
 	(label "SW5"
-		(at 106.68 142.24 180)
+		(at 127 132.08 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23549,7 +23527,7 @@
 		(uuid "48e83d02-ae67-412e-9e2d-69315daf7ca5")
 	)
 	(label "UpShiftPaddle"
-		(at 22.86 96.52 0)
+		(at 43.18 86.36 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23559,7 +23537,7 @@
 		(uuid "54d29b1d-afd8-46ae-8dd5-d0df4f7b3380")
 	)
 	(label "UpShiftPaddle"
-		(at 106.68 139.7 180)
+		(at 127 129.54 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23569,7 +23547,7 @@
 		(uuid "5ccd85c5-bd27-4448-97b9-6fc1cb8b7b47")
 	)
 	(label "DownShiftPaddle"
-		(at 106.68 137.16 180)
+		(at 127 127 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23579,7 +23557,7 @@
 		(uuid "77c48be1-29f4-4d9e-b548-fe5761a18ab0")
 	)
 	(label "PTT+"
-		(at 45.72 180.34 0)
+		(at 66.04 170.18 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23589,7 +23567,7 @@
 		(uuid "82113f80-aeb9-4c32-8a98-7b2b8a82d882")
 	)
 	(label "DownShiftPaddle"
-		(at 22.86 60.96 0)
+		(at 43.18 50.8 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23599,7 +23577,7 @@
 		(uuid "944b8843-7926-4694-8b83-415048d3eac9")
 	)
 	(label "PTT-"
-		(at 33.02 152.4 0)
+		(at 53.34 142.24 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23609,7 +23587,7 @@
 		(uuid "9539bcfd-ab52-45e8-83c5-960034755287")
 	)
 	(label "CAN_P"
-		(at 124.46 137.16 180)
+		(at 144.78 127 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23619,7 +23597,7 @@
 		(uuid "a41a4eb8-b75b-46ca-8f11-1be27fd7f81a")
 	)
 	(label "ClutchPot2"
-		(at 45.72 134.62 0)
+		(at 66.04 124.46 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23629,7 +23607,7 @@
 		(uuid "c9b0dede-b10e-45ad-9627-cf232a69f3e2")
 	)
 	(label "ClutchPot2"
-		(at 99.06 86.36 0)
+		(at 119.38 76.2 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23639,7 +23617,7 @@
 		(uuid "cf619151-0d48-4778-bab4-63c017f10704")
 	)
 	(label "ClutchPot1"
-		(at 99.06 55.88 0)
+		(at 119.38 45.72 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23649,7 +23627,7 @@
 		(uuid "d27adab0-036a-4481-b944-2d9d4df8719d")
 	)
 	(label "CAN_N"
-		(at 116.84 139.7 0)
+		(at 137.16 129.54 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23659,7 +23637,7 @@
 		(uuid "d7753ea3-f353-41da-89a2-e4a9c8ba6c50")
 	)
 	(label "PTT-"
-		(at 45.72 182.88 0)
+		(at 66.04 172.72 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23669,7 +23647,7 @@
 		(uuid "dc145012-604a-4841-a03c-94ea58264c75")
 	)
 	(label "SW4"
-		(at 33.02 144.78 0)
+		(at 53.34 134.62 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23679,7 +23657,7 @@
 		(uuid "e2bc623c-c947-4e7e-8aff-a335bd90cd66")
 	)
 	(label "PTT+"
-		(at 33.02 149.86 0)
+		(at 53.34 139.7 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23689,7 +23667,7 @@
 		(uuid "ece6df7c-a4b7-41ec-8d64-878e1d160828")
 	)
 	(label "CAN_N"
-		(at 45.72 187.96 0)
+		(at 66.04 177.8 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23700,7 +23678,7 @@
 	)
 	(symbol
 		(lib_id "Duke Motorsports:ESP32-C3")
-		(at 73.66 137.16 90)
+		(at 93.98 127 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -23710,7 +23688,7 @@
 		(dnp no)
 		(uuid "02b0c904-8a93-4275-8c89-05938ae8ee8b")
 		(property "Reference" "U1"
-			(at 60.96 121.92 90)
+			(at 92.456 109.728 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23721,7 +23699,7 @@
 			)
 		)
 		(property "Value" "ESP32-C3"
-			(at 60.96 154.94 90)
+			(at 88.138 143.256 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23732,7 +23710,7 @@
 			)
 		)
 		(property "Footprint" "MODULE_113991054"
-			(at 73.66 137.16 0)
+			(at 93.98 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23743,7 +23721,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 73.66 137.16 0)
+			(at 93.98 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23754,7 +23732,7 @@
 			)
 		)
 		(property "Description" "Mini ESP32 Development Board"
-			(at 73.66 137.16 0)
+			(at 93.98 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23765,7 +23743,7 @@
 			)
 		)
 		(property "PACKAGE" "None"
-			(at 55.372 121.92 90)
+			(at 75.692 111.76 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23777,7 +23755,7 @@
 			)
 		)
 		(property "PRICE" "None"
-			(at 55.372 121.92 90)
+			(at 75.692 111.76 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23789,7 +23767,7 @@
 			)
 		)
 		(property "SOURCE" "113991054.SchLib"
-			(at 55.372 121.92 90)
+			(at 75.692 111.76 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23801,7 +23779,7 @@
 			)
 		)
 		(property "AVAILABILITY" "Unavailable"
-			(at 55.372 121.92 90)
+			(at 75.692 111.76 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23813,7 +23791,7 @@
 			)
 		)
 		(property "DESIGN ITEM ID" "113991054"
-			(at 55.372 121.92 90)
+			(at 75.692 111.76 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23825,7 +23803,7 @@
 			)
 		)
 		(property "MP" "113991054"
-			(at 55.372 121.92 90)
+			(at 75.692 111.76 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23837,7 +23815,7 @@
 			)
 		)
 		(property "PINS" ""
-			(at 55.372 121.92 90)
+			(at 75.692 111.76 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23849,7 +23827,7 @@
 			)
 		)
 		(property "MIN OPERATING TEMPERATURE" ""
-			(at 55.372 121.92 90)
+			(at 75.692 111.76 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23861,7 +23839,7 @@
 			)
 		)
 		(property "CASE/PACKAGE" ""
-			(at 55.372 121.92 90)
+			(at 75.692 111.76 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23873,7 +23851,7 @@
 			)
 		)
 		(property "ROHS COMPLIANT" ""
-			(at 55.372 121.92 90)
+			(at 75.692 111.76 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23885,7 +23863,7 @@
 			)
 		)
 		(property "MAX OPERATING TEMPERATURE" ""
-			(at 55.372 121.92 90)
+			(at 75.692 111.76 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23897,7 +23875,7 @@
 			)
 		)
 		(property "ALTIUM_VALUE" "*"
-			(at 55.372 121.92 90)
+			(at 75.692 111.76 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23909,7 +23887,7 @@
 			)
 		)
 		(property "MF" "{'manufacturer': u'Seeed Technology Co., Ltd'}"
-			(at 55.372 121.92 90)
+			(at 75.692 111.76 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23921,7 +23899,7 @@
 			)
 		)
 		(property "MOUNTING TECHNOLOGY" ""
-			(at 55.372 121.92 90)
+			(at 75.692 111.76 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23985,7 +23963,7 @@
 	)
 	(symbol
 		(lib_id "Steering Wheel 2026-altium-import:+5_BAR")
-		(at 132.08 127 180)
+		(at 152.4 116.84 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -23995,7 +23973,7 @@
 		(dnp no)
 		(uuid "16896ab0-a7d2-4dc8-8810-8d5ef87b1c3c")
 		(property "Reference" "#PWR019"
-			(at 132.08 127 0)
+			(at 152.4 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24006,7 +23984,7 @@
 			)
 		)
 		(property "Value" "+5"
-			(at 132.08 123.19 0)
+			(at 152.4 113.03 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24016,7 +23994,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 132.08 127 0)
+			(at 152.4 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24026,7 +24004,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 132.08 127 0)
+			(at 152.4 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24036,7 +24014,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 132.08 127 0)
+			(at 152.4 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24059,7 +24037,7 @@
 	)
 	(symbol
 		(lib_id "Steering Wheel 2026-altium-import:3V3_BAR")
-		(at 114.3 81.28 180)
+		(at 134.62 71.12 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -24069,7 +24047,7 @@
 		(dnp no)
 		(uuid "1d4a4d62-8b64-43e3-b3d2-d2ec395ef0f4")
 		(property "Reference" "#PWR015"
-			(at 114.3 81.28 0)
+			(at 134.62 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24080,7 +24058,7 @@
 			)
 		)
 		(property "Value" "3V3"
-			(at 114.3 77.47 0)
+			(at 134.62 67.31 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24090,7 +24068,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 114.3 81.28 0)
+			(at 134.62 71.12 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24100,7 +24078,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 114.3 81.28 0)
+			(at 134.62 71.12 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24110,7 +24088,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 114.3 81.28 0)
+			(at 134.62 71.12 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24133,7 +24111,7 @@
 	)
 	(symbol
 		(lib_id "Altium Content Vault:1029c3af85768c4190bb7ad29bc67b5")
-		(at 40.64 60.96 180)
+		(at 60.96 50.8 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -24143,7 +24121,7 @@
 		(dnp no)
 		(uuid "1f99281b-aec4-4cbe-b011-dc64c467324e")
 		(property "Reference" "R1"
-			(at 42.164 49.784 0)
+			(at 62.484 39.624 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24154,7 +24132,7 @@
 			)
 		)
 		(property "Value" "SFR25000Z0000ZR500"
-			(at 15.24 50.8 0)
+			(at 35.56 40.64 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24165,7 +24143,7 @@
 			)
 		)
 		(property "Footprint" "FP-SFR25-MFG"
-			(at 40.64 60.96 0)
+			(at 60.96 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24176,7 +24154,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 40.64 60.96 0)
+			(at 60.96 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24187,7 +24165,7 @@
 			)
 		)
 		(property "Description" "RES 0 OHM JUMPER MF"
-			(at 40.64 60.96 0)
+			(at 60.96 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24198,7 +24176,7 @@
 			)
 		)
 		(property "LEAD DIAMETER" "0.58mm"
-			(at 39.116 42.672 0)
+			(at 59.436 32.512 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24210,7 +24188,7 @@
 			)
 		)
 		(property "RESISTOR TYPE" "Metal Film"
-			(at 39.116 42.672 0)
+			(at 59.436 32.512 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24222,7 +24200,7 @@
 			)
 		)
 		(property "TECHNOLOGY" "METAL FILM"
-			(at 39.116 42.672 0)
+			(at 59.436 32.512 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24234,7 +24212,7 @@
 			)
 		)
 		(property "MIN OPERATING TEMPERATURE" "-55°C"
-			(at 39.116 42.672 0)
+			(at 59.436 32.512 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24246,7 +24224,7 @@
 			)
 		)
 		(property "MOUNT" "Through Hole"
-			(at 39.116 42.672 0)
+			(at 59.436 32.512 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24258,7 +24236,7 @@
 			)
 		)
 		(property "PACKAGE QUANTITY" "5000"
-			(at 39.116 42.672 0)
+			(at 59.436 32.512 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24270,7 +24248,7 @@
 			)
 		)
 		(property "DIAMETER" "2.5mm"
-			(at 39.116 42.672 0)
+			(at 59.436 32.512 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24282,7 +24260,7 @@
 			)
 		)
 		(property "RADIATION HARDENING" "No"
-			(at 39.116 42.672 0)
+			(at 59.436 32.512 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24294,7 +24272,7 @@
 			)
 		)
 		(property "SERIES" "SFR25"
-			(at 39.116 42.672 0)
+			(at 59.436 32.512 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24306,7 +24284,7 @@
 			)
 		)
 		(property "LEAD FREE" "Lead Free"
-			(at 39.116 42.672 0)
+			(at 59.436 32.512 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24318,7 +24296,7 @@
 			)
 		)
 		(property "ROHS COMPLIANT" "Yes"
-			(at 39.116 42.672 0)
+			(at 59.436 32.512 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24330,7 +24308,7 @@
 			)
 		)
 		(property "WEIGHT" "0.007055oz"
-			(at 39.116 42.672 0)
+			(at 59.436 32.512 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24342,7 +24320,7 @@
 			)
 		)
 		(property "RESISTANCE" "0R"
-			(at 39.116 42.672 0)
+			(at 59.436 32.512 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24354,7 +24332,7 @@
 			)
 		)
 		(property "CONTACT PLATING" "Tin"
-			(at 39.116 42.672 0)
+			(at 59.436 32.512 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24366,7 +24344,7 @@
 			)
 		)
 		(property "PACKAGING" "Cut Tape"
-			(at 39.116 42.672 0)
+			(at 59.436 32.512 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24378,7 +24356,7 @@
 			)
 		)
 		(property "LENGTH" "6.5mm"
-			(at 39.116 42.672 0)
+			(at 59.436 32.512 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24390,7 +24368,7 @@
 			)
 		)
 		(property "CASE/PACKAGE" "Conformal"
-			(at 39.116 42.672 0)
+			(at 59.436 32.512 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24402,7 +24380,7 @@
 			)
 		)
 		(property "MILITARY STANDARD" "Not"
-			(at 39.116 42.672 0)
+			(at 59.436 32.512 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24414,7 +24392,7 @@
 			)
 		)
 		(property "MAX OPERATING TEMPERATURE" "155°C"
-			(at 39.116 42.672 0)
+			(at 59.436 32.512 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24426,7 +24404,7 @@
 			)
 		)
 		(property "TERMINATION" "Axial"
-			(at 39.116 42.672 0)
+			(at 59.436 32.512 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24454,7 +24432,7 @@
 	)
 	(symbol
 		(lib_id "Duke Motorsports:B3PS-VH(LF)(SN)")
-		(at 60.96 96.52 90)
+		(at 81.28 86.36 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -24464,7 +24442,7 @@
 		(dnp no)
 		(uuid "209d2312-b90e-4927-97e5-ef7e36722113")
 		(property "Reference" "J4"
-			(at 55.88 88.9 90)
+			(at 80.264 76.962 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24475,7 +24453,7 @@
 			)
 		)
 		(property "Value" "B3PS-VH(LF)(SN)"
-			(at 55.88 106.68 90)
+			(at 76.2 95.504 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24486,7 +24464,7 @@
 			)
 		)
 		(property "Footprint" "JST_B3PS-VH(LF)(SN)"
-			(at 60.96 96.52 0)
+			(at 81.28 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24497,7 +24475,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 60.96 96.52 0)
+			(at 81.28 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24508,7 +24486,7 @@
 			)
 		)
 		(property "Description" "Connector Header Through Hole, Right Angle 3 position 0.156 (3.96mm)"
-			(at 60.96 96.52 0)
+			(at 81.28 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24519,7 +24497,7 @@
 			)
 		)
 		(property "GENDER" ""
-			(at 50.292 88.9 90)
+			(at 70.612 78.74 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24531,7 +24509,7 @@
 			)
 		)
 		(property "VOLTAGE RATING" ""
-			(at 50.292 88.9 90)
+			(at 70.612 78.74 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24543,7 +24521,7 @@
 			)
 		)
 		(property "CHECK_PRICES" "https://www.snapeda.com/parts/B3PS-VH(LF)(SN)/JST%20Sales%20America%20Inc./view-part/571908/?ref=eda"
-			(at 50.292 88.9 90)
+			(at 70.612 78.74 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24555,7 +24533,7 @@
 			)
 		)
 		(property "MAX OPERATING TEMPERATURE" ""
-			(at 50.292 88.9 90)
+			(at 70.612 78.74 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24567,7 +24545,7 @@
 			)
 		)
 		(property "CONNECTOR TYPE" ""
-			(at 50.292 88.9 90)
+			(at 70.612 78.74 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24579,7 +24557,7 @@
 			)
 		)
 		(property "MIN OPERATING TEMPERATURE" ""
-			(at 50.292 88.9 90)
+			(at 70.612 78.74 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24591,7 +24569,7 @@
 			)
 		)
 		(property "PURCHASE-URL" "https://pricing.snapeda.com/search/part/B3PS-VH(LF)(SN)/?ref=eda"
-			(at 50.292 88.9 90)
+			(at 70.612 78.74 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24603,7 +24581,7 @@
 			)
 		)
 		(property "ROHS COMPLIANT" ""
-			(at 50.292 88.9 90)
+			(at 70.612 78.74 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24615,7 +24593,7 @@
 			)
 		)
 		(property "MAX CURRENT RATING" ""
-			(at 50.292 88.9 90)
+			(at 70.612 78.74 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24627,7 +24605,7 @@
 			)
 		)
 		(property "MF" "JST Sales"
-			(at 50.292 88.9 90)
+			(at 70.612 78.74 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24639,7 +24617,7 @@
 			)
 		)
 		(property "COMPONENT TYPE" "Standard"
-			(at 50.292 88.9 90)
+			(at 70.612 78.74 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24651,7 +24629,7 @@
 			)
 		)
 		(property "DIGI-KEY_PART_NUMBER" "455-1649-ND"
-			(at 50.292 88.9 90)
+			(at 70.612 78.74 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24663,7 +24641,7 @@
 			)
 		)
 		(property "SOURCE" "B3PS-VH(LF)(SN).SchLib"
-			(at 50.292 88.9 90)
+			(at 70.612 78.74 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24675,7 +24653,7 @@
 			)
 		)
 		(property "MOUNTING TECHNOLOGY" ""
-			(at 50.292 88.9 90)
+			(at 70.612 78.74 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24687,7 +24665,7 @@
 			)
 		)
 		(property "CASE/PACKAGE" "None"
-			(at 50.292 88.9 90)
+			(at 70.612 78.74 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24699,7 +24677,7 @@
 			)
 		)
 		(property "ALTIUM_VALUE" "*"
-			(at 50.292 88.9 90)
+			(at 70.612 78.74 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24711,7 +24689,7 @@
 			)
 		)
 		(property "MP" "B3PS-VH(LF)(SN)"
-			(at 50.292 88.9 90)
+			(at 70.612 78.74 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24723,7 +24701,7 @@
 			)
 		)
 		(property "DESIGN ITEM ID" "B3PS-VH(LF)(SN)"
-			(at 50.292 88.9 90)
+			(at 70.612 78.74 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24735,7 +24713,7 @@
 			)
 		)
 		(property "SNAPEDA_LINK" "https://www.snapeda.com/parts/B3PS-VH(LF)(SN)/JST%20Sales%20America%20Inc./view-part/571908/?ref=snap"
-			(at 50.292 88.9 90)
+			(at 70.612 78.74 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24747,7 +24725,7 @@
 			)
 		)
 		(property "PINS" "3"
-			(at 50.292 88.9 90)
+			(at 70.612 78.74 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24778,7 +24756,7 @@
 	)
 	(symbol
 		(lib_id "Steering Wheel 2026-altium-import:GND_POWER_GROUND")
-		(at 50.8 66.04 0)
+		(at 71.12 55.88 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -24788,7 +24766,7 @@
 		(dnp no)
 		(uuid "2722c555-2ec8-436b-8f99-266502106199")
 		(property "Reference" "#PWR07"
-			(at 50.8 66.04 0)
+			(at 71.12 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24799,7 +24777,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 50.8 72.39 0)
+			(at 71.12 62.23 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24809,7 +24787,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 50.8 66.04 0)
+			(at 71.12 55.88 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24819,7 +24797,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 50.8 66.04 0)
+			(at 71.12 55.88 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24829,7 +24807,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 50.8 66.04 0)
+			(at 71.12 55.88 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24852,7 +24830,7 @@
 	)
 	(symbol
 		(lib_id "Steering Wheel 2026-altium-import:GND_POWER_GROUND")
-		(at 38.1 157.48 0)
+		(at 58.42 147.32 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -24862,7 +24840,7 @@
 		(dnp no)
 		(uuid "27c566f6-115d-4c2f-8118-ddde22be8128")
 		(property "Reference" "#PWR03"
-			(at 38.1 157.48 0)
+			(at 58.42 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24873,7 +24851,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 38.1 163.83 0)
+			(at 58.42 153.67 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24883,7 +24861,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 38.1 157.48 0)
+			(at 58.42 147.32 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24893,7 +24871,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 38.1 157.48 0)
+			(at 58.42 147.32 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24903,7 +24881,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 38.1 157.48 0)
+			(at 58.42 147.32 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24926,7 +24904,7 @@
 	)
 	(symbol
 		(lib_id "Duke Motorsports:B3PS-VH(LF)(SN)")
-		(at 124.46 55.88 90)
+		(at 144.78 45.72 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -24936,7 +24914,7 @@
 		(dnp no)
 		(uuid "285cbb84-09e1-49d9-a4ac-63e423374846")
 		(property "Reference" "J1"
-			(at 119.38 48.26 90)
+			(at 143.51 36.322 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24947,7 +24925,7 @@
 			)
 		)
 		(property "Value" "B3PS-VH(LF)(SN)"
-			(at 119.38 66.04 90)
+			(at 139.7 55.88 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24958,7 +24936,7 @@
 			)
 		)
 		(property "Footprint" "JST_B3PS-VH(LF)(SN)"
-			(at 124.46 55.88 0)
+			(at 144.78 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24969,7 +24947,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 124.46 55.88 0)
+			(at 144.78 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24980,7 +24958,7 @@
 			)
 		)
 		(property "Description" "Connector Header Through Hole, Right Angle 3 position 0.156 (3.96mm)"
-			(at 124.46 55.88 0)
+			(at 144.78 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24991,7 +24969,7 @@
 			)
 		)
 		(property "GENDER" ""
-			(at 113.792 48.26 90)
+			(at 134.112 38.1 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25003,7 +24981,7 @@
 			)
 		)
 		(property "VOLTAGE RATING" ""
-			(at 113.792 48.26 90)
+			(at 134.112 38.1 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25015,7 +24993,7 @@
 			)
 		)
 		(property "CHECK_PRICES" "https://www.snapeda.com/parts/B3PS-VH(LF)(SN)/JST%20Sales%20America%20Inc./view-part/571908/?ref=eda"
-			(at 113.792 48.26 90)
+			(at 134.112 38.1 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25027,7 +25005,7 @@
 			)
 		)
 		(property "MAX OPERATING TEMPERATURE" ""
-			(at 113.792 48.26 90)
+			(at 134.112 38.1 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25039,7 +25017,7 @@
 			)
 		)
 		(property "CONNECTOR TYPE" ""
-			(at 113.792 48.26 90)
+			(at 134.112 38.1 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25051,7 +25029,7 @@
 			)
 		)
 		(property "MIN OPERATING TEMPERATURE" ""
-			(at 113.792 48.26 90)
+			(at 134.112 38.1 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25063,7 +25041,7 @@
 			)
 		)
 		(property "PURCHASE-URL" "https://pricing.snapeda.com/search/part/B3PS-VH(LF)(SN)/?ref=eda"
-			(at 113.792 48.26 90)
+			(at 134.112 38.1 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25075,7 +25053,7 @@
 			)
 		)
 		(property "ROHS COMPLIANT" ""
-			(at 113.792 48.26 90)
+			(at 134.112 38.1 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25087,7 +25065,7 @@
 			)
 		)
 		(property "MAX CURRENT RATING" ""
-			(at 113.792 48.26 90)
+			(at 134.112 38.1 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25099,7 +25077,7 @@
 			)
 		)
 		(property "MF" "JST Sales"
-			(at 113.792 48.26 90)
+			(at 134.112 38.1 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25111,7 +25089,7 @@
 			)
 		)
 		(property "COMPONENT TYPE" "Standard"
-			(at 113.792 48.26 90)
+			(at 134.112 38.1 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25123,7 +25101,7 @@
 			)
 		)
 		(property "DIGI-KEY_PART_NUMBER" "455-1649-ND"
-			(at 113.792 48.26 90)
+			(at 134.112 38.1 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25135,7 +25113,7 @@
 			)
 		)
 		(property "SOURCE" "B3PS-VH(LF)(SN).SchLib"
-			(at 113.792 48.26 90)
+			(at 134.112 38.1 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25147,7 +25125,7 @@
 			)
 		)
 		(property "MOUNTING TECHNOLOGY" ""
-			(at 113.792 48.26 90)
+			(at 134.112 38.1 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25159,7 +25137,7 @@
 			)
 		)
 		(property "CASE/PACKAGE" "None"
-			(at 113.792 48.26 90)
+			(at 134.112 38.1 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25171,7 +25149,7 @@
 			)
 		)
 		(property "ALTIUM_VALUE" "*"
-			(at 113.792 48.26 90)
+			(at 134.112 38.1 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25183,7 +25161,7 @@
 			)
 		)
 		(property "MP" "B3PS-VH(LF)(SN)"
-			(at 113.792 48.26 90)
+			(at 134.112 38.1 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25195,7 +25173,7 @@
 			)
 		)
 		(property "DESIGN ITEM ID" "B3PS-VH(LF)(SN)"
-			(at 113.792 48.26 90)
+			(at 134.112 38.1 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25207,7 +25185,7 @@
 			)
 		)
 		(property "SNAPEDA_LINK" "https://www.snapeda.com/parts/B3PS-VH(LF)(SN)/JST%20Sales%20America%20Inc./view-part/571908/?ref=snap"
-			(at 113.792 48.26 90)
+			(at 134.112 38.1 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25219,7 +25197,7 @@
 			)
 		)
 		(property "PINS" "3"
-			(at 113.792 48.26 90)
+			(at 134.112 38.1 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25250,7 +25228,7 @@
 	)
 	(symbol
 		(lib_id "Steering Wheel 2026-altium-import:GND_POWER_GROUND")
-		(at 114.3 91.44 0)
+		(at 134.62 81.28 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -25260,7 +25238,7 @@
 		(dnp no)
 		(uuid "2d400581-7105-4eb1-8fa6-18f69510b429")
 		(property "Reference" "#PWR016"
-			(at 114.3 91.44 0)
+			(at 134.62 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25271,7 +25249,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 114.3 97.79 0)
+			(at 134.62 87.63 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25281,7 +25259,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 114.3 91.44 0)
+			(at 134.62 81.28 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25291,7 +25269,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 114.3 91.44 0)
+			(at 134.62 81.28 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25301,7 +25279,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 114.3 91.44 0)
+			(at 134.62 81.28 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25324,7 +25302,7 @@
 	)
 	(symbol
 		(lib_id "Duke Motorsports:CMP-00028-00000-1")
-		(at 165.1 53.34 90)
+		(at 190.5 43.18 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -25334,7 +25312,7 @@
 		(dnp no)
 		(uuid "3e7f251e-76d2-4bdd-86ad-7233257f7915")
 		(property "Reference" "H1"
-			(at 162.56 45.72 90)
+			(at 189.23 33.782 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25345,7 +25323,7 @@
 			)
 		)
 		(property "Value" "PTH-M2D5X5"
-			(at 162.56 56.388 90)
+			(at 191.262 48.514 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25356,7 +25334,7 @@
 			)
 		)
 		(property "Footprint" "PTH-M2D5X5"
-			(at 165.1 53.34 0)
+			(at 190.5 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25367,7 +25345,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 165.1 53.34 0)
+			(at 190.5 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25378,7 +25356,7 @@
 			)
 		)
 		(property "Description" "M2 PTH (2.5mm), 5mm pad"
-			(at 165.1 53.34 0)
+			(at 190.5 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25389,7 +25367,7 @@
 			)
 		)
 		(property "CASE/PACKAGE" ""
-			(at 162.56 43.18 90)
+			(at 187.96 33.02 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25401,7 +25379,7 @@
 			)
 		)
 		(property "MIN OPERATING TEMPERATURE" ""
-			(at 162.56 43.18 90)
+			(at 187.96 33.02 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25413,7 +25391,7 @@
 			)
 		)
 		(property "PINS" "1"
-			(at 162.56 43.18 90)
+			(at 187.96 33.02 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25425,7 +25403,7 @@
 			)
 		)
 		(property "MAX OPERATING TEMPERATURE" ""
-			(at 162.56 43.18 90)
+			(at 187.96 33.02 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25437,7 +25415,7 @@
 			)
 		)
 		(property "MOUNTING TECHNOLOGY" ""
-			(at 162.56 43.18 90)
+			(at 187.96 33.02 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25449,7 +25427,7 @@
 			)
 		)
 		(property "ROHS COMPLIANT" ""
-			(at 162.56 43.18 90)
+			(at 187.96 33.02 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25474,7 +25452,7 @@
 	)
 	(symbol
 		(lib_id "Steering Wheel 2026-altium-import:3V3_BAR")
-		(at 91.44 124.46 90)
+		(at 111.76 114.3 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -25484,7 +25462,7 @@
 		(dnp no)
 		(uuid "3eeeffe2-ba31-47cd-a96b-85448b4d0064")
 		(property "Reference" "#PWR010"
-			(at 91.44 124.46 0)
+			(at 111.76 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25495,7 +25473,7 @@
 			)
 		)
 		(property "Value" "3V3"
-			(at 95.25 124.46 90)
+			(at 115.57 114.3 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25506,7 +25484,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 91.44 124.46 0)
+			(at 111.76 114.3 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25516,7 +25494,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 91.44 124.46 0)
+			(at 111.76 114.3 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25526,7 +25504,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 91.44 124.46 0)
+			(at 111.76 114.3 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25549,7 +25527,7 @@
 	)
 	(symbol
 		(lib_id "Steering Wheel 2026-altium-import:3V3_BAR")
-		(at 40.64 43.18 180)
+		(at 60.96 33.02 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -25559,7 +25537,7 @@
 		(dnp no)
 		(uuid "4789bdff-08b9-4760-a295-8bb255191255")
 		(property "Reference" "#PWR04"
-			(at 40.64 43.18 0)
+			(at 60.96 33.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25570,7 +25548,7 @@
 			)
 		)
 		(property "Value" "3V3"
-			(at 40.64 39.37 0)
+			(at 60.96 29.21 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25580,7 +25558,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 40.64 43.18 0)
+			(at 60.96 33.02 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25590,7 +25568,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 40.64 43.18 0)
+			(at 60.96 33.02 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25600,7 +25578,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 40.64 43.18 0)
+			(at 60.96 33.02 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25623,7 +25601,7 @@
 	)
 	(symbol
 		(lib_id "Steering Wheel 2026-altium-import:GND_POWER_GROUND")
-		(at 50.8 101.6 0)
+		(at 71.12 91.44 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -25633,7 +25611,7 @@
 		(dnp no)
 		(uuid "48f72dee-24f9-4cc5-8585-3cc153ef7cdc")
 		(property "Reference" "#PWR09"
-			(at 50.8 101.6 0)
+			(at 71.12 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25644,7 +25622,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 50.8 107.95 0)
+			(at 71.12 97.79 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25654,7 +25632,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 50.8 101.6 0)
+			(at 71.12 91.44 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25664,7 +25642,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 50.8 101.6 0)
+			(at 71.12 91.44 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25674,7 +25652,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 50.8 101.6 0)
+			(at 71.12 91.44 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25697,7 +25675,7 @@
 	)
 	(symbol
 		(lib_id "Duke Motorsports:B3PS-VH(LF)(SN)")
-		(at 124.46 86.36 90)
+		(at 144.78 76.2 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -25707,7 +25685,7 @@
 		(dnp no)
 		(uuid "50d6f3ed-4087-44aa-a002-e343501c335e")
 		(property "Reference" "J3"
-			(at 119.38 78.74 90)
+			(at 143.764 66.802 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25718,7 +25696,7 @@
 			)
 		)
 		(property "Value" "B3PS-VH(LF)(SN)"
-			(at 119.38 96.52 90)
+			(at 139.7 86.36 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25729,7 +25707,7 @@
 			)
 		)
 		(property "Footprint" "JST_B3PS-VH(LF)(SN)"
-			(at 124.46 86.36 0)
+			(at 144.78 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25740,7 +25718,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 124.46 86.36 0)
+			(at 144.78 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25751,7 +25729,7 @@
 			)
 		)
 		(property "Description" "Connector Header Through Hole, Right Angle 3 position 0.156 (3.96mm)"
-			(at 124.46 86.36 0)
+			(at 144.78 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25762,7 +25740,7 @@
 			)
 		)
 		(property "GENDER" ""
-			(at 113.792 78.74 90)
+			(at 134.112 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25774,7 +25752,7 @@
 			)
 		)
 		(property "VOLTAGE RATING" ""
-			(at 113.792 78.74 90)
+			(at 134.112 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25786,7 +25764,7 @@
 			)
 		)
 		(property "CHECK_PRICES" "https://www.snapeda.com/parts/B3PS-VH(LF)(SN)/JST%20Sales%20America%20Inc./view-part/571908/?ref=eda"
-			(at 113.792 78.74 90)
+			(at 134.112 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25798,7 +25776,7 @@
 			)
 		)
 		(property "MAX OPERATING TEMPERATURE" ""
-			(at 113.792 78.74 90)
+			(at 134.112 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25810,7 +25788,7 @@
 			)
 		)
 		(property "CONNECTOR TYPE" ""
-			(at 113.792 78.74 90)
+			(at 134.112 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25822,7 +25800,7 @@
 			)
 		)
 		(property "MIN OPERATING TEMPERATURE" ""
-			(at 113.792 78.74 90)
+			(at 134.112 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25834,7 +25812,7 @@
 			)
 		)
 		(property "PURCHASE-URL" "https://pricing.snapeda.com/search/part/B3PS-VH(LF)(SN)/?ref=eda"
-			(at 113.792 78.74 90)
+			(at 134.112 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25846,7 +25824,7 @@
 			)
 		)
 		(property "ROHS COMPLIANT" ""
-			(at 113.792 78.74 90)
+			(at 134.112 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25858,7 +25836,7 @@
 			)
 		)
 		(property "MAX CURRENT RATING" ""
-			(at 113.792 78.74 90)
+			(at 134.112 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25870,7 +25848,7 @@
 			)
 		)
 		(property "MF" "JST Sales"
-			(at 113.792 78.74 90)
+			(at 134.112 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25882,7 +25860,7 @@
 			)
 		)
 		(property "COMPONENT TYPE" "Standard"
-			(at 113.792 78.74 90)
+			(at 134.112 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25894,7 +25872,7 @@
 			)
 		)
 		(property "DIGI-KEY_PART_NUMBER" "455-1649-ND"
-			(at 113.792 78.74 90)
+			(at 134.112 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25906,7 +25884,7 @@
 			)
 		)
 		(property "SOURCE" "B3PS-VH(LF)(SN).SchLib"
-			(at 113.792 78.74 90)
+			(at 134.112 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25918,7 +25896,7 @@
 			)
 		)
 		(property "MOUNTING TECHNOLOGY" ""
-			(at 113.792 78.74 90)
+			(at 134.112 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25930,7 +25908,7 @@
 			)
 		)
 		(property "CASE/PACKAGE" "None"
-			(at 113.792 78.74 90)
+			(at 134.112 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25942,7 +25920,7 @@
 			)
 		)
 		(property "ALTIUM_VALUE" "*"
-			(at 113.792 78.74 90)
+			(at 134.112 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25954,7 +25932,7 @@
 			)
 		)
 		(property "MP" "B3PS-VH(LF)(SN)"
-			(at 113.792 78.74 90)
+			(at 134.112 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25966,7 +25944,7 @@
 			)
 		)
 		(property "DESIGN ITEM ID" "B3PS-VH(LF)(SN)"
-			(at 113.792 78.74 90)
+			(at 134.112 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25978,7 +25956,7 @@
 			)
 		)
 		(property "SNAPEDA_LINK" "https://www.snapeda.com/parts/B3PS-VH(LF)(SN)/JST%20Sales%20America%20Inc./view-part/571908/?ref=snap"
-			(at 113.792 78.74 90)
+			(at 134.112 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25990,7 +25968,7 @@
 			)
 		)
 		(property "PINS" "3"
-			(at 113.792 78.74 90)
+			(at 134.112 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26021,7 +25999,7 @@
 	)
 	(symbol
 		(lib_id "Duke Motorsports:CMP-00028-00000-1")
-		(at 195.58 53.34 90)
+		(at 220.98 43.18 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -26031,7 +26009,7 @@
 		(dnp no)
 		(uuid "5c2b3157-b2b9-49fc-9406-5ba905a54b70")
 		(property "Reference" "H3"
-			(at 193.04 45.72 90)
+			(at 219.71 33.782 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26042,7 +26020,7 @@
 			)
 		)
 		(property "Value" "PTH-M2D5X5"
-			(at 193.04 56.388 90)
+			(at 221.742 48.514 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26053,7 +26031,7 @@
 			)
 		)
 		(property "Footprint" "PTH-M2D5X5"
-			(at 195.58 53.34 0)
+			(at 220.98 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26064,7 +26042,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 195.58 53.34 0)
+			(at 220.98 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26075,7 +26053,7 @@
 			)
 		)
 		(property "Description" "M2 PTH (2.5mm), 5mm pad"
-			(at 195.58 53.34 0)
+			(at 220.98 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26086,7 +26064,7 @@
 			)
 		)
 		(property "CASE/PACKAGE" ""
-			(at 193.04 43.18 90)
+			(at 218.44 33.02 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26098,7 +26076,7 @@
 			)
 		)
 		(property "MIN OPERATING TEMPERATURE" ""
-			(at 193.04 43.18 90)
+			(at 218.44 33.02 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26110,7 +26088,7 @@
 			)
 		)
 		(property "PINS" "1"
-			(at 193.04 43.18 90)
+			(at 218.44 33.02 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26122,7 +26100,7 @@
 			)
 		)
 		(property "MAX OPERATING TEMPERATURE" ""
-			(at 193.04 43.18 90)
+			(at 218.44 33.02 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26134,7 +26112,7 @@
 			)
 		)
 		(property "MOUNTING TECHNOLOGY" ""
-			(at 193.04 43.18 90)
+			(at 218.44 33.02 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26146,7 +26124,7 @@
 			)
 		)
 		(property "ROHS COMPLIANT" ""
-			(at 193.04 43.18 90)
+			(at 218.44 33.02 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26171,7 +26149,7 @@
 	)
 	(symbol
 		(lib_id "Duke Motorsports:S8B-XH-A-1(LF)(SN)")
-		(at 25.4 147.32 270)
+		(at 45.72 137.16 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -26181,7 +26159,7 @@
 		(dnp no)
 		(uuid "5e073921-2832-4948-8509-510f476a62c9")
 		(property "Reference" "J5"
-			(at 20.32 134.62 90)
+			(at 44.196 124.206 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26192,7 +26170,7 @@
 			)
 		)
 		(property "Value" "S8B-XH-A-1(LF)(SN)"
-			(at 20.32 160.02 90)
+			(at 34.29 149.606 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26203,7 +26181,7 @@
 			)
 		)
 		(property "Footprint" "JST_S8B-XH-A-1(LF)(SN)"
-			(at 25.4 147.32 0)
+			(at 45.72 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26214,7 +26192,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 25.4 147.32 0)
+			(at 45.72 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26225,7 +26203,7 @@
 			)
 		)
 		(property "Description" "Connector Header Through Hole, Right Angle 8 position 0.098 (2.50mm)"
-			(at 25.4 147.32 0)
+			(at 45.72 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26236,7 +26214,7 @@
 			)
 		)
 		(property "CHECK_PRICES" "https://www.snapeda.com/parts/S8B-XH-A-1(LF)(SN)/JST/view-part/?ref=eda"
-			(at 20.32 134.62 90)
+			(at 40.64 124.46 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26248,7 +26226,7 @@
 			)
 		)
 		(property "CASE/PACKAGE" "None"
-			(at 20.32 134.62 90)
+			(at 40.64 124.46 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26260,7 +26238,7 @@
 			)
 		)
 		(property "COMPONENT TYPE" "Standard"
-			(at 20.32 134.62 90)
+			(at 40.64 124.46 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26272,7 +26250,7 @@
 			)
 		)
 		(property "MP" "S8B-XH-A-1(LF)(SN)"
-			(at 20.32 134.62 90)
+			(at 40.64 124.46 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26284,7 +26262,7 @@
 			)
 		)
 		(property "MF" "JST Sales America Inc."
-			(at 20.32 134.62 90)
+			(at 40.64 124.46 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26296,7 +26274,7 @@
 			)
 		)
 		(property "PINS" "8"
-			(at 20.32 134.62 90)
+			(at 40.64 124.46 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26308,7 +26286,7 @@
 			)
 		)
 		(property "ALTIUM_VALUE" "*"
-			(at 20.32 134.62 90)
+			(at 40.64 124.46 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26320,7 +26298,7 @@
 			)
 		)
 		(property "SOURCE" "S8B-XH-A-1(LF)(SN).SchLib"
-			(at 20.32 134.62 90)
+			(at 40.64 124.46 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26332,7 +26310,7 @@
 			)
 		)
 		(property "SNAPEDA_LINK" "https://www.snapeda.com/parts/S8B-XH-A-1(LF)(SN)/JST/view-part/?ref=snap"
-			(at 20.32 134.62 90)
+			(at 40.64 124.46 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26344,7 +26322,7 @@
 			)
 		)
 		(property "DESIGN ITEM ID" "S8B-XH-A-1(LF)(SN)"
-			(at 20.32 134.62 90)
+			(at 40.64 124.46 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26356,7 +26334,7 @@
 			)
 		)
 		(property "MAX OPERATING TEMPERATURE" ""
-			(at 17.272 137.16 90)
+			(at 37.592 127 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26368,7 +26346,7 @@
 			)
 		)
 		(property "VOLTAGE RATING" ""
-			(at 17.272 137.16 90)
+			(at 37.592 127 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26380,7 +26358,7 @@
 			)
 		)
 		(property "MOUNTING TECHNOLOGY" ""
-			(at 17.272 137.16 90)
+			(at 37.592 127 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26392,7 +26370,7 @@
 			)
 		)
 		(property "CONNECTOR TYPE" ""
-			(at 17.272 137.16 90)
+			(at 37.592 127 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26404,7 +26382,7 @@
 			)
 		)
 		(property "MAX CURRENT RATING" ""
-			(at 17.272 137.16 90)
+			(at 37.592 127 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26416,7 +26394,7 @@
 			)
 		)
 		(property "MIN OPERATING TEMPERATURE" ""
-			(at 17.272 137.16 90)
+			(at 37.592 127 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26428,7 +26406,7 @@
 			)
 		)
 		(property "ROHS COMPLIANT" ""
-			(at 17.272 137.16 90)
+			(at 37.592 127 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26440,7 +26418,7 @@
 			)
 		)
 		(property "GENDER" ""
-			(at 17.272 137.16 90)
+			(at 37.592 127 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26486,7 +26464,7 @@
 	)
 	(symbol
 		(lib_id "Duke Motorsports:B3PS-VH(LF)(SN)")
-		(at 60.96 60.96 90)
+		(at 81.28 50.8 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -26496,7 +26474,7 @@
 		(dnp no)
 		(uuid "61f90782-93a7-4b6c-8ef6-ab34806eca11")
 		(property "Reference" "J2"
-			(at 55.88 53.34 90)
+			(at 80.264 41.402 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26507,7 +26485,7 @@
 			)
 		)
 		(property "Value" "B3PS-VH(LF)(SN)"
-			(at 55.88 71.12 90)
+			(at 76.2 59.436 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26518,7 +26496,7 @@
 			)
 		)
 		(property "Footprint" "JST_B3PS-VH(LF)(SN)"
-			(at 60.96 60.96 0)
+			(at 81.28 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26529,7 +26507,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 60.96 60.96 0)
+			(at 81.28 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26540,7 +26518,7 @@
 			)
 		)
 		(property "Description" "Connector Header Through Hole, Right Angle 3 position 0.156 (3.96mm)"
-			(at 60.96 60.96 0)
+			(at 81.28 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26551,7 +26529,7 @@
 			)
 		)
 		(property "GENDER" ""
-			(at 50.292 53.34 90)
+			(at 70.612 43.18 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26563,7 +26541,7 @@
 			)
 		)
 		(property "VOLTAGE RATING" ""
-			(at 50.292 53.34 90)
+			(at 70.612 43.18 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26575,7 +26553,7 @@
 			)
 		)
 		(property "CHECK_PRICES" "https://www.snapeda.com/parts/B3PS-VH(LF)(SN)/JST%20Sales%20America%20Inc./view-part/571908/?ref=eda"
-			(at 50.292 53.34 90)
+			(at 70.612 43.18 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26587,7 +26565,7 @@
 			)
 		)
 		(property "MAX OPERATING TEMPERATURE" ""
-			(at 50.292 53.34 90)
+			(at 70.612 43.18 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26599,7 +26577,7 @@
 			)
 		)
 		(property "CONNECTOR TYPE" ""
-			(at 50.292 53.34 90)
+			(at 70.612 43.18 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26611,7 +26589,7 @@
 			)
 		)
 		(property "MIN OPERATING TEMPERATURE" ""
-			(at 50.292 53.34 90)
+			(at 70.612 43.18 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26623,7 +26601,7 @@
 			)
 		)
 		(property "PURCHASE-URL" "https://pricing.snapeda.com/search/part/B3PS-VH(LF)(SN)/?ref=eda"
-			(at 50.292 53.34 90)
+			(at 70.612 43.18 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26635,7 +26613,7 @@
 			)
 		)
 		(property "ROHS COMPLIANT" ""
-			(at 50.292 53.34 90)
+			(at 70.612 43.18 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26647,7 +26625,7 @@
 			)
 		)
 		(property "MAX CURRENT RATING" ""
-			(at 50.292 53.34 90)
+			(at 70.612 43.18 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26659,7 +26637,7 @@
 			)
 		)
 		(property "MF" "JST Sales"
-			(at 50.292 53.34 90)
+			(at 70.612 43.18 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26671,7 +26649,7 @@
 			)
 		)
 		(property "COMPONENT TYPE" "Standard"
-			(at 50.292 53.34 90)
+			(at 70.612 43.18 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26683,7 +26661,7 @@
 			)
 		)
 		(property "DIGI-KEY_PART_NUMBER" "455-1649-ND"
-			(at 50.292 53.34 90)
+			(at 70.612 43.18 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26695,7 +26673,7 @@
 			)
 		)
 		(property "SOURCE" "B3PS-VH(LF)(SN).SchLib"
-			(at 50.292 53.34 90)
+			(at 70.612 43.18 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26707,7 +26685,7 @@
 			)
 		)
 		(property "MOUNTING TECHNOLOGY" ""
-			(at 50.292 53.34 90)
+			(at 70.612 43.18 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26719,7 +26697,7 @@
 			)
 		)
 		(property "CASE/PACKAGE" "None"
-			(at 50.292 53.34 90)
+			(at 70.612 43.18 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26731,7 +26709,7 @@
 			)
 		)
 		(property "ALTIUM_VALUE" "*"
-			(at 50.292 53.34 90)
+			(at 70.612 43.18 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26743,7 +26721,7 @@
 			)
 		)
 		(property "MP" "B3PS-VH(LF)(SN)"
-			(at 50.292 53.34 90)
+			(at 70.612 43.18 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26755,7 +26733,7 @@
 			)
 		)
 		(property "DESIGN ITEM ID" "B3PS-VH(LF)(SN)"
-			(at 50.292 53.34 90)
+			(at 70.612 43.18 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26767,7 +26745,7 @@
 			)
 		)
 		(property "SNAPEDA_LINK" "https://www.snapeda.com/parts/B3PS-VH(LF)(SN)/JST%20Sales%20America%20Inc./view-part/571908/?ref=snap"
-			(at 50.292 53.34 90)
+			(at 70.612 43.18 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26779,7 +26757,7 @@
 			)
 		)
 		(property "PINS" "3"
-			(at 50.292 53.34 90)
+			(at 70.612 43.18 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26810,7 +26788,7 @@
 	)
 	(symbol
 		(lib_id "Steering Wheel 2026-altium-import:GND_POWER_GROUND")
-		(at 124.46 129.54 270)
+		(at 144.78 119.38 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -26820,7 +26798,7 @@
 		(dnp no)
 		(uuid "65479cef-4710-4784-b3c7-ce15aee7f9ef")
 		(property "Reference" "#PWR018"
-			(at 124.46 129.54 0)
+			(at 144.78 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26831,7 +26809,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 118.11 129.54 90)
+			(at 138.43 119.38 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26842,7 +26820,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 124.46 129.54 0)
+			(at 144.78 119.38 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26852,7 +26830,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 124.46 129.54 0)
+			(at 144.78 119.38 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26862,7 +26840,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 124.46 129.54 0)
+			(at 144.78 119.38 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26885,7 +26863,7 @@
 	)
 	(symbol
 		(lib_id "Steering Wheel 2026-altium-import:GND_POWER_GROUND")
-		(at 121.92 144.78 0)
+		(at 142.24 134.62 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -26895,7 +26873,7 @@
 		(dnp no)
 		(uuid "6d3d0bf8-f68e-4048-9054-0791f2da6645")
 		(property "Reference" "#PWR017"
-			(at 121.92 144.78 0)
+			(at 142.24 134.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26906,7 +26884,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 121.92 151.13 0)
+			(at 142.24 140.97 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26916,7 +26894,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 121.92 144.78 0)
+			(at 142.24 134.62 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26926,7 +26904,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 121.92 144.78 0)
+			(at 142.24 134.62 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26936,7 +26914,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 121.92 144.78 0)
+			(at 142.24 134.62 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26959,7 +26937,7 @@
 	)
 	(symbol
 		(lib_id "Duke Motorsports:CMP-00028-00000-1")
-		(at 180.34 53.34 90)
+		(at 205.74 43.18 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -26969,7 +26947,7 @@
 		(dnp no)
 		(uuid "70688f4b-0f9c-4a5b-a903-4fcb8920ac95")
 		(property "Reference" "H2"
-			(at 177.8 45.72 90)
+			(at 204.47 33.782 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26980,7 +26958,7 @@
 			)
 		)
 		(property "Value" "PTH-M2D5X5"
-			(at 177.8 56.388 90)
+			(at 206.502 48.514 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26991,7 +26969,7 @@
 			)
 		)
 		(property "Footprint" "PTH-M2D5X5"
-			(at 180.34 53.34 0)
+			(at 205.74 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27002,7 +26980,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 180.34 53.34 0)
+			(at 205.74 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27013,7 +26991,7 @@
 			)
 		)
 		(property "Description" "M2 PTH (2.5mm), 5mm pad"
-			(at 180.34 53.34 0)
+			(at 205.74 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27024,7 +27002,7 @@
 			)
 		)
 		(property "CASE/PACKAGE" ""
-			(at 177.8 43.18 90)
+			(at 203.2 33.02 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27036,7 +27014,7 @@
 			)
 		)
 		(property "MIN OPERATING TEMPERATURE" ""
-			(at 177.8 43.18 90)
+			(at 203.2 33.02 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27048,7 +27026,7 @@
 			)
 		)
 		(property "PINS" "1"
-			(at 177.8 43.18 90)
+			(at 203.2 33.02 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27060,7 +27038,7 @@
 			)
 		)
 		(property "MAX OPERATING TEMPERATURE" ""
-			(at 177.8 43.18 90)
+			(at 203.2 33.02 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27072,7 +27050,7 @@
 			)
 		)
 		(property "MOUNTING TECHNOLOGY" ""
-			(at 177.8 43.18 90)
+			(at 203.2 33.02 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27084,7 +27062,7 @@
 			)
 		)
 		(property "ROHS COMPLIANT" ""
-			(at 177.8 43.18 90)
+			(at 203.2 33.02 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27109,7 +27087,7 @@
 	)
 	(symbol
 		(lib_id "Steering Wheel 2026-altium-import:3V3_BAR")
-		(at 40.64 81.28 180)
+		(at 60.96 71.12 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -27119,7 +27097,7 @@
 		(dnp no)
 		(uuid "7a56b40a-6ef9-4697-bdbe-8fbf2da3bdb3")
 		(property "Reference" "#PWR05"
-			(at 40.64 81.28 0)
+			(at 60.96 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27130,7 +27108,7 @@
 			)
 		)
 		(property "Value" "3V3"
-			(at 40.64 77.47 0)
+			(at 60.96 67.31 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27140,7 +27118,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 40.64 81.28 0)
+			(at 60.96 71.12 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27150,7 +27128,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 40.64 81.28 0)
+			(at 60.96 71.12 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27160,7 +27138,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 40.64 81.28 0)
+			(at 60.96 71.12 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27183,7 +27161,7 @@
 	)
 	(symbol
 		(lib_id "Steering Wheel 2026-altium-import:3V3_BAR")
-		(at 50.8 55.88 180)
+		(at 71.12 45.72 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -27193,7 +27171,7 @@
 		(dnp no)
 		(uuid "8c3537fa-14c9-4011-97e2-aa9aeead505a")
 		(property "Reference" "#PWR06"
-			(at 50.8 55.88 0)
+			(at 71.12 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27204,7 +27182,7 @@
 			)
 		)
 		(property "Value" "3V3"
-			(at 50.8 52.07 0)
+			(at 71.12 41.91 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27214,7 +27192,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 50.8 55.88 0)
+			(at 71.12 45.72 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27224,7 +27202,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 50.8 55.88 0)
+			(at 71.12 45.72 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27234,7 +27212,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 50.8 55.88 0)
+			(at 71.12 45.72 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27257,7 +27235,7 @@
 	)
 	(symbol
 		(lib_id "Altium Content Vault:1029c3af85768c4190bb7ad29bc67b5")
-		(at 40.64 96.52 180)
+		(at 60.96 86.36 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -27267,7 +27245,7 @@
 		(dnp no)
 		(uuid "abdc603c-f17d-47d6-9021-08b84b5c96de")
 		(property "Reference" "R3"
-			(at 42.164 85.344 0)
+			(at 62.484 75.184 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27278,7 +27256,7 @@
 			)
 		)
 		(property "Value" "SFR25000Z0000ZR500"
-			(at 15.24 86.36 0)
+			(at 35.56 76.2 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27289,7 +27267,7 @@
 			)
 		)
 		(property "Footprint" "FP-SFR25-MFG"
-			(at 40.64 96.52 0)
+			(at 60.96 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27300,7 +27278,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 40.64 96.52 0)
+			(at 60.96 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27311,7 +27289,7 @@
 			)
 		)
 		(property "Description" "RES 0 OHM JUMPER MF"
-			(at 40.64 96.52 0)
+			(at 60.96 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27322,7 +27300,7 @@
 			)
 		)
 		(property "LEAD DIAMETER" "0.58mm"
-			(at 39.116 78.232 0)
+			(at 59.436 68.072 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27334,7 +27312,7 @@
 			)
 		)
 		(property "RESISTOR TYPE" "Metal Film"
-			(at 39.116 78.232 0)
+			(at 59.436 68.072 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27346,7 +27324,7 @@
 			)
 		)
 		(property "TECHNOLOGY" "METAL FILM"
-			(at 39.116 78.232 0)
+			(at 59.436 68.072 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27358,7 +27336,7 @@
 			)
 		)
 		(property "MIN OPERATING TEMPERATURE" "-55°C"
-			(at 39.116 78.232 0)
+			(at 59.436 68.072 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27370,7 +27348,7 @@
 			)
 		)
 		(property "MOUNT" "Through Hole"
-			(at 39.116 78.232 0)
+			(at 59.436 68.072 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27382,7 +27360,7 @@
 			)
 		)
 		(property "PACKAGE QUANTITY" "5000"
-			(at 39.116 78.232 0)
+			(at 59.436 68.072 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27394,7 +27372,7 @@
 			)
 		)
 		(property "DIAMETER" "2.5mm"
-			(at 39.116 78.232 0)
+			(at 59.436 68.072 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27406,7 +27384,7 @@
 			)
 		)
 		(property "RADIATION HARDENING" "No"
-			(at 39.116 78.232 0)
+			(at 59.436 68.072 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27418,7 +27396,7 @@
 			)
 		)
 		(property "SERIES" "SFR25"
-			(at 39.116 78.232 0)
+			(at 59.436 68.072 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27430,7 +27408,7 @@
 			)
 		)
 		(property "LEAD FREE" "Lead Free"
-			(at 39.116 78.232 0)
+			(at 59.436 68.072 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27442,7 +27420,7 @@
 			)
 		)
 		(property "ROHS COMPLIANT" "Yes"
-			(at 39.116 78.232 0)
+			(at 59.436 68.072 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27454,7 +27432,7 @@
 			)
 		)
 		(property "WEIGHT" "0.007055oz"
-			(at 39.116 78.232 0)
+			(at 59.436 68.072 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27466,7 +27444,7 @@
 			)
 		)
 		(property "RESISTANCE" "0R"
-			(at 39.116 78.232 0)
+			(at 59.436 68.072 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27478,7 +27456,7 @@
 			)
 		)
 		(property "CONTACT PLATING" "Tin"
-			(at 39.116 78.232 0)
+			(at 59.436 68.072 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27490,7 +27468,7 @@
 			)
 		)
 		(property "PACKAGING" "Cut Tape"
-			(at 39.116 78.232 0)
+			(at 59.436 68.072 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27502,7 +27480,7 @@
 			)
 		)
 		(property "LENGTH" "6.5mm"
-			(at 39.116 78.232 0)
+			(at 59.436 68.072 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27514,7 +27492,7 @@
 			)
 		)
 		(property "CASE/PACKAGE" "Conformal"
-			(at 39.116 78.232 0)
+			(at 59.436 68.072 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27526,7 +27504,7 @@
 			)
 		)
 		(property "MILITARY STANDARD" "Not"
-			(at 39.116 78.232 0)
+			(at 59.436 68.072 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27538,7 +27516,7 @@
 			)
 		)
 		(property "MAX OPERATING TEMPERATURE" "155°C"
-			(at 39.116 78.232 0)
+			(at 59.436 68.072 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27550,7 +27528,7 @@
 			)
 		)
 		(property "TERMINATION" "Axial"
-			(at 39.116 78.232 0)
+			(at 59.436 68.072 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27578,7 +27556,7 @@
 	)
 	(symbol
 		(lib_id "Duke Motorsports:S6B-XH-A")
-		(at 33.02 177.8 270)
+		(at 53.34 167.64 270)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -27589,7 +27567,7 @@
 		(dnp no)
 		(uuid "ae92fd76-15c9-4a65-ac73-be53fca0b42e")
 		(property "Reference" "J6"
-			(at 20.32 175.26 90)
+			(at 42.926 163.322 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27600,7 +27578,7 @@
 			)
 		)
 		(property "Value" "S6B-XH-A-1(LF)(SN)"
-			(at 12.7 195.58 90)
+			(at 31.242 183.642 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27611,7 +27589,7 @@
 			)
 		)
 		(property "Footprint" "CONN_S6B-XH-A_JST"
-			(at 33.02 177.8 0)
+			(at 53.34 167.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27622,7 +27600,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 33.02 177.8 0)
+			(at 53.34 167.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27633,7 +27611,7 @@
 			)
 		)
 		(property "Description" "Conn Shrouded Header HDR 6 POS 2.5mm Solder RA Thru-Hole Box"
-			(at 33.02 177.8 0)
+			(at 53.34 167.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27644,7 +27622,7 @@
 			)
 		)
 		(property "REFDES" "RefDes"
-			(at 20.32 175.26 90)
+			(at 40.64 165.1 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27656,7 +27634,7 @@
 			)
 		)
 		(property "SOURCE" "S6B-XH-A.SchLib"
-			(at 20.32 175.26 90)
+			(at 40.64 165.1 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27668,7 +27646,7 @@
 			)
 		)
 		(property "TYPE" "Type"
-			(at 20.32 175.26 90)
+			(at 40.64 165.1 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27680,7 +27658,7 @@
 			)
 		)
 		(property "DESIGN ITEM ID" "S6B-XH-A"
-			(at 20.32 175.26 90)
+			(at 40.64 165.1 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27692,7 +27670,7 @@
 			)
 		)
 		(property "MFR_NAME" "JST"
-			(at 20.32 175.26 90)
+			(at 40.64 165.1 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27732,7 +27710,7 @@
 	)
 	(symbol
 		(lib_id "Duke Motorsports:CAN_WCMCU-1051-Symbol-1")
-		(at 132.08 127 90)
+		(at 152.4 116.84 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -27742,7 +27720,7 @@
 		(dnp no)
 		(uuid "b575ec55-0237-47ee-8c34-731508cb35f4")
 		(property "Reference" "U2"
-			(at 139.7 124.46 90)
+			(at 166.116 112.522 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27753,7 +27731,7 @@
 			)
 		)
 		(property "Value" "WCMCU-1051"
-			(at 139.7 149.86 90)
+			(at 161.036 137.922 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27764,7 +27742,7 @@
 			)
 		)
 		(property "Footprint" "WCMCU-1051-Footprint-1"
-			(at 132.08 127 0)
+			(at 152.4 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27775,7 +27753,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 132.08 127 0)
+			(at 152.4 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27786,7 +27764,7 @@
 			)
 		)
 		(property "Description" "WCMCU-1051 CAN board"
-			(at 132.08 127 0)
+			(at 152.4 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27797,7 +27775,7 @@
 			)
 		)
 		(property "MAX OPERATING TEMPERATURE" ""
-			(at 130.81 123.19 90)
+			(at 151.13 113.03 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27809,7 +27787,7 @@
 			)
 		)
 		(property "MAX SUPPLY VOLTAGE" ""
-			(at 130.81 123.19 90)
+			(at 151.13 113.03 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27821,7 +27799,7 @@
 			)
 		)
 		(property "CASE/PACKAGE" ""
-			(at 130.81 123.19 90)
+			(at 151.13 113.03 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27833,7 +27811,7 @@
 			)
 		)
 		(property "MOUNTING TECHNOLOGY" ""
-			(at 130.81 123.19 90)
+			(at 151.13 113.03 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27845,7 +27823,7 @@
 			)
 		)
 		(property "ROHS COMPLIANT" ""
-			(at 130.81 123.19 90)
+			(at 151.13 113.03 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27857,7 +27835,7 @@
 			)
 		)
 		(property "MIN SUPPLY VOLTAGE" ""
-			(at 130.81 123.19 90)
+			(at 151.13 113.03 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27869,7 +27847,7 @@
 			)
 		)
 		(property "PINS" ""
-			(at 130.81 123.19 90)
+			(at 151.13 113.03 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27881,7 +27859,7 @@
 			)
 		)
 		(property "MIN OPERATING TEMPERATURE" ""
-			(at 130.81 123.19 90)
+			(at 151.13 113.03 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27927,7 +27905,7 @@
 	)
 	(symbol
 		(lib_id "Steering Wheel 2026-altium-import:GND_POWER_GROUND")
-		(at 114.3 60.96 0)
+		(at 134.62 50.8 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -27937,7 +27915,7 @@
 		(dnp no)
 		(uuid "b81d0927-499f-4748-bc6e-e862edc48e4b")
 		(property "Reference" "#PWR014"
-			(at 114.3 60.96 0)
+			(at 134.62 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27948,7 +27926,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 114.3 67.31 0)
+			(at 134.62 57.15 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27958,7 +27936,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 114.3 60.96 0)
+			(at 134.62 50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27968,7 +27946,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 114.3 60.96 0)
+			(at 134.62 50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27978,7 +27956,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 114.3 60.96 0)
+			(at 134.62 50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28001,7 +27979,7 @@
 	)
 	(symbol
 		(lib_id "Steering Wheel 2026-altium-import:GND_POWER_GROUND")
-		(at 35.56 193.04 0)
+		(at 55.88 182.88 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -28011,7 +27989,7 @@
 		(dnp no)
 		(uuid "c22dc9fc-3334-4414-895f-25bd5ce62cc6")
 		(property "Reference" "#PWR02"
-			(at 35.56 193.04 0)
+			(at 55.88 182.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28022,7 +28000,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 35.56 199.39 0)
+			(at 55.88 189.23 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28032,7 +28010,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 35.56 193.04 0)
+			(at 55.88 182.88 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28042,7 +28020,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 35.56 193.04 0)
+			(at 55.88 182.88 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28052,7 +28030,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 35.56 193.04 0)
+			(at 55.88 182.88 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28075,7 +28053,7 @@
 	)
 	(symbol
 		(lib_id "Duke Motorsports:CMP-00028-00000-1")
-		(at 210.82 53.34 90)
+		(at 236.22 43.18 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -28085,7 +28063,7 @@
 		(dnp no)
 		(uuid "ce0fbdf3-c107-4bf9-95db-a257e11dfe82")
 		(property "Reference" "H4"
-			(at 208.28 45.72 90)
+			(at 234.95 33.782 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28096,7 +28074,7 @@
 			)
 		)
 		(property "Value" "PTH-M2D5X5"
-			(at 208.28 56.388 90)
+			(at 236.982 48.514 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28107,7 +28085,7 @@
 			)
 		)
 		(property "Footprint" "PTH-M2D5X5"
-			(at 210.82 53.34 0)
+			(at 236.22 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28118,7 +28096,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 210.82 53.34 0)
+			(at 236.22 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28129,7 +28107,7 @@
 			)
 		)
 		(property "Description" "M2 PTH (2.5mm), 5mm pad"
-			(at 210.82 53.34 0)
+			(at 236.22 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28140,7 +28118,7 @@
 			)
 		)
 		(property "CASE/PACKAGE" ""
-			(at 208.28 43.18 90)
+			(at 233.68 33.02 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28152,7 +28130,7 @@
 			)
 		)
 		(property "MIN OPERATING TEMPERATURE" ""
-			(at 208.28 43.18 90)
+			(at 233.68 33.02 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28164,7 +28142,7 @@
 			)
 		)
 		(property "PINS" "1"
-			(at 208.28 43.18 90)
+			(at 233.68 33.02 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28176,7 +28154,7 @@
 			)
 		)
 		(property "MAX OPERATING TEMPERATURE" ""
-			(at 208.28 43.18 90)
+			(at 233.68 33.02 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28188,7 +28166,7 @@
 			)
 		)
 		(property "MOUNTING TECHNOLOGY" ""
-			(at 208.28 43.18 90)
+			(at 233.68 33.02 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28200,7 +28178,7 @@
 			)
 		)
 		(property "ROHS COMPLIANT" ""
-			(at 208.28 43.18 90)
+			(at 233.68 33.02 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28225,7 +28203,7 @@
 	)
 	(symbol
 		(lib_id "Steering Wheel 2026-altium-import:GND_POWER_GROUND")
-		(at 91.44 149.86 90)
+		(at 111.76 139.7 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -28235,7 +28213,7 @@
 		(dnp no)
 		(uuid "d1b85fbc-6c37-4349-9c04-f2199fb4ceb3")
 		(property "Reference" "#PWR011"
-			(at 91.44 149.86 0)
+			(at 111.76 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28246,7 +28224,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 97.79 149.86 90)
+			(at 118.11 139.7 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28257,7 +28235,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 91.44 149.86 0)
+			(at 111.76 139.7 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28267,7 +28245,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 91.44 149.86 0)
+			(at 111.76 139.7 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28277,7 +28255,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 91.44 149.86 0)
+			(at 111.76 139.7 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28300,7 +28278,7 @@
 	)
 	(symbol
 		(lib_id "Steering Wheel 2026-altium-import:+5_BAR")
-		(at 35.56 175.26 180)
+		(at 55.88 165.1 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -28310,7 +28288,7 @@
 		(dnp no)
 		(uuid "d6a575e4-23bb-46bb-8dd4-e1e17e1f97c8")
 		(property "Reference" "#PWR01"
-			(at 35.56 175.26 0)
+			(at 55.88 165.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28321,7 +28299,7 @@
 			)
 		)
 		(property "Value" "+5"
-			(at 35.56 171.45 0)
+			(at 55.88 161.29 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28331,7 +28309,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 35.56 175.26 0)
+			(at 55.88 165.1 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28341,7 +28319,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 35.56 175.26 0)
+			(at 55.88 165.1 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28351,7 +28329,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 35.56 175.26 0)
+			(at 55.88 165.1 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28374,7 +28352,7 @@
 	)
 	(symbol
 		(lib_id "Steering Wheel 2026-altium-import:+5_BAR")
-		(at 96.52 127 90)
+		(at 116.84 116.84 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -28384,7 +28362,7 @@
 		(dnp no)
 		(uuid "dd2ab921-0ca9-472a-8bff-f3b929cea74a")
 		(property "Reference" "#PWR012"
-			(at 96.52 127 0)
+			(at 116.84 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28395,7 +28373,7 @@
 			)
 		)
 		(property "Value" "+5"
-			(at 100.33 127 90)
+			(at 120.65 116.84 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28406,7 +28384,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 96.52 127 0)
+			(at 116.84 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28416,7 +28394,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 96.52 127 0)
+			(at 116.84 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28426,7 +28404,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 96.52 127 0)
+			(at 116.84 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28449,7 +28427,7 @@
 	)
 	(symbol
 		(lib_id "Steering Wheel 2026-altium-import:3V3_BAR")
-		(at 50.8 91.44 180)
+		(at 71.12 81.28 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -28459,7 +28437,7 @@
 		(dnp no)
 		(uuid "e0973963-99b5-492c-b43f-a9da258c134a")
 		(property "Reference" "#PWR08"
-			(at 50.8 91.44 0)
+			(at 71.12 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28470,7 +28448,7 @@
 			)
 		)
 		(property "Value" "3V3"
-			(at 50.8 87.63 0)
+			(at 71.12 77.47 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28480,7 +28458,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 50.8 91.44 0)
+			(at 71.12 81.28 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28490,7 +28468,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 50.8 91.44 0)
+			(at 71.12 81.28 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28500,7 +28478,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 50.8 91.44 0)
+			(at 71.12 81.28 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28523,7 +28501,7 @@
 	)
 	(symbol
 		(lib_id "Steering Wheel 2026-altium-import:GND_POWER_GROUND")
-		(at 187.96 60.96 0)
+		(at 213.36 50.8 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -28533,7 +28511,7 @@
 		(dnp no)
 		(uuid "e6b12fe1-c9e0-4b0a-95e5-3ad8f0ed4149")
 		(property "Reference" "#PWR020"
-			(at 187.96 60.96 0)
+			(at 213.36 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28544,7 +28522,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 187.96 67.31 0)
+			(at 213.36 57.15 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28554,7 +28532,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 187.96 60.96 0)
+			(at 213.36 50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28564,7 +28542,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 187.96 60.96 0)
+			(at 213.36 50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28574,7 +28552,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 187.96 60.96 0)
+			(at 213.36 50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28597,7 +28575,7 @@
 	)
 	(symbol
 		(lib_id "Steering Wheel 2026-altium-import:3V3_BAR")
-		(at 114.3 50.8 180)
+		(at 134.62 40.64 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -28607,7 +28585,7 @@
 		(dnp no)
 		(uuid "fc7cea61-48a2-4c96-b52f-12376d0d2165")
 		(property "Reference" "#PWR013"
-			(at 114.3 50.8 0)
+			(at 134.62 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28618,7 +28596,7 @@
 			)
 		)
 		(property "Value" "3V3"
-			(at 114.3 46.99 0)
+			(at 134.62 36.83 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28628,7 +28606,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 114.3 50.8 0)
+			(at 134.62 40.64 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28638,7 +28616,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 114.3 50.8 0)
+			(at 134.62 40.64 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28648,7 +28626,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 114.3 50.8 0)
+			(at 134.62 40.64 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
