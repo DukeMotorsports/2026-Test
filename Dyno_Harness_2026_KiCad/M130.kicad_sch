@@ -1,0 +1,3626 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "0443cc32-6b67-460e-af51-d61632c7a081")
+	(paper "A3")
+	(lib_symbols
+		(symbol "Duke Motorsports:MoTeC M150-C / M130-A - Symbol-1"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "34 Pin Connector for M150-C and M130-A"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "MoTeC M150-C / M130-A - Symbol-1_1_0"
+				(rectangle
+					(start 78.74 -25.4)
+					(end -93.98 -2.54)
+					(stroke
+						(width 0.0254)
+						(type solid)
+						(color 128 0 0 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(text "[Critical Connector]"
+					(at 81.28 -2.54 900)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+						(justify right)
+					)
+				)
+				(pin power_in line
+					(at -86.36 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5V_-_OUT_A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -50.8 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5V_-_OUT_B"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -25.4 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -20.32 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -15.24 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -10.16 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 30.48 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-25"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -45.72 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "BAT_NEG1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -40.64 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "BAT_NEG2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 35.56 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-26"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "BAT_POS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -81.28 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "IGN-LS1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -76.2 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "IGN_LS2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -71.12 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "IGN_LS3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -66.04 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "IGN_LS4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -60.96 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "IGN_LS5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -55.88 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "IGN_LS6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -35.56 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "IGN_LS7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -30.48 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "IGN_LS8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 20.32 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-23"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "INJ_LS1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 25.4 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-24"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "INJ_LS2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 0 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-19"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "INJ_PH1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 5.08 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "INJ_PH2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 10.16 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-21"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "INJ_PH3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 15.24 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "INJ_PH4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 40.64 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-27"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "INJ_PH5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 45.72 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-28"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "INJ_PH6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 50.8 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-29"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "INJ_PH7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 55.88 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-30"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "INJ_PH8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -5.08 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-18"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "OUT_HB1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -91.44 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "OUT_HB2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 60.96 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-31"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "OUT_HB3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 66.04 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-32"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "OUT_HB4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 71.12 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-33"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "OUT_HB5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 76.2 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(A/C)-34"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "OUT_HB6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Duke Motorsports:MoTec M150-D / M130-B-Symbol-1"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "26 Pin Connector for M150-D and M130-B"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "MoTec M150-D / M130-B-Symbol-1_1_0"
+				(rectangle
+					(start 40.64 -25.4)
+					(end -93.98 -2.54)
+					(stroke
+						(width 0.0254)
+						(type solid)
+						(color 128 0 0 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(text "[Critical Connector]"
+					(at 43.18 -2.54 900)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+						(justify right)
+					)
+				)
+				(pin power_in line
+					(at -20.32 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(B/D)-15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "0V_-_OUT_A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -15.24 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(B/D)-16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "0V_-_OUT_B"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(B/D)-19"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6.3V_-_OUT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -81.28 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(B/D)-3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AT1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -76.2 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(B/D)-4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AT2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -71.12 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(B/D)-5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AT3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -66.04 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(B/D)-6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AT4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 5.08 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(B/D)-20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 10.16 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(B/D)-21"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 15.24 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(B/D)-22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -35.56 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(B/D)-12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "BAT_BAK"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -10.16 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(B/D)-17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "CAN1-HI"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -5.08 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(B/D)-18"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "CAN1-LO"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 30.48 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(B/D)-25"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "ETH_RX+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 35.56 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(B/D)-26"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "ETH_RX-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 20.32 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(B/D)-23"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "ETH_TX+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 25.4 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(B/D)-24"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "ETH_TX-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -30.48 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(B/D)-13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "KNOCK2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -60.96 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(B/D)-7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "KNOCK_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -91.44 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(B/D)-1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "UDIG1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -86.36 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(B/D)-2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "UDIG2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -55.88 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(B/D)-8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "UDIG3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -50.8 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(B/D)-9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "UDIG4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -45.72 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(B/D)-10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "UDIG5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -40.64 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(B/D)-11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "UDIG6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -25.4 -39.37 90)
+					(length 13.97)
+					(name "(M130/50)_(B/D)-14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "UDIG7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Duke Motorsports:RES-2"
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Chip Resistor, 120 Ohms, +/-5 %, 0.1 W, -55 to 155 degC, 0603"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "*RESC0603(1608)_L*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "RES-2_1_0"
+				(polyline
+					(pts
+						(xy 0 -10.16) (xy 0.762 -9.398) (xy 0 -8.636) (xy -0.762 -7.874) (xy 0.762 -6.35) (xy -0.762 -4.826)
+						(xy 0.762 -3.302) (xy 0 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 0 0 270)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -12.7 90)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Dyno Harness 2026-altium-import:GND_POWER_GROUND"
+			(power global)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "#PWR"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "GND"
+				(at 0 -6.35 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name 'GND'"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "power-flag"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "GND_POWER_GROUND_0_0"
+				(polyline
+					(pts
+						(xy -2.54 -2.54) (xy 2.54 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.778 -3.302) (xy 1.778 -3.302)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.016 -4.064) (xy 1.016 -4.064)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.254 -4.826) (xy 0.254 -4.826)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(junction
+		(at 91.44 53.34)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "47f2a374-ba77-440f-b240-ff23d3e85224")
+	)
+	(no_connect
+		(at 58.42 185.42)
+		(uuid "1dc3af6f-f6ca-4610-a44d-260318bebf81")
+	)
+	(no_connect
+		(at 60.96 129.54)
+		(uuid "2e0c94f3-101e-40c3-b2c0-379cb3e49424")
+	)
+	(no_connect
+		(at 170.18 121.92)
+		(uuid "3cb0d8e6-de59-492e-826c-a23ce6958e69")
+	)
+	(no_connect
+		(at 58.42 144.78)
+		(uuid "3d14cb72-908c-4e5e-8e53-89dce909e886")
+	)
+	(no_connect
+		(at 58.42 99.06)
+		(uuid "3e0aaa08-3481-4314-8915-f0a703041051")
+	)
+	(no_connect
+		(at 58.42 114.3)
+		(uuid "44ad6bf3-b27b-4f6b-936c-29472364890e")
+	)
+	(no_connect
+		(at 60.96 124.46)
+		(uuid "4673e2bc-914f-4b61-8dcc-f202adb56b61")
+	)
+	(no_connect
+		(at 58.42 73.66)
+		(uuid "48eca7b8-3b92-464c-a34c-6d4cd26bb75d")
+	)
+	(no_connect
+		(at 170.18 132.08)
+		(uuid "567cbeef-8517-41d7-a90f-6d4ca1ba0eaf")
+	)
+	(no_connect
+		(at 170.18 127)
+		(uuid "76e07e92-6456-4ce3-885d-e64608cffd24")
+	)
+	(no_connect
+		(at 58.42 154.94)
+		(uuid "77e3e5f4-35a7-4213-8674-e2d639456a34")
+	)
+	(no_connect
+		(at 58.42 104.14)
+		(uuid "7a85cf40-64d7-4db7-967f-bb083a5ddbd7")
+	)
+	(no_connect
+		(at 58.42 109.22)
+		(uuid "963ac529-03f1-455b-b733-11771fd20b8c")
+	)
+	(no_connect
+		(at 58.42 68.58)
+		(uuid "a896bd9f-3cfd-4beb-99fa-b97f6064b8ba")
+	)
+	(no_connect
+		(at 58.42 58.42)
+		(uuid "a8e0386e-bfef-4fae-b847-301b6aab5a67")
+	)
+	(no_connect
+		(at 170.18 86.36)
+		(uuid "bb811578-bd4e-4c0f-ac96-01bcb7dc08d0")
+	)
+	(no_connect
+		(at 58.42 149.86)
+		(uuid "bc90f0b8-38fe-42be-819b-990747a160f2")
+	)
+	(no_connect
+		(at 58.42 48.26)
+		(uuid "cba90a36-651b-4c34-8571-d9eaf34ed577")
+	)
+	(no_connect
+		(at 58.42 170.18)
+		(uuid "ccf5516b-c50f-4a04-88e5-e3084a0737b4")
+	)
+	(no_connect
+		(at 170.18 152.4)
+		(uuid "ce120141-2984-46ff-85f1-c309013bb4fd")
+	)
+	(no_connect
+		(at 58.42 160.02)
+		(uuid "cee68c90-5007-4beb-b6a2-08fbb75bdb41")
+	)
+	(no_connect
+		(at 170.18 111.76)
+		(uuid "d1577120-13ca-401b-93ae-238732a93ccb")
+	)
+	(no_connect
+		(at 58.42 63.5)
+		(uuid "e952d1da-5cc4-4a6e-b475-c772bcb0fe37")
+	)
+	(no_connect
+		(at 58.42 180.34)
+		(uuid "f372dc1c-d38f-4721-a3e1-d6ea12cb5283")
+	)
+	(no_connect
+		(at 170.18 157.48)
+		(uuid "f73a498a-a710-432f-b582-dd83e5562abf")
+	)
+	(no_connect
+		(at 58.42 175.26)
+		(uuid "fdf1e4ec-864a-43f4-bafb-b90ca4f2101d")
+	)
+	(wire
+		(pts
+			(xy 60.96 205.74) (xy 58.42 205.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "02cbede5-ffd1-4eac-8772-06e295248ed5")
+	)
+	(wire
+		(pts
+			(xy 175.26 71.12) (xy 170.18 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0704ce8c-fd7f-4781-b7f0-ad6f4d321f77")
+	)
+	(wire
+		(pts
+			(xy 175.26 96.52) (xy 170.18 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0ba4fb40-3a13-40a6-82fb-84692da41250")
+	)
+	(wire
+		(pts
+			(xy 60.96 195.58) (xy 58.42 195.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1067641f-c463-4b50-b6be-7e0dbb19dc85")
+	)
+	(wire
+		(pts
+			(xy 62.23 43.18) (xy 58.42 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "113fdd55-fd84-405e-8f60-6ed67ad4d871")
+	)
+	(wire
+		(pts
+			(xy 60.96 119.38) (xy 58.42 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "118273c0-a712-4a20-b8b8-0d20fe0967a1")
+	)
+	(wire
+		(pts
+			(xy 175.26 91.44) (xy 170.18 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "12a3a681-d987-4162-bcb4-e9da94b00d43")
+	)
+	(wire
+		(pts
+			(xy 175.26 101.6) (xy 170.18 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1469e115-1f5a-4991-b6f5-c41080330b2a")
+	)
+	(wire
+		(pts
+			(xy 60.96 165.1) (xy 58.42 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2a310a90-184a-47f2-a7f7-c4ffa5feaab7")
+	)
+	(wire
+		(pts
+			(xy 60.96 190.5) (xy 58.42 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2acf286d-f7a7-476f-b05c-9511d1c0646b")
+	)
+	(wire
+		(pts
+			(xy 91.44 53.34) (xy 97.79 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2e560433-d0e5-48d0-8efe-b617d4adfb6d")
+	)
+	(wire
+		(pts
+			(xy 177.8 142.24) (xy 170.18 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34227bba-68b4-49c0-b44f-31df27b712a8")
+	)
+	(wire
+		(pts
+			(xy 175.26 81.28) (xy 170.18 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "349a04ab-8e20-4219-84d2-0ef00993e037")
+	)
+	(wire
+		(pts
+			(xy 60.96 124.46) (xy 58.42 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "36f2386d-5e8e-43f4-b235-44184fb280cd")
+	)
+	(wire
+		(pts
+			(xy 175.26 172.72) (xy 170.18 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "38603e99-acfe-4986-a618-2c7f6eca49f6")
+	)
+	(wire
+		(pts
+			(xy 60.96 200.66) (xy 58.42 200.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "43fa2e08-b7e4-4ff3-b4db-4d3f01e82cf6")
+	)
+	(wire
+		(pts
+			(xy 62.23 83.82) (xy 58.42 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "451d0d78-2b9b-4b6a-8812-0a8160f10621")
+	)
+	(wire
+		(pts
+			(xy 175.26 106.68) (xy 170.18 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "49d76f9e-122d-4860-83c6-6c2fd1fdf69e")
+	)
+	(wire
+		(pts
+			(xy 175.26 66.04) (xy 170.18 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5016fc3b-a3c4-4a88-989c-2d7d451dc390")
+	)
+	(wire
+		(pts
+			(xy 60.96 88.9) (xy 58.42 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "594c846b-84a3-407b-8014-26516aeb566e")
+	)
+	(wire
+		(pts
+			(xy 170.18 50.8) (xy 175.26 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "634125a0-6288-41c8-ab88-caecbb3a34c8")
+	)
+	(wire
+		(pts
+			(xy 60.96 134.62) (xy 58.42 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "68382490-2f40-4f74-aada-3fc0782e30bc")
+	)
+	(wire
+		(pts
+			(xy 60.96 93.98) (xy 58.42 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "68743d95-a53c-4909-b9e7-a287d7c5c977")
+	)
+	(wire
+		(pts
+			(xy 60.96 129.54) (xy 58.42 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69d68f86-199d-4d23-8e29-f7a2c789c2d5")
+	)
+	(wire
+		(pts
+			(xy 175.26 60.96) (xy 170.18 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7214110e-d295-4abb-b8d5-7b35ecf19876")
+	)
+	(wire
+		(pts
+			(xy 177.8 147.32) (xy 170.18 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "81e3f19a-5d38-4d1a-9ed6-1d9a1ca88967")
+	)
+	(wire
+		(pts
+			(xy 60.96 139.7) (xy 58.42 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9ba2ec46-a563-4889-99e4-4ac9a9cd2cf0")
+	)
+	(wire
+		(pts
+			(xy 62.23 38.1) (xy 58.42 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9dfec1c5-f912-45bb-878c-746964dd9684")
+	)
+	(wire
+		(pts
+			(xy 176.53 137.16) (xy 170.18 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1f00ed4-e811-4f7c-ae55-09d05c194e1a")
+	)
+	(wire
+		(pts
+			(xy 176.53 116.84) (xy 170.18 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a29e1088-77b2-4906-a0bd-d77d4d2b0155")
+	)
+	(wire
+		(pts
+			(xy 175.26 76.2) (xy 170.18 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a397f968-465f-415c-abcf-8bc787ba3daf")
+	)
+	(wire
+		(pts
+			(xy 58.42 53.34) (xy 91.44 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c0d8e682-2623-4572-bd86-f328d117d3e2")
+	)
+	(wire
+		(pts
+			(xy 175.26 177.8) (xy 170.18 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ce3a31f8-48e9-4ad7-9be0-8e2d722368cc")
+	)
+	(wire
+		(pts
+			(xy 170.18 162.56) (xy 175.26 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ce3aa544-8865-444e-9cc5-c911cd087f3c")
+	)
+	(wire
+		(pts
+			(xy 91.44 53.34) (xy 91.44 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "df64d731-6268-4113-bc06-ba068fc0f253")
+	)
+	(wire
+		(pts
+			(xy 175.26 55.88) (xy 170.18 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e4d67940-2a44-4325-a687-abfe6a54a397")
+	)
+	(wire
+		(pts
+			(xy 60.96 78.74) (xy 58.42 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ef36f024-0f53-499e-9514-f7a3cd1b85cc")
+	)
+	(wire
+		(pts
+			(xy 175.26 167.64) (xy 170.18 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fdc180f5-0ab7-4859-8caf-ebf3bfb01672")
+	)
+	(global_label "Knock1"
+		(shape input)
+		(at 177.8 147.32 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "04c90d9a-a241-4088-bf11-b1c32a466d92")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 177.8 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+	)
+	(global_label "IGN_LS2"
+		(shape output)
+		(at 60.96 190.5 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0b83248e-f5f5-425f-9dbf-cb3bc9b28912")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 60.96 190.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+	)
+	(global_label "IAT"
+		(shape input)
+		(at 175.26 81.28 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0eb9b931-bd5e-420e-8908-0304897dac67")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 175.26 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+	)
+	(global_label "INJ_LS1"
+		(shape output)
+		(at 60.96 93.98 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0ecc43fb-3468-4108-a283-ba9993fa930b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 60.96 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+	)
+	(global_label "TP1"
+		(shape input)
+		(at 60.96 139.7 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1a01f811-d192-4ab3-9abc-5c3e48dfac65")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 60.96 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+	)
+	(global_label "CRANK"
+		(shape input)
+		(at 175.26 172.72 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "27476e8a-2171-40d4-8256-d6ef77721e90")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 175.26 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+	)
+	(global_label "TP2"
+		(shape input)
+		(at 62.23 83.82 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "28f8e691-9a82-4152-90b8-39fa1b09886f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 62.23 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+	)
+	(global_label "Upshift"
+		(shape input)
+		(at 177.8 142.24 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2a2ec55a-a29d-41c6-9090-40c0f0109298")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 177.8 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+	)
+	(global_label "ECU_TX+"
+		(shape bidirectional)
+		(at 175.26 66.04 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2e9140f4-357c-47a6-854f-ecd824abf1c3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 175.26 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+	)
+	(global_label "TB_HB_2"
+		(shape output)
+		(at 60.96 205.74 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "45205053-d82a-411f-ba61-42cefc3ea6af")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 60.96 205.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+	)
+	(global_label "CAM"
+		(shape input)
+		(at 175.26 177.8 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "48fe0726-4de0-4072-adfd-3707f2982e54")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 175.26 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+	)
+	(global_label "CAN_LOW"
+		(shape bidirectional)
+		(at 175.26 91.44 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4a896c6e-cfda-4bc9-8a79-10de15c8ea9a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 175.26 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+	)
+	(global_label "TPP"
+		(shape input)
+		(at 60.96 134.62 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "584e8994-a93b-41ec-b095-ef5333335145")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 60.96 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+	)
+	(global_label "TB_HB_1"
+		(shape output)
+		(at 60.96 119.38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5f075404-938e-4c23-bc52-a3d29772ddba")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 60.96 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+	)
+	(global_label "ECU_0V_A"
+		(shape passive)
+		(at 175.26 106.68 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "650a8cd1-312b-4216-85f0-be7803f836b9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 175.26 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+	)
+	(global_label "Shift_Retract"
+		(shape passive)
+		(at 62.23 43.18 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "713f82ef-dadb-42cd-8d28-d9f91681e241")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 62.23 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+	)
+	(global_label "Knock2"
+		(shape input)
+		(at 176.53 116.84 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7bf6910d-b86e-4f65-9108-f69be4525e35")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 176.53 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+	)
+	(global_label "ECU_0V_B"
+		(shape passive)
+		(at 175.26 101.6 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "99681650-f259-4f75-9b33-003468733345")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 175.26 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+	)
+	(global_label "Clutch_PWM"
+		(shape output)
+		(at 97.79 53.34 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a4bed25f-494f-445e-b7ef-b01788f3f3bd")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 97.79 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+	)
+	(global_label "MAP"
+		(shape input)
+		(at 175.26 76.2 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ab5e454a-5548-4378-942e-bb85f00f5bfd")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 175.26 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+	)
+	(global_label "OT"
+		(shape input)
+		(at 175.26 162.56 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ae7c85b0-a744-47a2-9cb4-8edaf8734e9e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 175.26 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+	)
+	(global_label "INJ_LS2"
+		(shape output)
+		(at 60.96 88.9 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b1e97dd7-59c8-4cc2-8af1-1b0f479a0c9d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 60.96 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+	)
+	(global_label "ECU_5V_B"
+		(shape passive)
+		(at 60.96 165.1 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c3dd2014-6dfe-4f9e-9960-34b3060d7ee5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 60.96 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+	)
+	(global_label "ECU_RX-"
+		(shape bidirectional)
+		(at 175.26 50.8 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ca7c57c6-ab38-4964-821b-150f03d5fed7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 175.26 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+	)
+	(global_label "ECU_5V_A"
+		(shape passive)
+		(at 60.96 200.66 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "cc755bc0-201a-4717-8548-c5f2c7c8a98e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 60.96 200.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+	)
+	(global_label "ECU_TX-"
+		(shape bidirectional)
+		(at 175.26 60.96 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d72f0db4-3f5d-42da-bbb9-2e59d1bb72fc")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 175.26 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+	)
+	(global_label "FP"
+		(shape input)
+		(at 175.26 71.12 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e46a0517-a520-44d5-980d-942bd83741d1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 175.26 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+	)
+	(global_label "ECU_RX+"
+		(shape bidirectional)
+		(at 175.26 55.88 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e4ddf174-aaf5-42e3-a9a5-338aee1241f8")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 175.26 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+	)
+	(global_label "ECU_12V"
+		(shape output)
+		(at 60.96 78.74 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e6eb22c2-f530-4139-ae8a-aeb20ce1e72a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 60.96 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+	)
+	(global_label "IGN_LS1"
+		(shape output)
+		(at 60.96 195.58 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "eba7d964-2239-48a0-85d6-62f8de05fb14")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 60.96 195.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+	)
+	(global_label "CAN_HIGH"
+		(shape bidirectional)
+		(at 175.26 96.52 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ebdaaa4e-565d-46b7-8d0e-7b0d10dcfc91")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 175.26 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+	)
+	(global_label "Shift_Extend"
+		(shape passive)
+		(at 62.23 38.1 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f2de1648-f8f3-4ac8-98f6-a93d546da46d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 62.23 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+	)
+	(global_label "CT"
+		(shape input)
+		(at 175.26 167.64 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "fb6b96bf-9b6d-403b-a0f9-d3a717e15a6e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 175.26 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+	)
+	(global_label "Downshift"
+		(shape input)
+		(at 176.53 137.16 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ff877df5-2ff9-41de-a81b-5c9d22ca4cd7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 176.53 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Duke Motorsports:MoTec M150-D / M130-B-Symbol-1")
+		(at 130.81 86.36 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "09a6e47b-704f-480f-8f4e-40d61125e469")
+		(property "Reference" "J2"
+			(at 144.018 44.1198 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Value" "M150-D / M130-B - MoTeC"
+			(at 133.35 182.88 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 130.81 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 130.81 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "26 Pin Connector for M150-D and M130-B"
+			(at 130.81 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PINS" ""
+			(at 129.54 41.91 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "VOLTAGE RATING" ""
+			(at 129.54 41.91 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "MIN OPERATING TEMPERATURE" ""
+			(at 129.54 41.91 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "GENDER" ""
+			(at 129.54 41.91 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "MAX OPERATING TEMPERATURE" ""
+			(at 129.54 41.91 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "CONNECTOR TYPE" ""
+			(at 129.54 41.91 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "MAX CURRENT RATING" ""
+			(at 129.54 41.91 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "MOUNTING TECHNOLOGY" ""
+			(at 129.54 41.91 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "CASE/PACKAGE" ""
+			(at 129.54 41.91 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "ROHS COMPLIANT" ""
+			(at 129.54 41.91 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(pin "6.3V_-_OUT"
+			(uuid "7e00591d-63d2-476a-8c6f-6fe730e5af9d")
+		)
+		(pin "AV6"
+			(uuid "e03b1a8b-f47a-4b8d-9c82-9e95d59c6979")
+		)
+		(pin "AV7"
+			(uuid "da2f5366-6309-4dda-aa20-244366d289e8")
+		)
+		(pin "AV8"
+			(uuid "5052641c-388c-42a0-8539-bb65af2beb0e")
+		)
+		(pin "ETH_TX+"
+			(uuid "68d380aa-25f3-4b9a-ab2f-66e92901baa7")
+		)
+		(pin "ETH_TX-"
+			(uuid "7c5d9417-00d1-4cab-becb-913136c972da")
+		)
+		(pin "CAN1-LO"
+			(uuid "bfd9ffca-8bf5-4095-a85a-8900b53c88e8")
+		)
+		(pin "ETH_RX+"
+			(uuid "26ff6d40-6f0d-4c40-8144-7ece6f25591f")
+		)
+		(pin "ETH_RX-"
+			(uuid "7d2fa8e5-9cfd-4212-b3ea-771faed3a61e")
+		)
+		(pin "UDIG6"
+			(uuid "03869d35-443d-44a2-805e-7f5fcba7cbc7")
+		)
+		(pin "BAT_BAK"
+			(uuid "ff59fbab-bbc0-43ee-b379-a316e3f19de3")
+		)
+		(pin "KNOCK2"
+			(uuid "393cc31f-6a17-4d51-a6c9-3a7830745573")
+		)
+		(pin "UDIG7"
+			(uuid "c64f15cc-0f45-4747-b6c1-474d94b1da20")
+		)
+		(pin "0V_-_OUT_A"
+			(uuid "63b10840-08c8-49e1-b9a1-df22096d67d5")
+		)
+		(pin "0V_-_OUT_B"
+			(uuid "b814d65a-dae8-4fad-adce-256ffbcc6ced")
+		)
+		(pin "CAN1-HI"
+			(uuid "c6cad42a-4631-4402-8b45-870002349e68")
+		)
+		(pin "UDIG2"
+			(uuid "719d0a2a-38f0-4b05-b86b-c4e1eb5f3ce8")
+		)
+		(pin "AT1"
+			(uuid "05118497-5bb7-4cc3-96e2-e115273ae7f3")
+		)
+		(pin "AT2"
+			(uuid "b0caaba7-e7ee-47fe-91c6-b3c3fc2d80f5")
+		)
+		(pin "AT3"
+			(uuid "3599031b-4283-4e08-ba12-a5cc7a9a430e")
+		)
+		(pin "AT4"
+			(uuid "096730fa-8a2e-4c44-a976-186bb375e8c4")
+		)
+		(pin "KNOCK_1"
+			(uuid "bf2c9191-9071-4df3-a2da-514a74a6e40b")
+		)
+		(pin "UDIG3"
+			(uuid "27f0ceb8-1c5c-4bf2-862b-af6e44369ed8")
+		)
+		(pin "UDIG4"
+			(uuid "8097055a-e58a-4711-8e0e-590cd7f886fd")
+		)
+		(pin "UDIG5"
+			(uuid "42a43a63-3816-45b9-9704-48b1bb0ff390")
+		)
+		(pin "UDIG1"
+			(uuid "27048bcc-fe80-4ed0-920b-6402419146fa")
+		)
+		(instances
+			(project "Dyno Harness 2026"
+				(path "/c30617c6-ff1b-4915-acf0-3781f51f938d"
+					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Duke Motorsports:MoTeC M150-C / M130-A - Symbol-1")
+		(at 19.05 114.3 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "09d63e64-f0b4-4077-84d5-e8505a11e742")
+		(property "Reference" "J1"
+			(at 30.988 33.9598 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Value" "M150-C / M130-A - MoTeC"
+			(at 21.59 210.82 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 19.05 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 19.05 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "34 Pin Connector for M150-C and M130-A"
+			(at 19.05 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MIN OPERATING TEMPERATURE" ""
+			(at 17.78 31.75 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "MOUNTING TECHNOLOGY" ""
+			(at 17.78 31.75 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "MAX CURRENT RATING" ""
+			(at 17.78 31.75 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "MAX OPERATING TEMPERATURE" ""
+			(at 17.78 31.75 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "VOLTAGE RATING" ""
+			(at 17.78 31.75 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "CONNECTOR TYPE" ""
+			(at 17.78 31.75 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "CASE/PACKAGE" ""
+			(at 17.78 31.75 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "GENDER" ""
+			(at 17.78 31.75 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "PINS" ""
+			(at 17.78 31.75 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "ROHS COMPLIANT" ""
+			(at 17.78 31.75 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(pin "OUT_HB2"
+			(uuid "79c88667-4dc4-4dcf-b7d8-a767bdde7984")
+		)
+		(pin "IGN_LS4"
+			(uuid "5d49d3b2-a70a-4461-aa9a-565f25afccac")
+		)
+		(pin "5V_-_OUT_A"
+			(uuid "9deaf0fe-978d-4a75-aa0b-097124e662a0")
+		)
+		(pin "IGN_LS3"
+			(uuid "a57ae791-1620-4c17-a503-6957ea50d631")
+		)
+		(pin "IGN-LS1"
+			(uuid "52dacca0-bd45-47e5-9a0d-b751757fc83e")
+		)
+		(pin "INJ_PH8"
+			(uuid "aa9f24bb-5f99-458d-9e6d-ce8ffd17654c")
+		)
+		(pin "AV5"
+			(uuid "448ab32b-c444-417f-bdba-19062c4b897c")
+		)
+		(pin "BAT_POS"
+			(uuid "32365186-2d93-4cbd-b766-dd97b394e455")
+		)
+		(pin "INJ_PH5"
+			(uuid "20781765-294c-4c83-b83b-98e9d33babb5")
+		)
+		(pin "INJ_PH6"
+			(uuid "b24d9664-324d-49ad-b551-be1f0397ec7d")
+		)
+		(pin "INJ_PH7"
+			(uuid "3c44d008-05b0-4eab-b50d-ea4ef2c6a409")
+		)
+		(pin "OUT_HB3"
+			(uuid "9a29ae48-7908-4a7f-811d-2b2fbfae23b4")
+		)
+		(pin "OUT_HB4"
+			(uuid "3bd429c4-2f35-4927-a717-ab53b568244d")
+		)
+		(pin "OUT_HB5"
+			(uuid "3e7e0bb6-641b-42a4-b450-538018e81fb2")
+		)
+		(pin "OUT_HB6"
+			(uuid "a17a286b-1509-4ef7-b083-3bb34bf044a2")
+		)
+		(pin "INJ_PH4"
+			(uuid "1b396cf6-fab3-4156-8fac-c88a6df01717")
+		)
+		(pin "INJ_LS1"
+			(uuid "958e6a8b-84d5-4b7d-9c82-61ec9421b74f")
+		)
+		(pin "INJ_LS2"
+			(uuid "aa428004-7762-4c40-aa52-14f0bdbd92ec")
+		)
+		(pin "IGN_LS5"
+			(uuid "030f39c6-5df7-4485-86a5-cc48fd77bda8")
+		)
+		(pin "IGN_LS6"
+			(uuid "88953369-cc9d-47bb-8de6-57d9cc6c2c6f")
+		)
+		(pin "5V_-_OUT_B"
+			(uuid "31bc9114-d812-4ca0-bdd9-263e2fc9c4dc")
+		)
+		(pin "BAT_NEG1"
+			(uuid "ea749aa2-2578-42ec-b379-31d9bd2d33f1")
+		)
+		(pin "AV3"
+			(uuid "da74e45e-949e-4231-a675-2d5694fdb38f")
+		)
+		(pin "AV4"
+			(uuid "a8a0873f-c0e5-4317-b566-65462d41e3b6")
+		)
+		(pin "OUT_HB1"
+			(uuid "391aea86-4fa3-4c17-93dc-722b14904868")
+		)
+		(pin "INJ_PH1"
+			(uuid "27c5cf0b-af84-4fec-aad8-7e8ec2b29182")
+		)
+		(pin "INJ_PH2"
+			(uuid "92f4bc9d-77e5-441c-9b50-3a9bb3243d5d")
+		)
+		(pin "INJ_PH3"
+			(uuid "50cd741a-0d95-47ce-94ed-e9934a52d02d")
+		)
+		(pin "BAT_NEG2"
+			(uuid "af5e5425-b43b-482f-a63f-a4d4656600e5")
+		)
+		(pin "IGN_LS7"
+			(uuid "43b21cf8-78f6-403c-8e65-98677eb7c874")
+		)
+		(pin "IGN_LS8"
+			(uuid "1ee0a9e7-723f-4d84-8213-4f409e1f9089")
+		)
+		(pin "AV1"
+			(uuid "3a478a9e-9403-409a-9091-2e7d3f3ca181")
+		)
+		(pin "AV2"
+			(uuid "a9bab85c-b3e9-484b-9174-1c259963ca39")
+		)
+		(pin "IGN_LS2"
+			(uuid "6f96a501-f884-47da-86d4-f2a989f9775d")
+		)
+		(instances
+			(project "Dyno Harness 2026"
+				(path "/c30617c6-ff1b-4915-acf0-3781f51f938d"
+					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Dyno Harness 2026-altium-import:GND_POWER_GROUND")
+		(at 91.44 27.94 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "8544fe77-e3e8-48ce-825b-7a887aa841bd")
+		(property "Reference" "#PWR?"
+			(at 91.44 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 91.44 21.59 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 91.44 27.94 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 91.44 27.94 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 91.44 27.94 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "e0748956-5fe6-4d7a-8737-e0a707169e13")
+		)
+		(instances
+			(project "Dyno Harness 2026"
+				(path "/c30617c6-ff1b-4915-acf0-3781f51f938d"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Duke Motorsports:RES-2")
+		(at 91.44 40.64 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "f8e8f67d-c737-46fe-abfb-e4b127ec2238")
+		(property "Reference" "R5"
+			(at 92.456 32.766 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Value" "Resistor 120R +/-5 % 0603 0.1 W"
+			(at 90.424 27.432 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Footprint" "RESC0603(1608)_L"
+			(at 91.44 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 91.44 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Chip Resistor, 120 Ohms, +/-5 %, 0.1 W, -55 to 155 degC, 0603"
+			(at 91.44 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "POWER" "100mW"
+			(at 90.424 27.432 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "MOUNTING TECHNOLOGY" ""
+			(at 90.424 27.432 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "MAX OPERATING TEMPERATURE" "155°C"
+			(at 90.424 27.432 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "PINS" "2"
+			(at 90.424 27.432 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "ALTIUM_VALUE" "120"
+			(at 92.456 35.306 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "ROHS COMPLIANT" ""
+			(at 90.424 27.432 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "TOLERANCE" "5%"
+			(at 90.424 27.432 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "CASE/PACKAGE" "0603"
+			(at 90.424 27.432 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "MIN OPERATING TEMPERATURE" "-55°C"
+			(at 90.424 27.432 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "VOLTAGE RATING" ""
+			(at 90.424 27.432 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(pin "2"
+			(uuid "fc96dd1c-3051-48ba-959d-0549e16ff4cb")
+		)
+		(pin "1"
+			(uuid "3f97ec24-33c6-4540-a8b4-d32b6ec5476e")
+		)
+		(instances
+			(project "Dyno Harness 2026"
+				(path "/c30617c6-ff1b-4915-acf0-3781f51f938d"
+					(reference "R5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "3")
+		)
+	)
+)

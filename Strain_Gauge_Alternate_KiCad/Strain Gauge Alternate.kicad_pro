@@ -668,7 +668,7 @@
     "meta": {
       "version": 1
     },
-    "page_layout_descr_file": "",
+    "page_layout_descr_file": "empty.kicad_wks",
     "plot_directory": "",
     "reuse_designators": true,
     "subpart_first_id": 65,
@@ -676,14 +676,19 @@
     "top_level_sheets": [
       {
         "filename": "Strain Gauge Alternate.kicad_sch",
-        "name": "Strain Gauge Alternate",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "name": "Strain Gauge",
+        "uuid": "67086dc8-797e-49ef-8e82-194f9c4e0532"
       }
     ],
     "used_designators": "",
     "variants": []
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "67086dc8-797e-49ef-8e82-194f9c4e0532",
+      "Strain Gauge"
+    ]
+  ],
   "text_variables": {
     "SHEETTOTAL": "1"
   },

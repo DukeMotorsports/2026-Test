@@ -1,0 +1,2991 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "c87d293d-aefc-4dc4-8d6d-68dbf3f510a7")
+	(paper "A3")
+	(lib_symbols
+		(symbol "Duke Motorsports:MoTec PDM Connector A-Symbol-1"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "34 Pin Connector for PDM30/15"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "MoTec PDM Connector A-Symbol-1_1_0"
+				(rectangle
+					(start 78.74 -25.4)
+					(end -93.98 -2.54)
+					(stroke
+						(width 0.0254)
+						(type solid)
+						(color 128 0 0 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin power_in line
+					(at 45.72 -40.64 90)
+					(length 15.24)
+					(name "(PDM15/30)_A28"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "0V"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -86.36 -33.02 90)
+					(length 7.62)
+					(name "(PDM15/30)_A2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -76.2 -33.02 90)
+					(length 7.62)
+					(name "(PDM15/30)_A4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -66.04 -33.02 90)
+					(length 7.62)
+					(name "(PDM15/30)_A6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -55.88 -33.02 90)
+					(length 7.62)
+					(name "(PDM15/30)_A8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -40.64 -33.02 90)
+					(length 7.62)
+					(name "(PDM15/30)_A11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -30.48 -33.02 90)
+					(length 7.62)
+					(name "(PDM15/30)_A13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -20.32 -33.02 90)
+					(length 7.62)
+					(name "(PDM15/30)_A15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -5.08 -33.02 90)
+					(length 7.62)
+					(name "(PDM30)_A18"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 5.08 -33.02 90)
+					(length 7.62)
+					(name "(PDM30)_A20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 15.24 -33.02 90)
+					(length 7.62)
+					(name "(PDM30)_A22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 25.4 -33.02 90)
+					(length 7.62)
+					(name "(PDM30)_A24"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 30.48 -33.02 90)
+					(length 7.62)
+					(name "(PDM30)_A25"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -45.72 -38.1 90)
+					(length 12.7)
+					(name "(PDM15/30)_A10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "20A_(A1)"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -35.56 -38.1 90)
+					(length 12.7)
+					(name "(PDM15/30)_A12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "20A_(A3)"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -25.4 -38.1 90)
+					(length 12.7)
+					(name "(PDM15/30)_A14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "20A_(A5)"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -15.24 -38.1 90)
+					(length 12.7)
+					(name "(PDM15/30)_A16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "20A_(A7)"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 -38.1 90)
+					(length 12.7)
+					(name "(PDM15/30)_A17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "20A_(A9)"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -91.44 -38.1 90)
+					(length 12.7)
+					(name "(PDM15/30)_A1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "20A_(A10)"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -81.28 -38.1 90)
+					(length 12.7)
+					(name "(PDM15/30)_A3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "20A_(A12)"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -71.12 -38.1 90)
+					(length 12.7)
+					(name "(PDM15/30)_A5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "20A_(A14)"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -60.96 -38.1 90)
+					(length 12.7)
+					(name "(PDM15/30)_A7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "20A_(A16)"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -50.8 -38.1 90)
+					(length 12.7)
+					(name "(PDM15/30)_A9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "20A_(A17)"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 40.64 -35.56 90)
+					(length 10.16)
+					(name "(PDM15/30)_A27"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "DIG1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 0 -35.56 90)
+					(length 10.16)
+					(name "(PDM15/30)_A19"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "DIG2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 50.8 -35.56 90)
+					(length 10.16)
+					(name "(PDM15/30)_A29"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "DIG3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 10.16 -35.56 90)
+					(length 10.16)
+					(name "(PDM15/30)_A21"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "DIG4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 55.88 -35.56 90)
+					(length 10.16)
+					(name "(PDM15/30)_A30"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "DIG5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 60.96 -35.56 90)
+					(length 10.16)
+					(name "(PDM15/30)_A31"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "DIG6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 20.32 -35.56 90)
+					(length 10.16)
+					(name "(PDM15/30)_A23"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "DIG7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 66.04 -35.56 90)
+					(length 10.16)
+					(name "(PDM15/30)_A32"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "DIG8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 71.12 -35.56 90)
+					(length 10.16)
+					(name "(PDM15/30)_A33"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "DIG9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 76.2 -35.56 90)
+					(length 10.16)
+					(name "(PDM15/30)_A34"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "DIG10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 35.56 -40.64 90)
+					(length 15.24)
+					(name "(PDM15/30)_A26"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "VBATT-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Duke Motorsports:MoTec PDM Connector B-Symbol-1"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "26 Pin Connector for PDM30/15"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "MoTec PDM Connector B-Symbol-1_1_0"
+				(rectangle
+					(start 40.64 -25.4)
+					(end -93.98 -2.54)
+					(stroke
+						(width 0.0254)
+						(type solid)
+						(color 128 0 0 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin output line
+					(at -91.44 -33.02 90)
+					(length 7.62)
+					(name "(PDM30)_B1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1_-_8A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -86.36 -33.02 90)
+					(length 7.62)
+					(name "(PDM30)_B2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2_-_8A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -81.28 -38.1 90)
+					(length 12.7)
+					(name "(PDM15/30)_B3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3_-_20A_(B9)"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -76.2 -33.02 90)
+					(length 7.62)
+					(name "(PDM30)_B4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4_-_8A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -71.12 -38.1 90)
+					(length 12.7)
+					(name "(PDM15/30)_B5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5_-_20A_(B11)"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -66.04 -33.02 90)
+					(length 7.62)
+					(name "(PDM30)_B6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6_-_8A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -60.96 -38.1 90)
+					(length 12.7)
+					(name "(PDM15/30)_B7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7_-_20A_(B13)"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -55.88 -33.02 90)
+					(length 7.62)
+					(name "(PDM30)_B8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8_-_8A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -50.8 -38.1 90)
+					(length 12.7)
+					(name "(PDM15/30)_B9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9_-_20A_(B3)"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -45.72 -33.02 90)
+					(length 7.62)
+					(name "(PDM30)_B10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10_-_8A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -40.64 -38.1 90)
+					(length 12.7)
+					(name "(PDM15/30)_B11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "11_-_20A_(B5)"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -35.56 -33.02 90)
+					(length 7.62)
+					(name "(PDM30)_B12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "12_-_8A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -30.48 -38.1 90)
+					(length 12.7)
+					(name "(PDM15/30)_B13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "13_-_20A_(B7)"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -25.4 -33.02 90)
+					(length 7.62)
+					(name "(PDM30)_B14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "14_-_8A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -20.32 -35.56 90)
+					(length 10.16)
+					(name "(PDM15/30)_B15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "15_-_DIG13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -15.24 -33.02 90)
+					(length 7.62)
+					(name "(PDM30)_B16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "16_-_8A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -10.16 -35.56 90)
+					(length 10.16)
+					(name "(PDM15/30)_B17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "17_-_DIG15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -5.08 -40.64 90)
+					(length 15.24)
+					(name "(PDM15/30)_B18"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "18_-_VBATT-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 0 -33.02 90)
+					(length 7.62)
+					(name "(PDM30)_B19"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "19_-_8A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 5.08 -35.56 90)
+					(length 10.16)
+					(name "(PDM15/30)_B20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "20_-_DIG11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 10.16 -35.56 90)
+					(length 10.16)
+					(name "(PDM15/30)_B21"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "21_-_DIG12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 15.24 -40.64 90)
+					(length 15.24)
+					(name "(PDM15/30)_B22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "22_-_0V"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 20.32 -35.56 90)
+					(length 10.16)
+					(name "(PDM15/30)_B23"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "23_-_DIG14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 25.4 -35.56 90)
+					(length 10.16)
+					(name "(PDM15/30)_B24"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "24_-_DIG16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 30.48 -40.64 90)
+					(length 15.24)
+					(name "(PDM15/30)_B25"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "25_-_CAN_LOW"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 35.56 -40.64 90)
+					(length 15.24)
+					(name "(PDM15/30)_B26"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "26_-_CAN_HIGH"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Duke Motorsports:PDM15_30 Connector C - MoTeC-Symbol-1"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Power Pin Connector for PDM 15/30"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "PDM15_30 Connector C - MoTeC-Symbol-1_1_0"
+				(circle
+					(center 0 0)
+					(radius 5.029)
+					(stroke
+						(width 0.762)
+						(type solid)
+						(color 255 0 0 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 0 -10.16 90)
+					(length 5.08)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(junction
+		(at 142.24 152.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6a0484a3-fb31-4e0d-8f86-98887b68b4ae")
+	)
+	(junction
+		(at 134.62 162.56)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ad1c2d91-5372-4fac-adb2-8e4c01bc532f")
+	)
+	(junction
+		(at 121.92 198.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c48bc84b-a1f9-4b54-81f8-ebf20b8a46b7")
+	)
+	(junction
+		(at 119.38 172.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f2544d92-fc64-4746-902f-7b7d6b237245")
+	)
+	(no_connect
+		(at 109.22 121.92)
+		(uuid "1c950533-b006-49f6-a102-08c320ceabdc")
+	)
+	(no_connect
+		(at 114.3 198.12)
+		(uuid "1fd44463-4c5e-4c34-b066-f2dd78dfec9d")
+	)
+	(no_connect
+		(at 109.22 157.48)
+		(uuid "2f398e91-a21f-4420-a974-045949014274")
+	)
+	(no_connect
+		(at 116.84 91.44)
+		(uuid "361bf4fa-388d-4599-8569-315aa78e2c97")
+	)
+	(no_connect
+		(at 254 121.92)
+		(uuid "40e31069-626f-4c21-bf6d-87cb1a049bb4")
+	)
+	(no_connect
+		(at 254 111.76)
+		(uuid "4265be58-5302-4c44-bc9a-51eb657995d4")
+	)
+	(no_connect
+		(at 109.22 182.88)
+		(uuid "50a36348-294c-44f9-80b4-77dfbd42ee19")
+	)
+	(no_connect
+		(at 254 96.52)
+		(uuid "5fc6852c-1c28-4637-b94f-c82de7d148bb")
+	)
+	(no_connect
+		(at 109.22 96.52)
+		(uuid "6175b7c4-7e3b-4f8f-a468-f5bc2c4194cf")
+	)
+	(no_connect
+		(at 109.22 111.76)
+		(uuid "6a1451de-b9e7-4804-8d8b-3365505dda85")
+	)
+	(no_connect
+		(at 114.3 172.72)
+		(uuid "79de2d1d-5d8d-4128-b6c7-0ee467692c45")
+	)
+	(no_connect
+		(at 109.22 147.32)
+		(uuid "81153ee7-bd6f-41a0-8cc7-c53c10808c90")
+	)
+	(no_connect
+		(at 114.3 177.8)
+		(uuid "81de51c6-1091-4276-9538-bf4914f3061c")
+	)
+	(no_connect
+		(at 116.84 81.28)
+		(uuid "9edca0eb-b480-4cec-8937-f2906e20b830")
+	)
+	(no_connect
+		(at 254 81.28)
+		(uuid "a8240f1f-28d4-4ad4-a589-3c53839cee6d")
+	)
+	(no_connect
+		(at 111.76 127)
+		(uuid "a99c3b32-ad15-413d-999b-f7bc68e451ea")
+	)
+	(no_connect
+		(at 109.22 193.04)
+		(uuid "b62b44e7-c498-4223-b864-6f4885c3001f")
+	)
+	(no_connect
+		(at 114.3 187.96)
+		(uuid "bcab519f-2296-4aca-a16d-a3f38186fbf0")
+	)
+	(no_connect
+		(at 254 76.2)
+		(uuid "cc25e3c9-0686-406e-8376-a60d838759bf")
+	)
+	(no_connect
+		(at 111.76 116.84)
+		(uuid "ccb28768-4b9b-482a-88d0-20fd747eaf5c")
+	)
+	(no_connect
+		(at 109.22 167.64)
+		(uuid "ce1376d1-1788-4c6d-85bc-d81231b65b6a")
+	)
+	(no_connect
+		(at 109.22 101.6)
+		(uuid "df68b7f9-d5d5-477b-b1b6-bb0f500a6493")
+	)
+	(no_connect
+		(at 111.76 106.68)
+		(uuid "f8d05709-9fd6-496b-a4f5-2e90aa46dbd9")
+	)
+	(wire
+		(pts
+			(xy 111.76 55.88) (xy 119.38 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0566e358-3184-4694-a75a-d52b5f805fea")
+	)
+	(wire
+		(pts
+			(xy 114.3 218.44) (xy 119.38 218.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0e561cbe-b967-4380-9d34-f661b78623a8")
+	)
+	(wire
+		(pts
+			(xy 111.76 50.8) (xy 119.38 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "126f49df-595d-4ce6-8ecc-d59791e3a833")
+	)
+	(wire
+		(pts
+			(xy 111.76 86.36) (xy 119.38 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "26940d47-bc63-4847-a39b-eeee95ca37a3")
+	)
+	(wire
+		(pts
+			(xy 142.24 152.4) (xy 114.3 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34aa13f0-e3bc-44e0-bcde-0febd5adb04f")
+	)
+	(wire
+		(pts
+			(xy 124.46 172.72) (xy 119.38 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "367fb048-7a12-4fd5-b205-8b2c8aa720d4")
+	)
+	(wire
+		(pts
+			(xy 114.3 142.24) (xy 121.92 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d9c0415-614d-43b6-a905-37c7da214c5b")
+	)
+	(wire
+		(pts
+			(xy 134.62 137.16) (xy 134.62 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4a784f13-0f53-4fe9-8051-22b21475a81d")
+	)
+	(wire
+		(pts
+			(xy 114.3 187.96) (xy 142.24 187.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e53cd6a-a28e-4045-9597-c5d946850c02")
+	)
+	(wire
+		(pts
+			(xy 111.76 66.04) (xy 119.38 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5348bf8f-cabb-4be6-97f8-f473dade8c60")
+	)
+	(wire
+		(pts
+			(xy 111.76 60.96) (xy 119.38 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b6a6d0c-5043-407a-a0d8-7f6635eb58e2")
+	)
+	(wire
+		(pts
+			(xy 121.92 198.12) (xy 114.3 198.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6d7f1200-60a6-4c66-92a3-eec807a9ed70")
+	)
+	(wire
+		(pts
+			(xy 119.38 172.72) (xy 114.3 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7100c7df-6c20-44f7-8548-6b840ba75a54")
+	)
+	(wire
+		(pts
+			(xy 276.86 66.04) (xy 259.08 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7126f86d-8a31-4099-9a2c-565a694f6367")
+	)
+	(wire
+		(pts
+			(xy 149.86 162.56) (xy 134.62 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7660d9b7-a623-40be-b0d9-be9b7273d8d2")
+	)
+	(wire
+		(pts
+			(xy 142.24 187.96) (xy 142.24 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "80415785-6998-4098-b0ff-9491dec90fc6")
+	)
+	(wire
+		(pts
+			(xy 259.08 91.44) (xy 254 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "819c38fa-8dfc-4384-aa57-dc7747ac2d13")
+	)
+	(wire
+		(pts
+			(xy 134.62 162.56) (xy 114.3 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "83bc7fec-9348-49f3-b009-81f68ba0bfb4")
+	)
+	(wire
+		(pts
+			(xy 109.22 132.08) (xy 119.38 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "93dd7ba9-f386-4c10-9f08-c97dbb9184d2")
+	)
+	(wire
+		(pts
+			(xy 129.54 203.2) (xy 109.22 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9e631f66-dccc-42d7-9028-73bb9741ea32")
+	)
+	(wire
+		(pts
+			(xy 137.16 208.28) (xy 114.3 208.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a0e465e8-1095-4b31-8a01-514bdfc8c9f3")
+	)
+	(wire
+		(pts
+			(xy 276.86 71.12) (xy 259.08 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a2e9ae65-5349-4d03-bb42-2152c8649218")
+	)
+	(wire
+		(pts
+			(xy 109.22 213.36) (xy 129.54 213.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a32bb0f7-7753-44a5-bfef-acec9db0e963")
+	)
+	(wire
+		(pts
+			(xy 111.76 76.2) (xy 119.38 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a7e7b889-d87d-44b4-b698-1dfa52925399")
+	)
+	(wire
+		(pts
+			(xy 114.3 137.16) (xy 134.62 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aab570d5-2ac1-4700-ae5e-81e2c32e6ab9")
+	)
+	(wire
+		(pts
+			(xy 259.08 86.36) (xy 269.24 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b036035c-319f-4b27-8f84-d8f268dca06f")
+	)
+	(wire
+		(pts
+			(xy 317.5 116.84) (xy 325.12 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c9c7c735-fa2c-4f86-a7c0-bb332c9bfbc5")
+	)
+	(wire
+		(pts
+			(xy 111.76 71.12) (xy 119.38 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d3c4b5eb-2794-4c87-83ab-04f7401a0c0e")
+	)
+	(wire
+		(pts
+			(xy 119.38 218.44) (xy 119.38 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ef61a91f-070f-4669-b12c-d41568c72e09")
+	)
+	(wire
+		(pts
+			(xy 121.92 142.24) (xy 121.92 198.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7ac319f-e1ea-4fd4-b5b0-19f973f69f77")
+	)
+	(wire
+		(pts
+			(xy 129.54 198.12) (xy 121.92 198.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fbccca6b-f0b3-4bdc-aca3-7ea98e5183b9")
+	)
+	(wire
+		(pts
+			(xy 144.78 152.4) (xy 142.24 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fc6f5f60-06c4-47d9-be84-dc78d5f0be33")
+	)
+	(global_label "CAN_LOW"
+		(shape bidirectional)
+		(at 276.86 71.12 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0f6937e7-aff4-4e5b-b684-dd32e103f5fd")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 276.86 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+	)
+	(global_label "Gear_4"
+		(shape input)
+		(at 119.38 66.04 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "22b1d487-279e-4ccb-a531-d1a8ec42d50d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 119.38 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+	)
+	(global_label "LTCD_12V"
+		(shape output)
+		(at 129.54 203.2 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "23ba840a-1ec6-4ec3-b314-a006685a8f91")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 129.54 203.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+	)
+	(global_label "FAN_12V"
+		(shape passive)
+		(at 144.78 152.4 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2a14ce3c-5b9c-4606-addc-b2174cf1e4cb")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 144.78 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+	)
+	(global_label "PDM_Power"
+		(shape output)
+		(at 325.12 116.84 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2c7b471a-52e2-47c5-ba3e-1c2a5ea54289")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 325.12 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "Gear_2"
+		(shape input)
+		(at 119.38 55.88 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2fb53436-d46e-4333-ac2d-8e29ea30da50")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 119.38 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+	)
+	(global_label "Gear_3"
+		(shape input)
+		(at 119.38 60.96 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "37bca95d-9654-4e45-a155-0ff604a0e048")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 119.38 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+	)
+	(global_label "C125_12V"
+		(shape output)
+		(at 119.38 132.08 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3e43905e-83c4-44de-9b59-310b76864a1a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 119.38 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "Gear_neutral"
+		(shape input)
+		(at 119.38 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "44f20f91-f775-465b-8458-c12cd0e99356")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 119.38 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "CAN_HIGH"
+		(shape bidirectional)
+		(at 276.86 66.04 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "59726dc6-5094-47f9-b6dd-482f8c5ae373")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 276.86 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+	)
+	(global_label "Gear_5"
+		(shape input)
+		(at 119.38 71.12 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5988eb3f-bac1-416b-a87c-ffc8057394ed")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 119.38 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+	)
+	(global_label "KSW_GND"
+		(shape input)
+		(at 269.24 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "91ae7086-6373-4d97-8712-4a2db62c989a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 269.24 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "STARTER_RELAY_SGN"
+		(shape output)
+		(at 129.54 213.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "933100e2-abf7-46c7-aa0b-d2410ed107a6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 129.54 213.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+	)
+	(global_label "ECU_12V"
+		(shape output)
+		(at 129.54 198.12 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ac735c0c-c106-4ef3-b79d-8f58f91a51e2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 129.54 198.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+	)
+	(global_label "Gear_6"
+		(shape input)
+		(at 119.38 76.2 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "cf2406b5-8741-47d9-975d-76355fd9aff9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 119.38 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+	)
+	(global_label "Gear_1"
+		(shape input)
+		(at 119.38 50.8 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d384fd27-eec6-4089-877a-f5cd92921cac")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 119.38 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+	)
+	(global_label "IGN_INJ_12V"
+		(shape output)
+		(at 137.16 208.28 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d94d02f1-105b-4d24-9a39-11584313aa2b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 137.16 208.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+	)
+	(global_label "FUEL_12V"
+		(shape output)
+		(at 124.46 172.72 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e00b8403-ff50-4173-b0b6-2c418b020b66")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 124.46 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+	)
+	(global_label "Clutch_12V"
+		(shape output)
+		(at 149.86 162.56 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e651ccc4-0c98-48d7-8397-33174662c11f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 149.86 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+	)
+	(global_label "KSW_in"
+		(shape input)
+		(at 259.08 91.44 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f396c154-ceeb-4998-8283-7dcfcfe7c2b6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 259.08 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Duke Motorsports:MoTec PDM Connector A-Symbol-1")
+		(at 76.2 127 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "1979cc84-6c29-41c4-83a1-fd059ffc3c81")
+		(property "Reference" "J3"
+			(at 88.9 46.228 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Value" "PDM15/30 Connector A - MoTeC"
+			(at 78.74 223.52 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 76.2 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 76.2 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "34 Pin Connector for PDM30/15"
+			(at 76.2 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MAX CURRENT RATING" ""
+			(at 74.93 48.26 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "CONNECTOR TYPE" ""
+			(at 74.93 48.26 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "MOUNTING TECHNOLOGY" ""
+			(at 74.93 48.26 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "ROHS COMPLIANT" ""
+			(at 74.93 48.26 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "MIN OPERATING TEMPERATURE" ""
+			(at 74.93 48.26 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "VOLTAGE RATING" ""
+			(at 74.93 48.26 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "GENDER" ""
+			(at 74.93 48.26 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "MAX OPERATING TEMPERATURE" ""
+			(at 74.93 48.26 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "PINS" ""
+			(at 74.93 48.26 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "CASE/PACKAGE" ""
+			(at 74.93 48.26 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(pin "20A_(A10)"
+			(uuid "64b675e2-0827-4cc3-95ae-7430d1ffd081")
+		)
+		(pin "8A"
+			(uuid "bf207703-0aec-4f3a-900c-3e17cac3eed6")
+		)
+		(pin "20A_(A12)"
+			(uuid "63a73f94-d47f-479c-80d7-0e3d71acaea5")
+		)
+		(pin "8A"
+			(uuid "789c612b-e86c-4386-9fa5-a864038da5ea")
+		)
+		(pin "20A_(A14)"
+			(uuid "4edb5caf-cb8e-4ed8-8f11-28ace9d25573")
+		)
+		(pin "8A"
+			(uuid "4a8b37ab-c54b-4df7-9fc9-95b3d42a05ec")
+		)
+		(pin "20A_(A16)"
+			(uuid "3b4d44c6-cb01-4ecb-a5bd-336a6a43068c")
+		)
+		(pin "8A"
+			(uuid "9e0d0abb-f21d-439c-aa12-2e9c7576e5d9")
+		)
+		(pin "20A_(A17)"
+			(uuid "7b0c5c0a-279b-4cc5-9c97-47775065c8b8")
+		)
+		(pin "20A_(A1)"
+			(uuid "2516adb4-2ebb-423f-8bbd-27cd183c5999")
+		)
+		(pin "8A"
+			(uuid "5c413a6d-5fe2-4331-8580-7d2a1e0292d4")
+		)
+		(pin "20A_(A3)"
+			(uuid "5e648d42-c787-4235-99ee-3a1ce2364e9b")
+		)
+		(pin "8A"
+			(uuid "842ff3f8-0e00-4a43-9a42-92af49958ae5")
+		)
+		(pin "20A_(A5)"
+			(uuid "0b9609af-25bb-4e69-96ed-74205abc2004")
+		)
+		(pin "8A"
+			(uuid "107a5533-8232-4f8b-8014-fec2f3985beb")
+		)
+		(pin "20A_(A7)"
+			(uuid "9b478f1c-593d-4a94-a2f4-b413ca297145")
+		)
+		(pin "20A_(A9)"
+			(uuid "7d63d435-54f5-4b97-ba4f-7af4f11600e2")
+		)
+		(pin "8A"
+			(uuid "a4f86625-c166-4b8d-b5f1-97001a6e05c6")
+		)
+		(pin "DIG2"
+			(uuid "f4a22273-4070-467d-abf2-871ed4b29403")
+		)
+		(pin "8A"
+			(uuid "421a1b36-b624-4240-a8be-818916a4e950")
+		)
+		(pin "DIG4"
+			(uuid "36e0b04d-66db-4dd1-a71e-f7480ba7eb26")
+		)
+		(pin "8A"
+			(uuid "679e6d9b-8238-403f-8af2-f4317c88793b")
+		)
+		(pin "DIG7"
+			(uuid "9dc6081b-2da2-4dd5-a643-1051da5d91c2")
+		)
+		(pin "8A"
+			(uuid "582a0121-bc77-4167-9f06-b536a3ccbac9")
+		)
+		(pin "8A"
+			(uuid "92ef641b-aff0-4747-b314-94b12da829f4")
+		)
+		(pin "VBATT-"
+			(uuid "76f65a93-87f7-4b7a-997f-f5681180ec9c")
+		)
+		(pin "DIG1"
+			(uuid "7e08049e-66fb-4f0c-9c0a-7cce40cfded9")
+		)
+		(pin "0V"
+			(uuid "6b73ec77-e0d7-469c-8013-3034deb36133")
+		)
+		(pin "DIG3"
+			(uuid "653267bd-af29-4a40-a599-f2ecf43e678e")
+		)
+		(pin "DIG5"
+			(uuid "653a0569-e187-4546-a506-5aa0e7ba8565")
+		)
+		(pin "DIG6"
+			(uuid "5535c817-1133-4f98-9043-fd0b94206951")
+		)
+		(pin "DIG8"
+			(uuid "b74a9d6b-ef46-48d5-8d42-60734684e002")
+		)
+		(pin "DIG9"
+			(uuid "f05ac320-8fc9-422a-9aaa-5768d1f0055c")
+		)
+		(pin "DIG10"
+			(uuid "b3a2754f-00f1-4736-9431-24b00b55ac2c")
+		)
+		(instances
+			(project "Dyno Harness 2026"
+				(path "/01d52fff-0621-4906-b716-923629de591a"
+					(reference "J3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Duke Motorsports:PDM15_30 Connector C - MoTeC-Symbol-1")
+		(at 307.34 116.84 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "600f3c43-4e1f-433e-9f78-4d8edc08fc6c")
+		(property "Reference" "PDM15/30 Connector C"
+			(at 305.308 107.95 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Value" "PDM15/30 Connector C - MoTeC"
+			(at 302.311 124.409 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 307.34 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 307.34 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power Pin Connector for PDM 15/30"
+			(at 307.34 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "GENDER" ""
+			(at 302.311 111.811 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "MAX OPERATING TEMPERATURE" ""
+			(at 302.311 111.811 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "CASE/PACKAGE" ""
+			(at 302.311 111.811 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "PINS" ""
+			(at 302.311 111.811 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "MIN OPERATING TEMPERATURE" ""
+			(at 302.311 111.811 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "ROHS COMPLIANT" ""
+			(at 302.311 111.811 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "MOUNTING TECHNOLOGY" ""
+			(at 302.311 111.811 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "CONNECTOR TYPE" ""
+			(at 302.311 111.811 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "MAX CURRENT RATING" ""
+			(at 302.311 111.811 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "VOLTAGE RATING" ""
+			(at 302.311 111.811 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(pin "1"
+			(uuid "1d0d18a2-6c02-44b7-904c-dcb378273e29")
+		)
+		(instances
+			(project "Dyno Harness 2026"
+				(path "/01d52fff-0621-4906-b716-923629de591a"
+					(reference "PDM15/30 Connector C")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Duke Motorsports:MoTec PDM Connector B-Symbol-1")
+		(at 218.44 101.6 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "ca29b35f-03c5-4ebd-a969-e5aca3d452a3")
+		(property "Reference" "J4"
+			(at 231.14 58.928 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Value" "PDM15/30 Connector B - MoTeC"
+			(at 220.98 198.12 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 218.44 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 218.44 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "26 Pin Connector for PDM30/15"
+			(at 218.44 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "VOLTAGE RATING" ""
+			(at 217.17 60.96 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "MOUNTING TECHNOLOGY" ""
+			(at 217.17 60.96 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "MIN OPERATING TEMPERATURE" ""
+			(at 217.17 60.96 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "MAX OPERATING TEMPERATURE" ""
+			(at 217.17 60.96 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "GENDER" ""
+			(at 217.17 60.96 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "MAX CURRENT RATING" ""
+			(at 217.17 60.96 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "ROHS COMPLIANT" ""
+			(at 217.17 60.96 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "CASE/PACKAGE" ""
+			(at 217.17 60.96 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "CONNECTOR TYPE" ""
+			(at 217.17 60.96 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(property "PINS" ""
+			(at 217.17 60.96 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+			)
+		)
+		(pin "1_-_8A"
+			(uuid "11795ec9-7cf1-4eb8-a9c1-e16390e7042f")
+		)
+		(pin "2_-_8A"
+			(uuid "4ad7548a-bb98-48a1-903e-61fbfbd3f458")
+		)
+		(pin "3_-_20A_(B9)"
+			(uuid "55b9e35e-793f-435f-8b05-a24b20760063")
+		)
+		(pin "4_-_8A"
+			(uuid "80f781b3-ca4b-4ab0-8e02-8493100ee90d")
+		)
+		(pin "5_-_20A_(B11)"
+			(uuid "c19dfc9a-cbf4-4175-a981-2ddc37ae9a01")
+		)
+		(pin "6_-_8A"
+			(uuid "5280258d-1105-44da-b1f3-e28426736a47")
+		)
+		(pin "7_-_20A_(B13)"
+			(uuid "99b924e9-eb8f-4e99-84fa-1c237caee610")
+		)
+		(pin "8_-_8A"
+			(uuid "60029712-f886-473d-9bb0-052f02db92de")
+		)
+		(pin "9_-_20A_(B3)"
+			(uuid "33bed3f7-d8de-4946-a53f-7fc788e24ba3")
+		)
+		(pin "10_-_8A"
+			(uuid "2dc5df72-7ebf-4790-8197-3b919bb33efc")
+		)
+		(pin "11_-_20A_(B5)"
+			(uuid "04d1e0cc-f99c-4bd9-9d6a-f5e7b5dc251c")
+		)
+		(pin "12_-_8A"
+			(uuid "cb542524-eca2-4387-a26c-8bd21d451f0f")
+		)
+		(pin "13_-_20A_(B7)"
+			(uuid "505efc9c-d4c7-4299-86ff-92b9b4116a22")
+		)
+		(pin "14_-_8A"
+			(uuid "bfcc3650-ee3f-4f40-8080-b1ad5383c42e")
+		)
+		(pin "15_-_DIG13"
+			(uuid "c39b0242-f228-45ae-b48a-65747e8bf9d3")
+		)
+		(pin "16_-_8A"
+			(uuid "2eec20b7-ac91-4b83-a88b-54bb838ca313")
+		)
+		(pin "17_-_DIG15"
+			(uuid "eb3a85a4-8e44-4189-90c7-da98a2a276e5")
+		)
+		(pin "18_-_VBATT-"
+			(uuid "5b9a80eb-1a32-4db2-87dc-c285fdda75f4")
+		)
+		(pin "19_-_8A"
+			(uuid "f286fa8a-9e03-41c3-b08d-88acf684b1d7")
+		)
+		(pin "20_-_DIG11"
+			(uuid "6a81f521-6941-40b6-9da0-811e80cce1e1")
+		)
+		(pin "21_-_DIG12"
+			(uuid "eaa26cb2-b10d-4e1e-82ed-cf80d3ef69cb")
+		)
+		(pin "22_-_0V"
+			(uuid "ab8c54f4-a3db-4f70-a4e2-6f1229e266ca")
+		)
+		(pin "23_-_DIG14"
+			(uuid "bb11d48b-b180-4401-94de-cb95dbdfcba4")
+		)
+		(pin "24_-_DIG16"
+			(uuid "cf075ac3-134c-4c2d-be5b-17e4f8b6ab22")
+		)
+		(pin "25_-_CAN_LOW"
+			(uuid "28ef38e7-42d6-4526-beff-b50cdaa3bdbe")
+		)
+		(pin "26_-_CAN_HIGH"
+			(uuid "eb6e023d-346b-4eb3-86c6-af04b62b9c3f")
+		)
+		(instances
+			(project "Dyno Harness 2026"
+				(path "/01d52fff-0621-4906-b716-923629de591a"
+					(reference "J4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "4")
+		)
+	)
+)
