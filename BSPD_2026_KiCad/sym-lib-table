@@ -1,0 +1,7 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "796949-7") (type "Altium") (uri "${KIPRJMOD}/796949-7.SchLib") (options "") (descr ""))
+	(lib (name "B3PS-VH(LF)(SN)") (type "Altium") (uri "${KIPRJMOD}/B3PS-VH(LF)(SN).SchLib") (options "") (descr ""))
+	(lib (name "ESP32-DEVKITC-32D") (type "Altium") (uri "${KIPRJMOD}/ESP32-DEVKITC-32D.SchLib") (options "") (descr ""))
+	(lib (name "FSM6JSMATR") (type "Altium") (uri "${KIPRJMOD}/FSM6JSMATR.SchLib") (options "") (descr ""))
+)
