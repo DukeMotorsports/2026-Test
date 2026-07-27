@@ -26101,7 +26101,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0dc3fc8b-c4e9-4c8e-b5d7-19b71cb96f92")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR062"
 			(at 160.02 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -26158,7 +26158,7 @@
 		(instances
 			(project "BSPD 2026"
 				(path "/f23f8870-84ad-4046-9d17-50564d99fa29"
-					(reference "#PWR?")
+					(reference "#PWR062")
 					(unit 1)
 				)
 			)
@@ -26376,7 +26376,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "24031c6f-a59d-435a-a3d9-9fbb317686d0")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR057"
 			(at 93.98 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -26433,7 +26433,7 @@
 		(instances
 			(project "BSPD 2026"
 				(path "/f23f8870-84ad-4046-9d17-50564d99fa29"
-					(reference "#PWR?")
+					(reference "#PWR057")
 					(unit 1)
 				)
 			)
@@ -26450,7 +26450,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "33c9d8ac-c555-40cd-9682-0f0ad41e89a0")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR064"
 			(at 182.88 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -26507,7 +26507,7 @@
 		(instances
 			(project "BSPD 2026"
 				(path "/f23f8870-84ad-4046-9d17-50564d99fa29"
-					(reference "#PWR?")
+					(reference "#PWR064")
 					(unit 1)
 				)
 			)
@@ -26524,7 +26524,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3959b6d7-4957-4774-a410-b3b718980cb2")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR055"
 			(at 86.36 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -26581,7 +26581,7 @@
 		(instances
 			(project "BSPD 2026"
 				(path "/f23f8870-84ad-4046-9d17-50564d99fa29"
-					(reference "#PWR?")
+					(reference "#PWR055")
 					(unit 1)
 				)
 			)
@@ -27284,7 +27284,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "45a5caf5-3ab3-4467-9540-b55351efd45a")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR051"
 			(at 45.72 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -27342,7 +27342,7 @@
 		(instances
 			(project "BSPD 2026"
 				(path "/f23f8870-84ad-4046-9d17-50564d99fa29"
-					(reference "#PWR?")
+					(reference "#PWR051")
 					(unit 1)
 				)
 			)
@@ -27921,7 +27921,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5cfb14e9-1b86-4ef2-b30d-2b0af0613bcc")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR060"
 			(at 137.16 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -27978,7 +27978,7 @@
 		(instances
 			(project "BSPD 2026"
 				(path "/f23f8870-84ad-4046-9d17-50564d99fa29"
-					(reference "#PWR?")
+					(reference "#PWR060")
 					(unit 1)
 				)
 			)
@@ -30997,7 +30997,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "896aafdb-dbc0-4d99-96cc-53c3435a9530")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR067"
 			(at 205.74 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -31054,7 +31054,7 @@
 		(instances
 			(project "BSPD 2026"
 				(path "/f23f8870-84ad-4046-9d17-50564d99fa29"
-					(reference "#PWR?")
+					(reference "#PWR067")
 					(unit 1)
 				)
 			)
@@ -31423,7 +31423,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9821cf8c-99a5-48ba-b07c-e3a33c9bd58c")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR063"
 			(at 160.02 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -31480,7 +31480,7 @@
 		(instances
 			(project "BSPD 2026"
 				(path "/f23f8870-84ad-4046-9d17-50564d99fa29"
-					(reference "#PWR?")
+					(reference "#PWR063")
 					(unit 1)
 				)
 			)
@@ -31497,7 +31497,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9b6284de-4877-43ac-9420-783c6538327d")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR061"
 			(at 137.16 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -31554,7 +31554,7 @@
 		(instances
 			(project "BSPD 2026"
 				(path "/f23f8870-84ad-4046-9d17-50564d99fa29"
-					(reference "#PWR?")
+					(reference "#PWR061")
 					(unit 1)
 				)
 			)
@@ -31721,7 +31721,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9fac09d0-c65b-4251-8a2e-d03595cc73a5")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR049"
 			(at 22.86 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -31779,7 +31779,7 @@
 		(instances
 			(project "BSPD 2026"
 				(path "/f23f8870-84ad-4046-9d17-50564d99fa29"
-					(reference "#PWR?")
+					(reference "#PWR049")
 					(unit 1)
 				)
 			)
@@ -31796,7 +31796,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a68b0d08-d0aa-4559-aa44-60587f4628a4")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR065"
 			(at 182.88 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -31853,7 +31853,7 @@
 		(instances
 			(project "BSPD 2026"
 				(path "/f23f8870-84ad-4046-9d17-50564d99fa29"
-					(reference "#PWR?")
+					(reference "#PWR065")
 					(unit 1)
 				)
 			)
@@ -32203,7 +32203,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "aba45165-b347-4e52-bca2-4e0f4766562f")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR056"
 			(at 86.36 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -32260,7 +32260,7 @@
 		(instances
 			(project "BSPD 2026"
 				(path "/f23f8870-84ad-4046-9d17-50564d99fa29"
-					(reference "#PWR?")
+					(reference "#PWR056")
 					(unit 1)
 				)
 			)
@@ -32937,7 +32937,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "acfa6b4e-203d-499a-9038-6d93a5d7ab00")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR054"
 			(at 76.2 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -32994,7 +32994,7 @@
 		(instances
 			(project "BSPD 2026"
 				(path "/f23f8870-84ad-4046-9d17-50564d99fa29"
-					(reference "#PWR?")
+					(reference "#PWR054")
 					(unit 1)
 				)
 			)
@@ -33011,7 +33011,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ae2e31f0-a843-465e-b4bb-9dfbfd438653")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR059"
 			(at 106.68 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -33068,7 +33068,7 @@
 		(instances
 			(project "BSPD 2026"
 				(path "/f23f8870-84ad-4046-9d17-50564d99fa29"
-					(reference "#PWR?")
+					(reference "#PWR059")
 					(unit 1)
 				)
 			)
@@ -33085,7 +33085,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ae7db36f-dafb-40fe-9379-5b79d0d33cad")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR052"
 			(at 48.26 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -33143,7 +33143,7 @@
 		(instances
 			(project "BSPD 2026"
 				(path "/f23f8870-84ad-4046-9d17-50564d99fa29"
-					(reference "#PWR?")
+					(reference "#PWR052")
 					(unit 1)
 				)
 			)
@@ -33160,7 +33160,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b8d637f3-d3b1-4a1f-83a7-f273bc75e5ee")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR068"
 			(at 205.74 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -33217,7 +33217,7 @@
 		(instances
 			(project "BSPD 2026"
 				(path "/f23f8870-84ad-4046-9d17-50564d99fa29"
-					(reference "#PWR?")
+					(reference "#PWR068")
 					(unit 1)
 				)
 			)
@@ -33925,7 +33925,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c164cc28-2801-4900-8920-01bcbc99a291")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR066"
 			(at 182.88 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -33982,7 +33982,7 @@
 		(instances
 			(project "BSPD 2026"
 				(path "/f23f8870-84ad-4046-9d17-50564d99fa29"
-					(reference "#PWR?")
+					(reference "#PWR066")
 					(unit 1)
 				)
 			)
@@ -34892,7 +34892,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e026edc2-fcd3-42e7-a84e-717ccfd8f130")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR050"
 			(at 38.1 205.74 0)
 			(hide yes)
 			(show_name no)
@@ -34950,7 +34950,7 @@
 		(instances
 			(project "BSPD 2026"
 				(path "/f23f8870-84ad-4046-9d17-50564d99fa29"
-					(reference "#PWR?")
+					(reference "#PWR050")
 					(unit 1)
 				)
 			)
@@ -34967,7 +34967,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e46d9f8f-9df2-4323-84cf-03ff0ccdd028")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR053"
 			(at 53.34 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -35025,7 +35025,7 @@
 		(instances
 			(project "BSPD 2026"
 				(path "/f23f8870-84ad-4046-9d17-50564d99fa29"
-					(reference "#PWR?")
+					(reference "#PWR053")
 					(unit 1)
 				)
 			)
@@ -35042,7 +35042,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ec9338b6-7885-46cd-94e9-1676f4287d1a")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR058"
 			(at 106.68 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -35099,7 +35099,7 @@
 		(instances
 			(project "BSPD 2026"
 				(path "/f23f8870-84ad-4046-9d17-50564d99fa29"
-					(reference "#PWR?")
+					(reference "#PWR058")
 					(unit 1)
 				)
 			)
