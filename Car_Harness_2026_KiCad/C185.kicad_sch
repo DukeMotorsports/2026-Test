@@ -9893,12 +9893,6 @@
 					(unit 1)
 				)
 			)
-			(project "Car Harness 2026_KiCad"
-				(path "/cc5c8a0b-82f5-4d2d-ad93-9475d7b45464"
-					(reference "C1")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -9912,7 +9906,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f36b1e57-e2ac-4ae3-a863-088c5a9016fa")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR06"
 			(at 119.38 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -9970,13 +9964,7 @@
 		(instances
 			(project "Car Harness 2026_KiCad"
 				(path "/5dbc07ba-3bc7-4ac7-a248-7c4937eb7523/46632f4c-7820-4264-84db-88ac5623aa8b"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-			(project "Car Harness 2026_KiCad"
-				(path "/cc5c8a0b-82f5-4d2d-ad93-9475d7b45464"
-					(reference "#PWR?")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)

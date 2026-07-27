@@ -2964,6 +2964,10 @@
 		(uuid "d788c7bf-4533-492f-b324-fe39326a5388")
 	)
 	(no_connect
+		(at 55.88 175.26)
+		(uuid "dee02411-f837-42de-a049-29a10c408115")
+	)
+	(no_connect
 		(at 134.62 142.24)
 		(uuid "f864ebcc-b8f7-41e9-9129-5044dd5b1d98")
 	)
@@ -3737,6 +3741,16 @@
 		)
 		(uuid "ff59849d-52bf-4e8b-beb1-9792691858b9")
 	)
+	(label "ECU_0V_A2"
+		(at 63.5 33.02 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f66c64aa-8ff4-486a-adf9-75ceac96aec6")
+	)
 	(hierarchical_label "IAT"
 		(shape input)
 		(at 318.77 147.32 0)
@@ -4188,17 +4202,6 @@
 		)
 		(uuid "b5e81c19-a4a9-412b-827c-da086a0ada5f")
 	)
-	(hierarchical_label "ECU_0V_A2"
-		(shape output)
-		(at 63.5 33.02 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "b8864bd7-b726-4b54-a17f-fe176dc54ada")
-	)
 	(hierarchical_label "EX_P_SIG"
 		(shape passive)
 		(at 139.7 106.68 0)
@@ -4646,12 +4649,6 @@
 					(unit 1)
 				)
 			)
-			(project "Car Harness 2026_KiCad"
-				(path "/d13c5794-76eb-4519-a9ce-490cd47a1530"
-					(reference "B1")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -4853,12 +4850,6 @@
 					(unit 1)
 				)
 			)
-			(project "Car Harness 2026_KiCad"
-				(path "/d13c5794-76eb-4519-a9ce-490cd47a1530"
-					(reference "R2")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -4872,7 +4863,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4eaaa1f8-bb71-4774-a1d0-ae884d9ce592")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR02"
 			(at 215.9 17.78 0)
 			(hide yes)
 			(show_name no)
@@ -4929,13 +4920,7 @@
 		(instances
 			(project "Car Harness 2026_KiCad"
 				(path "/5dbc07ba-3bc7-4ac7-a248-7c4937eb7523/14a27544-892c-405d-a2d9-61a7cb7a920b"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-			(project "Car Harness 2026_KiCad"
-				(path "/d13c5794-76eb-4519-a9ce-490cd47a1530"
-					(reference "#PWR?")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -4952,7 +4937,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "731e3442-9c76-42a5-a0e6-dc3cfb278224")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR05"
 			(at 231.14 17.78 0)
 			(hide yes)
 			(show_name no)
@@ -5009,13 +4994,7 @@
 		(instances
 			(project "Car Harness 2026_KiCad"
 				(path "/5dbc07ba-3bc7-4ac7-a248-7c4937eb7523/14a27544-892c-405d-a2d9-61a7cb7a920b"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-			(project "Car Harness 2026_KiCad"
-				(path "/d13c5794-76eb-4519-a9ce-490cd47a1530"
-					(reference "#PWR?")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -5316,12 +5295,6 @@
 					(unit 1)
 				)
 			)
-			(project "Car Harness 2026_KiCad"
-				(path "/d13c5794-76eb-4519-a9ce-490cd47a1530"
-					(reference "C2")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -5595,12 +5568,6 @@
 					(unit 1)
 				)
 			)
-			(project "Car Harness 2026_KiCad"
-				(path "/d13c5794-76eb-4519-a9ce-490cd47a1530"
-					(reference "D1")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -5798,12 +5765,6 @@
 		(instances
 			(project "Car Harness 2026_KiCad"
 				(path "/5dbc07ba-3bc7-4ac7-a248-7c4937eb7523/14a27544-892c-405d-a2d9-61a7cb7a920b"
-					(reference "R1")
-					(unit 1)
-				)
-			)
-			(project "Car Harness 2026_KiCad"
-				(path "/d13c5794-76eb-4519-a9ce-490cd47a1530"
 					(reference "R1")
 					(unit 1)
 				)
@@ -6106,12 +6067,6 @@
 					(unit 1)
 				)
 			)
-			(project "Car Harness 2026_KiCad"
-				(path "/d13c5794-76eb-4519-a9ce-490cd47a1530"
-					(reference "A1")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -6125,7 +6080,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bbc4a619-856a-43c8-b3dc-1994bf99dc6e")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR03"
 			(at 220.98 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -6183,13 +6138,7 @@
 		(instances
 			(project "Car Harness 2026_KiCad"
 				(path "/5dbc07ba-3bc7-4ac7-a248-7c4937eb7523/14a27544-892c-405d-a2d9-61a7cb7a920b"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-			(project "Car Harness 2026_KiCad"
-				(path "/d13c5794-76eb-4519-a9ce-490cd47a1530"
-					(reference "#PWR?")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -6206,7 +6155,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c5f93bc8-b048-45da-86bc-b2726bfc86a5")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR04"
 			(at 223.52 17.78 0)
 			(hide yes)
 			(show_name no)
@@ -6263,13 +6212,7 @@
 		(instances
 			(project "Car Harness 2026_KiCad"
 				(path "/5dbc07ba-3bc7-4ac7-a248-7c4937eb7523/14a27544-892c-405d-a2d9-61a7cb7a920b"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-			(project "Car Harness 2026_KiCad"
-				(path "/d13c5794-76eb-4519-a9ce-490cd47a1530"
-					(reference "#PWR?")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -6286,7 +6229,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d2b19da7-49a5-4ca2-a398-99a35c28b47c")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR01"
 			(at 63.5 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -6344,13 +6287,7 @@
 		(instances
 			(project "Car Harness 2026_KiCad"
 				(path "/5dbc07ba-3bc7-4ac7-a248-7c4937eb7523/14a27544-892c-405d-a2d9-61a7cb7a920b"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
-			(project "Car Harness 2026_KiCad"
-				(path "/d13c5794-76eb-4519-a9ce-490cd47a1530"
-					(reference "#PWR?")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -6551,12 +6488,6 @@
 		(instances
 			(project "Car Harness 2026_KiCad"
 				(path "/5dbc07ba-3bc7-4ac7-a248-7c4937eb7523/14a27544-892c-405d-a2d9-61a7cb7a920b"
-					(reference "R3")
-					(unit 1)
-				)
-			)
-			(project "Car Harness 2026_KiCad"
-				(path "/d13c5794-76eb-4519-a9ce-490cd47a1530"
 					(reference "R3")
 					(unit 1)
 				)

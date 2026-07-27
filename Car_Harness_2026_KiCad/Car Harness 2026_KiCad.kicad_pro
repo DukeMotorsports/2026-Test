@@ -416,7 +416,7 @@
         "uuid": "5dbc07ba-3bc7-4ac7-a248-7c4937eb7523"
       }
     ],
-    "used_designators": "*1,UTC1,SM1-3,USBC1,TS1-5,SW1-2,S1-5,PS1-5,RPS1-2,P1,CPS1,M1,J1,MoTeC LTCD1-3,HE1-6,INJ1-2,IGNC1-2,GP1-2,GPS1,DBR1,T1,Knock L1,D1-2,F1,RS1-4,C1-2,IGN1,U1,ETH1-2,L1-2,PDM1,B1-3,SS1-4,SPS1,A1-2,TB1,Knock R1,R1-7",
+    "used_designators": "UTC1,RPS1-2,USBC1,SM1-3,*1,SS1-4,P1,PS1-5,TS1-5,HE1-6,T1,TB1,Knock R1,SW1-2,CPS1,S1-5,IGNC1-2,M1,J1,MoTeC LTCD1-3,INJ1-2,GPS1,ETH1-2,U1,DBR1,Knock L1,D1-2,F1,B1-3,IGN1,RS1-4,L1-2,PDM1,C1-2,#PWR1-26,SPS1,A1-2,GP1-2,R1-7",
     "variants": []
   },
   "sheets": [
