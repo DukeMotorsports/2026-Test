@@ -1,0 +1,1051 @@
+** Drc report for BSPD 2026.kicad_pcb **
+** Created on 2026-07-26T21:12:56 **
+** Report includes: Errors, Warnings **
+
+** Found 317 DRC violations **
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(126.8349 mm, 119.7610 mm): Via [NetJ1_12] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(127.5207 mm, 114.8588 mm): Via [NetJ1_12] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(117.7417 mm, 119.0752 mm): Via [NetJ1_11] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(118.9863 mm, 113.1062 mm): Via [NetJ1_11] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(121.8057 mm, 110.8456 mm): Via [NetJ1_10] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(123.2789 mm, 123.1138 mm): Via [NetJ1_10] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(120.8151 mm, 108.9152 mm): Via [NetJ1_9] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(120.1293 mm, 119.3038 mm): Via [NetJ1_9] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(159.1183 mm, 98.7044 mm): Via [NetU3_6] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(163.4624 mm, 96.5200 mm): Via [NetU3_6] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(158.0769 mm, 96.5708 mm): Via [HARD_BRAKE] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(163.3347 mm, 92.9894 mm): Via [HARD_BRAKE] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(158.7627 mm, 94.3864 mm): Via [HARD_BRAKE_DELAY] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(165.1381 mm, 98.6790 mm): Via [HARD_BRAKE_DELAY] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(173.0121 mm, 106.1720 mm): Via [VCC] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(168.4147 mm, 96.6470 mm): Via [VCC] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(167.0685 mm, 93.5228 mm): Via [VCC] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(155.9687 mm, 121.8438 mm): Via [VCC] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(159.2199 mm, 89.0524 mm): Via [VCC] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(173.0375 mm, 92.4560 mm): Via [VCC] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(173.0375 mm, 113.3602 mm): Via [VCC] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(154.0383 mm, 100.8888 mm): Via [VCC] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(173.0121 mm, 120.3198 mm): Via [VCC] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(147.8661 mm, 107.7214 mm): Via [VCC] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(162.8521 mm, 109.3724 mm): Via [VCC] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(148.0185 mm, 117.7544 mm): Via [VCC] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(161.6329 mm, 120.2944 mm): Via [VCC] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(164.4777 mm, 107.1372 mm): Via [VCC] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(148.0514 mm, 96.3170 mm): Via [VCC] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(173.0121 mm, 99.0600 mm): Via [VCC] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(155.5992 mm, 113.9583 mm): Via [VCC] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(173.1137 mm, 85.0646 mm): Via [VCC] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(153.4287 mm, 93.9800 mm): Via [VCC] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(127.9779 mm, 105.9434 mm): Via [TPSJ] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(161.5567 mm, 95.3516 mm): Via [TPSH] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(153.6319 mm, 109.1946 mm): Via [TPSH] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(162.4457 mm, 99.9251 mm): Via [TPSD] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(162.4457 mm, 105.7656 mm): Via [TPSD] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(158.5849 mm, 110.4392 mm): Via [TPSD] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(155.3591 mm, 116.7638 mm): Via [TPS_LO_REF] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(128.4605 mm, 123.5710 mm): Via [TPS_LO_REF] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(149.4917 mm, 115.6476 mm): Via [TPS_LO_REF] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(157.1371 mm, 114.8842 mm): Via [TPS_LO_REF] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(146.4945 mm, 113.9444 mm): Via [TPS_HI_REF] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(127.4953 mm, 121.7168 mm): Via [TPS_HI_REF] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(150.0759 mm, 93.4212 mm): Via [NetR24_1] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(169.2529 mm, 92.7100 mm): Via [NetR24_1] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(161.6583 mm, 89.7890 mm): Via [NetR24_1] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(158.0515 mm, 116.1288 mm): Via [NetR2_2] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(154.7241 mm, 110.9472 mm): Via [NetR2_2] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(165.2143 mm, 121.5136 mm): Via [NetR1_2] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(155.1559 mm, 120.3960 mm): Via [NetR1_2] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(138.2141 mm, 114.2746 mm): Via [GND] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(164.5793 mm, 101.9048 mm): Via [GND] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(167.0431 mm, 94.7928 mm): Via [GND] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(158.8889 mm, 101.8540 mm): Via [GND] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(141.1605 mm, 105.0544 mm): Via [EXT_BTNJ] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(158.4579 mm, 105.0798 mm): Via [EXT_BTNJ] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(131.2799 mm, 96.3676 mm): Via [EXT_BTNJ] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(127.9017 mm, 97.7646 mm): Via [EXT_BTNJ] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(164.3253 mm, 97.6122 mm): Via [DISC_DELAY] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(158.9913 mm, 99.8474 mm): Via [DISC_DELAY] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(128.4859 mm, 103.9114 mm): Via [BSEJ] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(161.5771 mm, 93.7818 mm): Via [BSEH] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(153.9367 mm, 118.7704 mm): Via [BSEH] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(165.2897 mm, 111.5314 mm): Via [BSED] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(158.6865 mm, 120.1420 mm): Via [BSED] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(162.2679 mm, 101.3460 mm): Via [BSED] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(118.7069 mm, 122.3772 mm): Via [BSE_LO_REF] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(158.2801 mm, 125.1204 mm): Via [BSE_LO_REF] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(152.4127 mm, 114.8842 mm): Via [+7] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(152.3873 mm, 124.4854 mm): Via [+7] on Top Signal - Bottom Signal
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(140.6017 mm, 114.8588 mm): Via [+7] on Top Signal - Bottom Signal
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1023 mm)
+    Local override; error
+    @(119.2779 mm, 124.0404 mm): Track [NetJ1_11] on Top Signal, length 0.2701 mm
+    @(120.0979 mm, 123.5860 mm): Pad 5 [BSE_HI_REF] of U12 on Top Signal
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1016 mm)
+    Local override; error
+    @(137.3143 mm, 114.8302 mm): Pad 3 [12V] of U2 on Top Signal
+    @(134.5440 mm, 119.0752 mm): Track [+7] on Top Signal, length 5.1591 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1558 mm)
+    Local override; error
+    @(138.3280 mm, 110.9450 mm): Track [+7] on Top Signal, length 1.8091 mm
+    @(139.6280 mm, 110.8950 mm): Pad 2 [NetC5_2] of R4 on Top Signal
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1933 mm)
+    Local override; error
+    @(126.4853 mm, 107.1626 mm): Track [12VJ] on Top Signal, length 2.0062 mm
+    @(129.1915 mm, 107.1206 mm): Track [NetD1_1] on Top Signal, length 0.0764 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1926 mm)
+    Local override; error
+    @(155.1040 mm, 103.3413 mm): Pad 3 [NetR18_1] of U11 on Top Signal
+    @(153.9482 mm, 103.5000 mm): Track [DISCDIV] on Top Signal, length 0.9202 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1853 mm)
+    Local override; error
+    @(160.5745 mm, 101.2894 mm): Pad 7 [GND] of U7 on Top Signal
+    @(159.5247 mm, 102.5398 mm): Track [DISC] on Top Signal, length 1.6548 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1016 mm)
+    Local override; error
+    @(137.9791 mm, 103.0717 mm): PTH pad 4 [NetR24_1] of S2
+    @(134.4511 mm, 100.9277 mm): Track [EXT_BTNJ] on Top Signal, length 5.8361 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1016 mm)
+    Local override; error
+    @(150.2571 mm, 90.2816 mm): Track [NetR10_2] on Top Signal, length 4.6492 mm
+    @(154.1399 mm, 91.1352 mm): Pad 1 [<no net>] of U5 on Top Signal
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1880 mm)
+    Local override; error
+    @(156.5529 mm, 95.3770 mm): Pad 7 [<no net>] of U10 on Top Signal
+    @(155.1179 mm, 95.8770 mm): Track [NetR15_2] on Top Signal, length 0.2950 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1948 mm)
+    Local override; error
+    @(151.7387 mm, 93.9936 mm): Track [NetR10_2] on Top Signal, length 0.4502 mm
+    @(151.2649 mm, 93.4166 mm): Pad 3 [GND] of U8 on Top Signal
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1800 mm)
+    Local override; error
+    @(156.5529 mm, 95.3770 mm): Pad 7 [<no net>] of U10 on Top Signal
+    @(155.4209 mm, 96.3289 mm): Track [NetR15_2] on Top Signal, length 0.4439 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1800 mm)
+    Local override; error
+    @(156.5529 mm, 95.3770 mm): Pad 7 [<no net>] of U10 on Top Signal
+    @(155.4129 mm, 95.8770 mm): Track [NetR15_2] on Top Signal, length 0.0113 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1343 mm)
+    Local override; error
+    @(147.7391 mm, 93.6852 mm): Pad 1 [GND] of C11 on Top Signal
+    @(148.0834 mm, 92.7100 mm): Track [NetR24_1] on Top Signal, length 0.9992 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1098 mm)
+    Local override; error
+    @(162.8267 mm, 97.6630 mm): Track [NetU4_1] on Top Signal, length 4.0707 mm
+    @(166.4505 mm, 99.9894 mm): Pad 10 [FAULT_TRIG] of U7 on Top Signal
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1551 mm)
+    Local override; error
+    @(160.9400 mm, 91.5853 mm): Track [NetU4_1] on Top Signal, length 2.6682 mm
+    @(161.7599 mm, 91.1352 mm): Pad 7 [NetR24_1] of U5 on Top Signal
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1531 mm)
+    Local override; error
+    @(166.4505 mm, 100.6394 mm): Pad 9 [NetU4_1] of U7 on Top Signal
+    @(162.3187 mm, 97.8662 mm): Track [NetU5_4] on Top Signal, length 4.7025 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1016 mm)
+    Local override; error
+    @(152.2402 mm, 116.6675 mm): Track [TPS_LO_REF] on Top Signal, length 2.8443 mm
+    @(152.2821 mm, 117.1872 mm): Pad 5 [NetR1_2] of U9 on Top Signal
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1016 mm)
+    Local override; error
+    @(151.2745 mm, 115.7018 mm): Track [TPS_LO_REF] on Top Signal, length 1.3658 mm
+    @(152.2821 mm, 117.1872 mm): Pad 5 [NetR1_2] of U9 on Top Signal
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1973 mm)
+    Local override; error
+    @(161.0757 mm, 94.5150 mm): Track [TPSH] on Top Signal, length 0.6115 mm
+    @(160.3941 mm, 95.0670 mm): Pad 3 [NetU3_3] of U3 on Top Signal
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1016 mm)
+    Local override; error
+    @(125.1325 mm, 102.8098 mm): Pad 6 [NetJ1_6] of J1 on Top Signal
+    @(126.5801 mm, 101.6982 mm): Track [TPSJ] on Top Signal, length 1.2584 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1369 mm)
+    Local override; error
+    @(155.1179 mm, 95.8770 mm): Pad 3 [NetR15_2] of U10 on Top Signal
+    @(153.9581 mm, 96.1183 mm): Track [HARDBRAKEDIV] on Top Signal, length 1.0370 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1615 mm)
+    Local override; error
+    @(155.1040 mm, 104.2015 mm): Track [NetR18_1] on Top Signal, length 0.6298 mm
+    @(154.4191 mm, 104.7218 mm): Pad 2 [GND] of R17 on Top Signal
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1615 mm)
+    Local override; error
+    @(155.1040 mm, 104.2015 mm): Track [NetR18_1] on Top Signal, length 0.8602 mm
+    @(154.4191 mm, 104.7218 mm): Pad 2 [GND] of R17 on Top Signal
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1875 mm)
+    Local override; error
+    @(159.3984 mm, 94.6411 mm): Track [NetU3_3] on Top Signal, length 0.4636 mm
+    @(160.3941 mm, 94.4170 mm): Pad 2 [TPSH] of U3 on Top Signal
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1547 mm)
+    Local override; error
+    @(164.2941 mm, 95.7170 mm): Pad 5 [NetU3_5] of U3 on Top Signal
+    @(163.4624 mm, 96.5200 mm): Track [NetU3_6] on Top Signal, length 1.2074 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1990 mm)
+    Local override; error
+    @(164.2941 mm, 95.7170 mm): Pad 5 [NetU3_5] of U3 on Top Signal
+    @(163.4624 mm, 95.3126 mm): Track [NetU3_6] on Top Signal, length 0.2088 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1020 mm)
+    Local override; error
+    @(124.8829 mm, 124.0404 mm): Track [NetJ1_10] on Top Signal, length 0.2727 mm
+    @(125.6979 mm, 123.5860 mm): Pad 10 [TPS_LO_REF] of U12 on Top Signal
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1020 mm)
+    Local override; error
+    @(124.2055 mm, 124.0404 mm): Track [NetJ1_10] on Top Signal, length 0.6774 mm
+    @(125.6979 mm, 123.5860 mm): Pad 10 [TPS_LO_REF] of U12 on Top Signal
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1023 mm)
+    Local override; error
+    @(120.0979 mm, 123.5860 mm): Pad 5 [BSE_HI_REF] of U12 on Top Signal
+    @(118.5159 mm, 124.0404 mm): Track [NetJ1_11] on Top Signal, length 0.7620 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1800 mm)
+    Local override; error
+    @(155.1040 mm, 102.3413 mm): Pad 1 [VCC] of U11 on Top Signal
+    @(156.5390 mm, 102.8413 mm): Pad 7 [<no net>] of U11 on Top Signal
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1800 mm)
+    Local override; error
+    @(155.1040 mm, 102.8413 mm): Pad 2 [DISCDIV] of U11 on Top Signal
+    @(156.5390 mm, 102.8413 mm): Pad 7 [<no net>] of U11 on Top Signal
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1800 mm)
+    Local override; error
+    @(155.1040 mm, 103.3413 mm): Pad 3 [NetR18_1] of U11 on Top Signal
+    @(156.5390 mm, 102.8413 mm): Pad 7 [<no net>] of U11 on Top Signal
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1800 mm)
+    Local override; error
+    @(157.9740 mm, 103.3413 mm): Pad 4 [DISC] of U11 on Top Signal
+    @(156.5390 mm, 102.8413 mm): Pad 7 [<no net>] of U11 on Top Signal
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1800 mm)
+    Local override; error
+    @(157.9740 mm, 102.8413 mm): Pad 5 [GND] of U11 on Top Signal
+    @(156.5390 mm, 102.8413 mm): Pad 7 [<no net>] of U11 on Top Signal
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1800 mm)
+    Local override; error
+    @(157.9740 mm, 102.3413 mm): Pad 6 [DISC_DELAY] of U11 on Top Signal
+    @(156.5390 mm, 102.8413 mm): Pad 7 [<no net>] of U11 on Top Signal
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1800 mm)
+    Local override; error
+    @(155.1179 mm, 94.8770 mm): Pad 1 [VCC] of U10 on Top Signal
+    @(156.5529 mm, 95.3770 mm): Pad 7 [<no net>] of U10 on Top Signal
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1800 mm)
+    Local override; error
+    @(155.1179 mm, 95.3770 mm): Pad 2 [HARDBRAKEDIV] of U10 on Top Signal
+    @(156.5529 mm, 95.3770 mm): Pad 7 [<no net>] of U10 on Top Signal
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1800 mm)
+    Local override; error
+    @(155.1179 mm, 95.8770 mm): Pad 3 [NetR15_2] of U10 on Top Signal
+    @(156.5529 mm, 95.3770 mm): Pad 7 [<no net>] of U10 on Top Signal
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1800 mm)
+    Local override; error
+    @(157.9879 mm, 95.8770 mm): Pad 4 [HARD_BRAKE] of U10 on Top Signal
+    @(156.5529 mm, 95.3770 mm): Pad 7 [<no net>] of U10 on Top Signal
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1800 mm)
+    Local override; error
+    @(157.9879 mm, 95.3770 mm): Pad 5 [GND] of U10 on Top Signal
+    @(156.5529 mm, 95.3770 mm): Pad 7 [<no net>] of U10 on Top Signal
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1800 mm)
+    Local override; error
+    @(157.9879 mm, 94.8770 mm): Pad 6 [HARD_BRAKE_DELAY] of U10 on Top Signal
+    @(156.5529 mm, 95.3770 mm): Pad 7 [<no net>] of U10 on Top Signal
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2514 mm)
+    Rule: board setup constraints edge; error
+    @(116.7511 mm, 131.6736 mm): Segment on Edge.Cuts
+    @(119.6525 mm, 90.2598 mm): Pad 13 [GND] of J1 on Top Signal
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2514 mm)
+    Rule: board setup constraints edge; error
+    @(116.7511 mm, 131.6736 mm): Segment on Edge.Cuts
+    @(119.6525 mm, 117.3598 mm): Pad 14 [GND] of J1 on Top Signal
+[starved_thermal]: Thermal relief connection to zone incomplete (layer Top Signal; zone min spoke count 2; actual 1)
+    Local override; error
+    @(116.7511 mm, 131.6736 mm): Zone [GND] on Top Signal, priority 1
+    @(160.5745 mm, 101.2894 mm): Pad 7 [GND] of U7 on Top Signal
+[starved_thermal]: Thermal relief connection to zone incomplete (layer Top Signal; zone min spoke count 2; actual 1)
+    Local override; error
+    @(116.7511 mm, 131.6736 mm): Zone [GND] on Top Signal, priority 1
+    @(157.9879 mm, 95.3770 mm): Pad 5 [GND] of U10 on Top Signal
+[starved_thermal]: Thermal relief connection to zone incomplete (layer Top Signal; zone min spoke count 2; actual 1)
+    Local override; error
+    @(116.7511 mm, 131.6736 mm): Zone [GND] on Top Signal, priority 1
+    @(151.2649 mm, 93.4166 mm): Pad 3 [GND] of U8 on Top Signal
+[starved_thermal]: Thermal relief connection to zone incomplete (layer Top Signal; zone min spoke count 2; actual 1)
+    Local override; error
+    @(116.7511 mm, 131.6736 mm): Zone [GND] on Top Signal, priority 1
+    @(143.7929 mm, 103.0732 mm): Pad 1 [GND] of R1 on Top Signal
+[starved_thermal]: Thermal relief connection to zone incomplete (layer Top Signal; zone min spoke count 2; actual 1)
+    Local override; error
+    @(116.7511 mm, 131.6736 mm): Zone [GND] on Top Signal, priority 1
+    @(147.7391 mm, 93.6852 mm): Pad 1 [GND] of C11 on Top Signal
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(116.7511 mm, 131.6736 mm): Segment on Edge.Cuts
+    @(116.8025 mm, 116.1348 mm): Segment of J1 on Top Overlay
+[padstack]: Padstack is questionable (negative solder paste margin is larger than pad; no solder paste mask will be generated)
+    Local override; warning
+    @(148.8313 mm, 113.6396 mm): Pad 1 [TPS_HI_REF] of  on Top Signal
+[padstack]: Padstack is questionable (negative solder paste margin is larger than pad; no solder paste mask will be generated)
+    Local override; warning
+    @(167.7543 mm, 114.5794 mm): Pad 6 [NetR2_2] of  on Top Signal
+[padstack]: Padstack is questionable (negative solder paste margin is larger than pad; no solder paste mask will be generated)
+    Local override; warning
+    @(160.5153 mm, 113.6142 mm): Pad 2 [TPS_LO_REF] of  on Top Signal
+[padstack]: Padstack is questionable (negative solder paste margin is larger than pad; no solder paste mask will be generated)
+    Local override; warning
+    @(167.7543 mm, 122.4788 mm): Pad 7 [NetR1_2] of  on Top Signal
+[padstack]: Padstack is questionable (negative solder paste margin is larger than pad; no solder paste mask will be generated)
+    Local override; warning
+    @(156.5529 mm, 95.3770 mm): Pad 7 [<no net>] of U10 on Top Signal
+[padstack]: Padstack is questionable (negative solder paste margin is larger than pad; no solder paste mask will be generated)
+    Local override; warning
+    @(149.1615 mm, 123.5964 mm): Pad 3 [BSE_HI_REF] of  on Top Signal
+[padstack]: Padstack is questionable (negative solder paste margin is larger than pad; no solder paste mask will be generated)
+    Local override; warning
+    @(160.6169 mm, 123.4186 mm): Pad 4 [BSE_LO_REF] of  on Top Signal
+[padstack]: Padstack is questionable (negative solder paste margin is larger than pad; no solder paste mask will be generated)
+    Local override; warning
+    @(120.0979 mm, 120.9860 mm): Pad 1 [NetJ1_9] of U12 on Top Signal
+[padstack]: Padstack is questionable (negative solder paste margin is larger than pad; no solder paste mask will be generated)
+    Local override; warning
+    @(120.0979 mm, 121.6360 mm): Pad 2 [NetJ1_9] of U12 on Top Signal
+[padstack]: Padstack is questionable (negative solder paste margin is larger than pad; no solder paste mask will be generated)
+    Local override; warning
+    @(120.0979 mm, 122.2860 mm): Pad 3 [BSE_LO_REF] of U12 on Top Signal
+[padstack]: Padstack is questionable (negative solder paste margin is larger than pad; no solder paste mask will be generated)
+    Local override; warning
+    @(120.0979 mm, 122.9360 mm): Pad 4 [+7] of U12 on Top Signal
+[padstack]: Padstack is questionable (negative solder paste margin is larger than pad; no solder paste mask will be generated)
+    Local override; warning
+    @(120.0979 mm, 123.5860 mm): Pad 5 [BSE_HI_REF] of U12 on Top Signal
+[padstack]: Padstack is questionable (negative solder paste margin is larger than pad; no solder paste mask will be generated)
+    Local override; warning
+    @(120.0979 mm, 124.2360 mm): Pad 6 [NetJ1_11] of U12 on Top Signal
+[padstack]: Padstack is questionable (negative solder paste margin is larger than pad; no solder paste mask will be generated)
+    Local override; warning
+    @(120.0979 mm, 124.8860 mm): Pad 7 [NetJ1_11] of U12 on Top Signal
+[padstack]: Padstack is questionable (negative solder paste margin is larger than pad; no solder paste mask will be generated)
+    Local override; warning
+    @(125.6979 mm, 124.8860 mm): Pad 8 [NetJ1_10] of U12 on Top Signal
+[padstack]: Padstack is questionable (negative solder paste margin is larger than pad; no solder paste mask will be generated)
+    Local override; warning
+    @(125.6979 mm, 124.2360 mm): Pad 9 [NetJ1_10] of U12 on Top Signal
+[padstack]: Padstack is questionable (negative solder paste margin is larger than pad; no solder paste mask will be generated)
+    Local override; warning
+    @(125.6979 mm, 123.5860 mm): Pad 10 [TPS_LO_REF] of U12 on Top Signal
+[padstack]: Padstack is questionable (negative solder paste margin is larger than pad; no solder paste mask will be generated)
+    Local override; warning
+    @(125.6979 mm, 122.9360 mm): Pad 11 [GND] of U12 on Top Signal
+[padstack]: Padstack is questionable (negative solder paste margin is larger than pad; no solder paste mask will be generated)
+    Local override; warning
+    @(125.6979 mm, 122.2860 mm): Pad 12 [TPS_HI_REF] of U12 on Top Signal
+[padstack]: Padstack is questionable (negative solder paste margin is larger than pad; no solder paste mask will be generated)
+    Local override; warning
+    @(125.6979 mm, 121.6360 mm): Pad 13 [NetJ1_12] of U12 on Top Signal
+[padstack]: Padstack is questionable (negative solder paste margin is larger than pad; no solder paste mask will be generated)
+    Local override; warning
+    @(125.6979 mm, 120.9860 mm): Pad 14 [NetJ1_12] of U12 on Top Signal
+[padstack]: Padstack is questionable (negative solder paste margin is larger than pad; no solder paste mask will be generated)
+    Local override; warning
+    @(167.7543 mm, 118.5164 mm): Pad 5 [GND] of  on Top Signal
+[padstack]: Padstack is questionable (negative solder paste margin is larger than pad; no solder paste mask will be generated)
+    Local override; warning
+    @(156.5390 mm, 102.8413 mm): Pad 7 [<no net>] of U11 on Top Signal
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(144.5091 mm, 86.6081 mm): Footprint K1
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(171.3396 mm, 92.7718 mm): Footprint R24
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(171.3611 mm, 95.2500 mm): Footprint Q3
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(171.3611 mm, 88.2233 mm): Footprint Q2
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(168.0845 mm, 98.1964 mm): Footprint C10
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(136.4272 mm, 113.2935 mm): Footprint C3
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(162.3441 mm, 94.7420 mm): Footprint U3
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(171.3396 mm, 99.7985 mm): Footprint R25
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(156.8097 mm, 112.8519 mm): Footprint R8
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(161.4307 mm, 109.3079 mm): Footprint VR1
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(119.9261 mm, 81.5086 mm): Footprint ST4
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(139.6130 mm, 118.0560 mm): Footprint U2
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(165.7985 mm, 94.1578 mm): Footprint C7
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(174.4531 mm, 114.8534 mm): Footprint D8
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(163.5125 mm, 99.3394 mm): Footprint U7
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(148.6281 mm, 103.0732 mm): Footprint R3
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(171.3396 mm, 106.8252 mm): Footprint R26
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(176.4411 mm, 128.4986 mm): Footprint ST2
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(152.2979 mm, 86.2408 mm): Footprint C6
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(171.3396 mm, 113.8518 mm): Footprint R29
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(176.4411 mm, 81.5086 mm): Footprint ST3
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(148.1436 mm, 119.0163 mm): Footprint VR4
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(147.0011 mm, 90.6521 mm): Footprint D3
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(128.6637 mm, 99.5426 mm): Footprint D2
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(154.7461 mm, 122.7117 mm): Footprint R12
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(133.4011 mm, 107.9635 mm): Footprint S1
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(174.4092 mm, 103.4702 mm): Footprint R21
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(174.4092 mm, 117.5694 mm): Footprint R27
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(156.5529 mm, 95.3770 mm): Footprint U10
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(165.5953 mm, 107.7214 mm): Footprint C9
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(145.0611 mm, 99.0341 mm): Footprint S3
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(154.3237 mm, 112.8795 mm): Footprint R9
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(153.1651 mm, 102.8487 mm): Footprint R16
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(121.6025 mm, 103.8098 mm): Footprint J1
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(174.4531 mm, 107.8125 mm): Footprint D7
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(156.1054 mm, 100.9608 mm): Footprint C14
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(150.1399 mm, 94.0666 mm): Footprint U8
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(141.5434 mm, 110.9201 mm): Footprint R6
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(162.5473 mm, 104.2924 mm): Footprint R5
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(171.3396 mm, 85.7451 mm): Footprint R23
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(147.9763 mm, 109.2454 mm): Footprint VR2
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(156.2244 mm, 104.7218 mm): Footprint R18
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(154.4785 mm, 109.2454 mm): Footprint U6
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(119.9261 mm, 128.4986 mm): Footprint ST1
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(171.3611 mm, 116.3300 mm): Footprint Q6
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(143.1417 mm, 103.0732 mm): Footprint R1
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(158.5849 mm, 88.5102 mm): Footprint U5
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(161.5979 mm, 119.0078 mm): Footprint VR3
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(138.9780 mm, 110.8950 mm): Footprint R4
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(174.4092 mm, 110.5198 mm): Footprint R22
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(153.7486 mm, 97.4194 mm): Footprint R14
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(138.9072 mm, 113.2935 mm): Footprint C4
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(174.4531 mm, 100.7716 mm): Footprint D6
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(174.4531 mm, 121.8942 mm): Footprint D9
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(122.8979 mm, 122.9360 mm): Footprint U12
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(152.2480 mm, 122.6617 mm): Footprint C12
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(174.4092 mm, 89.3709 mm): Footprint R19
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(145.9103 mm, 103.0478 mm): Footprint R2
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(128.8415 mm, 107.1626 mm): Footprint D1
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(148.3261 mm, 86.7362 mm): Footprint Q1
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(131.0024 mm, 118.2103 mm): Footprint U1
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(165.5953 mm, 104.3178 mm): Footprint U4
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(147.7391 mm, 94.3102 mm): Footprint C11
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(157.2395 mm, 122.6987 mm): Footprint R11
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(156.0007 mm, 93.4965 mm): Footprint C13
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(156.5390 mm, 102.8413 mm): Footprint U11
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(151.7901 mm, 112.8237 mm): Footprint C8
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(131.8279 mm, 113.2935 mm): Footprint C2
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(171.3611 mm, 109.3034 mm): Footprint Q5
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(149.3139 mm, 90.4748 mm): Footprint R10
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(174.4531 mm, 86.6899 mm): Footprint D4
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(171.3611 mm, 102.2767 mm): Footprint Q4
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(141.3872 mm, 113.2935 mm): Footprint C5
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(171.3611 mm, 123.3567 mm): Footprint Q7
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(153.7441 mm, 104.7218 mm): Footprint R17
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(129.2482 mm, 113.2935 mm): Footprint C1
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(174.4092 mm, 124.6191 mm): Footprint R28
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(162.5473 mm, 102.9716 mm): Footprint R7
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(174.4531 mm, 93.7308 mm): Footprint D5
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(156.4162 mm, 97.4814 mm): Footprint R15
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(171.3396 mm, 120.8785 mm): Footprint R30
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(153.1751 mm, 95.4670 mm): Footprint R13
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(130.3591 mm, 97.9917 mm): Footprint S2
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(154.6457 mm, 119.0922 mm): Footprint U9
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(174.4092 mm, 96.4205 mm): Footprint R20
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(171.4546 mm, 91.4273 mm): Reference field of R24
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(171.3418 mm, 97.2631 mm): Reference field of Q3
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(171.4475 mm, 90.3289 mm): Reference field of Q2
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(136.5474 mm, 111.9679 mm): Reference field of C3
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(160.3979 mm, 92.1881 mm): Reference field of U3
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(171.4611 mm, 98.4509 mm): Reference field of R25
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(156.7989 mm, 113.9051 mm): Reference field of R8
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(160.0798 mm, 105.5034 mm): Reference field of VR1
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(174.3582 mm, 112.4717 mm): Reference field of D8
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(148.7647 mm, 104.1261 mm): Reference field of R3
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(171.3425 mm, 105.5111 mm): Reference field of R26
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(151.3191 mm, 86.2183 mm): Reference field of C6
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(171.4586 mm, 112.4717 mm): Reference field of R29
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(147.0940 mm, 115.5360 mm): Reference field of VR4
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(148.2610 mm, 90.7125 mm): Reference field of D3
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(154.7841 mm, 123.6404 mm): Reference field of R12
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(174.5350 mm, 104.3645 mm): Reference field of R21
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(174.4564 mm, 118.4107 mm): Reference field of R27
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(167.0009 mm, 107.7140 mm): Reference field of C9
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(140.3896 mm, 102.7614 mm): Reference field of S3
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(154.3351 mm, 113.9051 mm): Reference field of R9
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(151.8932 mm, 103.0021 mm): Reference field of R16
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(156.1040 mm, 99.6577 mm): Reference field of C14
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(149.0181 mm, 92.0865 mm): Reference field of U8
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(143.6104 mm, 110.6539 mm): Reference field of R6
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(160.5728 mm, 104.0482 mm): Reference field of R5
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(171.5240 mm, 84.3031 mm): Reference field of R23
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(146.0082 mm, 105.4526 mm): Reference field of VR2
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(156.3975 mm, 105.7485 mm): Reference field of R18
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(151.5333 mm, 105.7009 mm): Reference field of U6
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(171.3418 mm, 118.4213 mm): Reference field of Q6
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(143.2046 mm, 104.1332 mm): Reference field of R1
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(152.8756 mm, 89.6384 mm): Reference field of U5
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(160.3511 mm, 115.5307 mm): Reference field of VR3
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(136.9555 mm, 110.6592 mm): Reference field of R4
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(174.4605 mm, 111.3749 mm): Reference field of R22
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(153.7911 mm, 98.3928 mm): Reference field of R14
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(138.8860 mm, 111.9679 mm): Reference field of C4
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(174.3587 mm, 98.4509 mm): Reference field of D6
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(174.3582 mm, 119.5075 mm): Reference field of D9
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(174.4558 mm, 90.3183 mm): Reference field of R19
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(145.9240 mm, 104.1332 mm): Reference field of R2
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(147.6800 mm, 84.3202 mm): Reference field of Q1
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(167.2577 mm, 105.6992 mm): Reference field of U4
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(157.2810 mm, 123.6404 mm): Reference field of R11
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(155.9927 mm, 92.2135 mm): Reference field of C13
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(151.6771 mm, 113.9104 mm): Reference field of C8
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(171.2626 mm, 111.3855 mm): Reference field of Q5
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(150.7248 mm, 90.5826 mm): Reference field of R10
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(174.3605 mm, 84.2995 mm): Reference field of D4
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(171.1403 mm, 104.3751 mm): Reference field of Q4
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(141.3959 mm, 111.9679 mm): Reference field of C5
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(171.2910 mm, 125.5841 mm): Reference field of Q7
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(153.7565 mm, 105.7301 mm): Reference field of R17
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(174.4558 mm, 125.5735 mm): Reference field of R28
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(160.6011 mm, 102.7852 mm): Reference field of R7
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(174.3558 mm, 91.4238 mm): Reference field of D5
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(156.4485 mm, 98.5259 mm): Reference field of R15
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(171.2627 mm, 119.5075 mm): Reference field of R30
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(152.2488 mm, 96.1949 mm): Reference field of R13
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(151.6343 mm, 115.5053 mm): Reference field of U9
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(174.4575 mm, 97.2525 mm): Reference field of R20
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(155.4247 mm, 119.9226 mm): Segment of U9 on Top Overlay
+    @(155.3591 mm, 116.7638 mm): Via [TPS_LO_REF] on Top Signal - Bottom Signal
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(160.3511 mm, 115.5307 mm): Reference field of VR3
+    @(160.5153 mm, 113.6142 mm): Pad 2 [TPS_LO_REF] of  on Top Signal
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(160.3979 mm, 92.1881 mm): Reference field of U3
+    @(160.4899 mm, 91.1352 mm): Pad 6 [NetU4_1] of U5 on Top Signal
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(152.2488 mm, 96.1949 mm): Reference field of R13
+    @(153.0736 mm, 97.4194 mm): Pad 1 [HARDBRAKEDIV] of R14 on Top Signal
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(147.0940 mm, 115.5360 mm): Reference field of VR4
+    @(148.8313 mm, 113.6396 mm): Pad 1 [TPS_HI_REF] of  on Top Signal
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(153.8667 mm, 116.6397 mm): Segment of U9 on Top Overlay
+    @(155.3591 mm, 116.7638 mm): Via [TPS_LO_REF] on Top Signal - Bottom Signal
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(155.9927 mm, 92.2135 mm): Reference field of C13
+    @(155.4099 mm, 91.1352 mm): Pad 2 [NetR10_2] of U5 on Top Signal
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(155.9927 mm, 92.2135 mm): Reference field of C13
+    @(156.6799 mm, 91.1352 mm): Pad 3 [NetU3_3] of U5 on Top Signal
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(127.6091 mm, 97.9917 mm): Arc of S2 on Top Overlay
+    @(127.9017 mm, 97.7646 mm): Via [EXT_BTNJ] on Top Signal - Bottom Signal
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(127.6091 mm, 97.9917 mm): Arc of S2 on Top Overlay
+    @(127.9017 mm, 97.7646 mm): Via [EXT_BTNJ] on Top Signal - Bottom Signal
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(119.9847 mm, 119.2907 mm): Reference field of U12
+    @(120.1293 mm, 119.3038 mm): Via [NetJ1_9] on Top Signal - Bottom Signal
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(174.4605 mm, 111.3749 mm): Reference field of R22
+    @(175.0604 mm, 110.5198 mm): Pad 1 [NetD7_1] of R22 on Top Signal
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(174.4564 mm, 118.4107 mm): Reference field of R27
+    @(173.7579 mm, 117.5694 mm): Pad 2 [NetQ6_3] of R27 on Top Signal
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(179.9458 mm, 83.8454 mm): PCB text box 'Duke University Motorsports BSPD 2026' on Top Overlay
+    @(176.4411 mm, 128.4986 mm): PTH pad 1 [GND] of ST2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(174.4575 mm, 97.2525 mm): Reference field of R20
+    @(173.7579 mm, 96.4205 mm): Pad 2 [NetQ3_3] of R20 on Top Signal
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(174.4575 mm, 97.2525 mm): Reference field of R20
+    @(175.0604 mm, 96.4205 mm): Pad 1 [NetD5_1] of R20 on Top Signal
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(174.4605 mm, 111.3749 mm): Reference field of R22
+    @(173.7579 mm, 110.5198 mm): Pad 2 [NetQ5_3] of R22 on Top Signal
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(174.4564 mm, 118.4107 mm): Reference field of R27
+    @(175.0604 mm, 117.5694 mm): Pad 1 [NetD8_1] of R27 on Top Signal
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(122.8377 mm, 95.0249 mm): Polygon on Bottom Overlay
+    @(127.9017 mm, 97.7646 mm): Via [EXT_BTNJ] on Top Signal - Bottom Signal
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(122.8377 mm, 95.0249 mm): Polygon on Bottom Overlay
+    @(128.4859 mm, 103.9114 mm): Via [BSEJ] on Top Signal - Bottom Signal
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(126.9726 mm, 112.3544 mm): Polygon on Bottom Overlay
+    @(127.5207 mm, 114.8588 mm): Via [NetJ1_12] on Top Signal - Bottom Signal
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(121.3416 mm, 108.2610 mm): Polygon on Bottom Overlay
+    @(121.8057 mm, 110.8456 mm): Via [NetJ1_10] on Top Signal - Bottom Signal
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(121.3416 mm, 108.2610 mm): Polygon on Bottom Overlay
+    @(120.8151 mm, 108.9152 mm): Via [NetJ1_9] on Top Signal - Bottom Signal
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(145.8190 mm, 111.5648 mm): Polygon on Bottom Overlay
+    @(146.4945 mm, 113.9444 mm): Via [TPS_HI_REF] on Top Signal - Bottom Signal
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(178.5247 mm, 95.0457 mm): Polygon on Bottom Overlay
+    @(157.1371 mm, 114.8842 mm): Via [TPS_LO_REF] on Top Signal - Bottom Signal
+
+** Found 2 unconnected pads **
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(116.7511 mm, 131.6736 mm): Zone [GND] on Top Signal, priority 1
+    @(116.7511 mm, 131.6736 mm): Zone [GND] on Top Signal, priority 1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(116.7511 mm, 131.6736 mm): Zone [GND] on Top Signal, priority 1
+    @(116.7511 mm, 131.6736 mm): Zone [GND] on Top Signal, priority 1
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **

@@ -3354,7 +3354,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8544fe77-e3e8-48ce-825b-7a887aa841bd")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR013"
 			(at 91.44 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -3411,7 +3411,7 @@
 		(instances
 			(project "Dyno Harness 2026"
 				(path "/c30617c6-ff1b-4915-acf0-3781f51f938d"
-					(reference "#PWR?")
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)

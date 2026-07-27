@@ -1,0 +1,903 @@
+ERC report (2026-07-26T21:15:32, Encoding UTF8)
+Report includes: Errors, Warnings
+
+***** Sheet /Logic/
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(700 mils, 6700 mils): Symbol #PWR01 Hidden pin  [VCC, Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(700 mils, 8200 mils): Symbol #PWR02 Hidden pin  [GND, Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(3400 mils, 1300 mils): Symbol #PWR022 Hidden pin  [+7, Power input, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(11000 mils, 3800 mils): Symbol R10 Pin 2 [2, Passive, Line]
+[label_dangling]: Label not connected
+    ; error
+    @(11760 mils, 3800 mils): Global Label 'BSPD_FAULT'
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(700 mils, 6700 mils): Symbol #PWR01 [VCC_BAR]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(700 mils, 7600 mils): Symbol C13 [Capacitor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(700 mils, 7600 mils): Symbol C13 [Capacitor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(700 mils, 8200 mils): Symbol #PWR02 [GND_POWER_GROUND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(700 mils, 9400 mils): Symbol #PWR03 [VCC_BAR]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(700 mils, 10900 mils): Symbol C14 [Capacitor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(700 mils, 10900 mils): Symbol C14 [Capacitor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(700 mils, 11000 mils): Symbol #PWR04 [GND_POWER_GROUND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(1100 mils, 6700 mils): Symbol #PWR05 [VCC_BAR]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(1100 mils, 6800 mils): Symbol R13 [Resistor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(1100 mils, 6800 mils): Symbol R13 [Resistor_Generic]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(1100 mils, 7700 mils): Symbol R14 [Resistor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(1100 mils, 7700 mils): Symbol R14 [Resistor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(1100 mils, 8200 mils): Symbol #PWR06 [GND_POWER_GROUND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(1100 mils, 9400 mils): Symbol #PWR07 [VCC_BAR]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(1100 mils, 9500 mils): Symbol R16 [Resistor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(1100 mils, 9500 mils): Symbol R16 [Resistor_Generic]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(1100 mils, 10500 mils): Symbol R17 [Resistor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(1100 mils, 10500 mils): Symbol R17 [Resistor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(1100 mils, 11000 mils): Symbol #PWR08 [GND_POWER_GROUND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(1200 mils, 1700 mils): Symbol #PWR09 [VCC_BAR]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(1200 mils, 2300 mils): Symbol #PWR010 [GND_POWER_GROUND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(1200 mils, 4400 mils): Symbol #PWR011 [VCC_BAR]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(1200 mils, 5000 mils): Symbol #PWR012 [GND_POWER_GROUND]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(1400 mils, 4700 mils): Horizontal Wire, length 100 mils
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(1500 mils, 2000 mils): Symbol VR1 [28d7dac9d632458f4ea40774f881206]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(1500 mils, 2000 mils): Symbol VR1 [28d7dac9d632458f4ea40774f881206]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(1500 mils, 4700 mils): Symbol VR3 [28d7dac9d632458f4ea40774f881206]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(1500 mils, 4700 mils): Symbol VR3 [28d7dac9d632458f4ea40774f881206]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(1500 mils, 8100 mils): Symbol R15 [Resistor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(1500 mils, 8100 mils): Symbol R15 [Resistor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(1500 mils, 8200 mils): Symbol #PWR013 [GND_POWER_GROUND]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(1500 mils, 10500 mils): Symbol R18 [Resistor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(1500 mils, 10500 mils): Symbol R18 [Resistor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(1500 mils, 11000 mils): Symbol #PWR014 [GND_POWER_GROUND]
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(1900 mils, 4200 mils): Global Label 'BSED'
+    @(1900 mils, 4200 mils): Label 'BSED'
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(2200 mils, 1100 mils): Symbol R8 [Resistor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(2200 mils, 1100 mils): Symbol #PWR015 [VCC_BAR]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(2200 mils, 1100 mils): Symbol R8 [Resistor_Generic]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(2200 mils, 1700 mils): Symbol U6 [LM2903QDRQ1]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(2200 mils, 1700 mils): Symbol U6 [LM2903QDRQ1]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(2200 mils, 2100 mils): Symbol #PWR016 [GND_POWER_GROUND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(2200 mils, 3800 mils): Symbol #PWR017 [VCC_BAR]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(2200 mils, 4200 mils): Symbol R11 [Resistor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(2200 mils, 4200 mils): Symbol R11 [Resistor_Generic]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(2200 mils, 4400 mils): Symbol U9 [LM2903QDRQ1]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(2200 mils, 4400 mils): Symbol U9 [LM2903QDRQ1]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(2200 mils, 4800 mils): Symbol #PWR018 [GND_POWER_GROUND]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(2300 mils, 7500 mils): Symbol U10 [LTC6994HDCB-1#TRMPBF-Symbol-1]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(2300 mils, 7500 mils): Symbol U10 [LTC6994HDCB-1#TRMPBF-Symbol-1]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(2300 mils, 10200 mils): Symbol U11 [LTC6994HDCB-1#TRMPBF-Symbol-1]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(2300 mils, 10200 mils): Symbol U11 [LTC6994HDCB-1#TRMPBF-Symbol-1]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(3100 mils, 1400 mils): Symbol #PWR019 [GND_POWER_GROUND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(3100 mils, 4100 mils): Symbol #PWR020 [GND_POWER_GROUND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(3350 mils, 10250 mils): Symbol #PWR021 [GND_POWER_GROUND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(3400 mils, 1300 mils): Symbol #PWR022 [+7_BAR]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(3400 mils, 4000 mils): Symbol #PWR023 [+7_BAR]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(3500 mils, 1400 mils): Symbol C8 [Capacitor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(3500 mils, 1400 mils): Symbol C8 [Capacitor_Generic]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(3500 mils, 4100 mils): Symbol C12 [Capacitor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(3500 mils, 4100 mils): Symbol C12 [Capacitor_Generic]
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(3500 mils, 7600 mils): Global Label 'HARD_BRAKE'
+    @(2800 mils, 7600 mils): Label 'HARD_BRAKE'
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(3600 mils, 1300 mils): Symbol R9 [Resistor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(3600 mils, 1300 mils): Symbol R9 [Resistor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(3600 mils, 1300 mils): Symbol #PWR024 [VCC_BAR]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(3600 mils, 4000 mils): Symbol R12 [Resistor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(3600 mils, 4000 mils): Symbol #PWR025 [VCC_BAR]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(3600 mils, 4000 mils): Symbol R12 [Resistor_Generic]
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(3900 mils, 4400 mils): Global Label 'BSEH'
+    @(3600 mils, 4400 mils): Label 'BSEH'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(4000 mils, 1700 mils): Global Label 'TPSH'
+    @(3700 mils, 1700 mils): Label 'TPSH'
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(4200 mils, 1900 mils): Symbol VR2 [28d7dac9d632458f4ea40774f881206]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(4200 mils, 1900 mils): Symbol VR2 [28d7dac9d632458f4ea40774f881206]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(4200 mils, 4600 mils): Symbol VR4 [28d7dac9d632458f4ea40774f881206]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(4200 mils, 4600 mils): Symbol VR4 [28d7dac9d632458f4ea40774f881206]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(4500 mils, 1600 mils): Symbol #PWR026 [VCC_BAR]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(4500 mils, 2200 mils): Symbol #PWR027 [GND_POWER_GROUND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(4500 mils, 4300 mils): Symbol #PWR028 [VCC_BAR]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(4500 mils, 4900 mils): Symbol #PWR029 [GND_POWER_GROUND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(4500 mils, 7500 mils): Symbol #PWR030 [GND_POWER_GROUND]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(6100 mils, 3900 mils): Symbol C11 [Capacitor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(6100 mils, 3900 mils): Symbol C11 [Capacitor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(6200 mils, 3900 mils): Symbol #PWR031 [GND_POWER_GROUND]
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(6300 mils, 3000 mils): Global Label 'DISC'
+    @(6300 mils, 3000 mils): Label 'DISC'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(6400 mils, 2500 mils): Global Label 'PCB_BTN'
+    @(1800 mils, 6500 mils): Label 'PCB_BTN'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(6400 mils, 2800 mils): Global Label 'TPSD'
+    @(1900 mils, 1500 mils): Label 'TPSD'
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(6400 mils, 2700 mils): Horizontal Wire, length 100 mils
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(6500 mils, 2500 mils): Symbol U7 [SN74AHC32MPWREP]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(6500 mils, 2500 mils): Symbol U7 [SN74AHC32MPWREP]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(6500 mils, 3200 mils): Symbol #PWR032 [GND_POWER_GROUND]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(6600 mils, 1200 mils): Symbol U3 [SN74LVC2G08IDCTRQ1]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(6600 mils, 1200 mils): Symbol U3 [SN74LVC2G08IDCTRQ1]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(6600 mils, 1600 mils): Symbol #PWR033 [GND_POWER_GROUND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(6600 mils, 3800 mils): Symbol #PWR034 [VCC_BAR]
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(6600 mils, 6600 mils): Global Label 'BSE_LO_REF'
+    @(1500 mils, 4700 mils): Label 'BSE_LO_REF'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(6600 mils, 7800 mils): Global Label 'TPS_LO_REF'
+    @(1500 mils, 2000 mils): Label 'TPS_LO_REF'
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(6800 mils, 4300 mils): Symbol U8 [TI-SN74XXX1XX4-XX-5]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(6800 mils, 4300 mils): Symbol U8 [TI-SN74XXX1XX4-XX-5]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(6800 mils, 6600 mils): Symbol U12 [684fa0f315d4229452f837ea2b10642]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Altium Content Vault'
+    ; warning
+    @(6800 mils, 6600 mils): Symbol U12 [684fa0f315d4229452f837ea2b10642]
+[pin_to_pin]: Pins of type Tri-state and Output are connected
+    ; warning
+    @(6800 mils, 6800 mils): Symbol U12 Pin 2 [-IN_A, Tri-state, Line]
+    @(7600 mils, 6700 mils): Symbol U12 Pin 1 [OUT_A, Output, Line]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(6800 mils, 7800 mils): Symbol U12 [684fa0f315d4229452f837ea2b10642]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Altium Content Vault'
+    ; warning
+    @(6800 mils, 7800 mils): Symbol U12 [684fa0f315d4229452f837ea2b10642]
+[pin_to_pin]: Pins of type Tri-state and Output are connected
+    ; warning
+    @(6800 mils, 8000 mils): Symbol U12 Pin 9 [-IN_C, Tri-state, Line]
+    @(7500 mils, 7900 mils): Symbol U12 Pin 8 [OUT_C, Output, Line]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(7200 mils, 6400 mils): Symbol #PWR035 [+7_BAR]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(7200 mils, 7000 mils): Symbol #PWR036 [GND_POWER_GROUND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(7400 mils, 900 mils): Symbol #PWR037 [GND_POWER_GROUND]
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(7500 mils, 4100 mils): Global Label 'SAFE'
+    @(1000 mils, 2100 mils): Label 'SAFE'
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(7600 mils, 2200 mils): Symbol C10 [Capacitor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(7600 mils, 2200 mils): Symbol C10 [Capacitor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(7700 mils, 800 mils): Symbol #PWR038 [VCC_BAR]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(7700 mils, 2200 mils): Symbol #PWR039 [GND_POWER_GROUND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(7700 mils, 4400 mils): Symbol #PWR040 [GND_POWER_GROUND]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(7800 mils, 900 mils): Symbol C7 [Capacitor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(7800 mils, 900 mils): Symbol C7 [Capacitor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(8000 mils, 2100 mils): Symbol #PWR041 [VCC_BAR]
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(8000 mils, 2600 mils): Global Label 'DISC_DELAY'
+    @(2800 mils, 10100 mils): Label 'DISC_DELAY'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(8000 mils, 2700 mils): Global Label 'HARD_BRAKE_DELAY'
+    @(2800 mils, 7400 mils): Label 'HARD_BRAKE_DELAY'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(9800 mils, 6600 mils): Global Label 'BSE_HI_REF'
+    @(3700 mils, 4600 mils): Label 'BSE_HI_REF'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(9800 mils, 7800 mils): Global Label 'TPS_HI_REF'
+    @(4200 mils, 1900 mils): Label 'TPS_HI_REF'
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(9900 mils, 6600 mils): Symbol U12 [684fa0f315d4229452f837ea2b10642]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Altium Content Vault'
+    ; warning
+    @(9900 mils, 6600 mils): Symbol U12 [684fa0f315d4229452f837ea2b10642]
+[pin_to_pin]: Pins of type Tri-state and Output are connected
+    ; warning
+    @(9900 mils, 6800 mils): Symbol U12 Pin 6 [-IN_B, Tri-state, Line]
+    @(10600 mils, 6700 mils): Symbol U12 Pin 7 [OUT_B, Output, Line]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(9900 mils, 7800 mils): Symbol U12 [684fa0f315d4229452f837ea2b10642]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Altium Content Vault'
+    ; warning
+    @(9900 mils, 7800 mils): Symbol U12 [684fa0f315d4229452f837ea2b10642]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(10000 mils, 1000 mils): Symbol C9 [Capacitor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(10000 mils, 1000 mils): Symbol C9 [Capacitor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(10000 mils, 1100 mils): Symbol #PWR042 [VCC_BAR]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(10000 mils, 1400 mils): Symbol #PWR043 [GND_POWER_GROUND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(10300 mils, 3600 mils): Symbol #PWR044 [VCC_BAR]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(10500 mils, 5000 mils): Symbol K1 [OJE-SS-105LMH,000]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(10500 mils, 5000 mils): Symbol K1 [OJE-SS-105LMH,000]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(10600 mils, 1400 mils): Symbol U4 [APX810S00-29SR-7]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(10600 mils, 1400 mils): Symbol U4 [APX810S00-29SR-7]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(10600 mils, 3800 mils): Symbol Q1 [BVSS84LT1G]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(10600 mils, 3800 mils): Symbol R10 [Resistor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(10600 mils, 3800 mils): Symbol Q1 [BVSS84LT1G]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(10600 mils, 3800 mils): Symbol R10 [Resistor_Generic]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(10900 mils, 4600 mils): Symbol D3 [Diode - Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(10900 mils, 4600 mils): Symbol D3 [Diode - Generic]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(12000 mils, 1800 mils): Symbol U5 [CD4043BDR-Symbol-1]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(12000 mils, 1800 mils): Symbol U5 [CD4043BDR-Symbol-1]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(12600 mils, 5000 mils): Symbol #PWR045 [GND_POWER_GROUND]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(13000 mils, 1000 mils): Symbol C6 [Capacitor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(13000 mils, 1000 mils): Symbol C6 [Capacitor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(13100 mils, 900 mils): Symbol #PWR046 [VCC_BAR]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(13100 mils, 2500 mils): Symbol #PWR047 [GND_POWER_GROUND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(13400 mils, 1000 mils): Symbol #PWR048 [GND_POWER_GROUND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(900 mils, 6500 mils): Symbol #PWR049 [VCC_BAR]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(1000 mils, 5300 mils): Symbol S2 [A6FR-3101]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(1000 mils, 5300 mils): Symbol S2 [A6FR-3101]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(1200 mils, 7600 mils): Symbol R5 [Resistor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(1200 mils, 7600 mils): Symbol R5 [Resistor_Generic]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(1400 mils, 6500 mils): Symbol S3 [5-1437565-0]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(1400 mils, 6500 mils): Symbol S3 [5-1437565-0]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(1500 mils, 8100 mils): Symbol #PWR050 [GND_POWER_GROUND]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(1600 mils, 2100 mils): Symbol D2 [Diode - Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(1600 mils, 2100 mils): Symbol D2 [Diode - Generic]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(1700 mils, 7700 mils): Symbol R7 [Resistor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(1700 mils, 7700 mils): Symbol R7 [Resistor_Generic]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(1799 mils, 3700 mils): Horizontal Wire, length 201 mils
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(1800 mils, 4500 mils): Symbol #PWR051 [GND_POWER_GROUND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(2000 mils, 3500 mils): Horizontal Wire, length 191 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(2000 mils, 3900 mils): Horizontal Wire, length 191 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(1809 mils, 4100 mils): Horizontal Wire, length 191 mils
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(1900 mils, 3100 mils): Symbol #PWR052 [GND_POWER_GROUND]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(1900 mils, 7000 mils): Symbol R3 [Resistor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(1900 mils, 7000 mils): Symbol R3 [Resistor_Generic]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(2000 mils, 1900 mils): Symbol J1 [2d11022e15b770a906ecd4114e13443]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(2000 mils, 1900 mils): Symbol J1 [2d11022e15b770a906ecd4114e13443]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(2100 mils, 7000 mils): Symbol #PWR053 [GND_POWER_GROUND]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(3000 mils, 5800 mils): Symbol R1 [Resistor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(3000 mils, 5800 mils): Symbol #PWR054 [GND_POWER_GROUND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(3000 mils, 5800 mils): Symbol R1 [Resistor_Generic]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(3400 mils, 2100 mils): Symbol ST1 [CMP-00028-00000-1]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(3400 mils, 2100 mils): Symbol ST1 [CMP-00028-00000-1]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(3400 mils, 2200 mils): Symbol #PWR055 [GND_POWER_GROUND]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(3400 mils, 4400 mils): Symbol ST3 [CMP-00028-00000-1]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(3400 mils, 4400 mils): Symbol ST3 [CMP-00028-00000-1]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(3400 mils, 4500 mils): Symbol #PWR056 [GND_POWER_GROUND]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(3700 mils, 3300 mils): Symbol D1 [Diode - Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(3700 mils, 3300 mils): Symbol D1 [Diode - Generic]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(3700 mils, 5800 mils): Symbol R2 [Resistor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(3700 mils, 5800 mils): Symbol #PWR057 [GND_POWER_GROUND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(3700 mils, 5800 mils): Symbol R2 [Resistor_Generic]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(3900 mils, 3200 mils): Symbol S1 [SS003-P12NAA]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(3900 mils, 3200 mils): Symbol S1 [SS003-P12NAA]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(4200 mils, 2100 mils): Symbol ST2 [CMP-00028-00000-1]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(4200 mils, 2100 mils): Symbol ST2 [CMP-00028-00000-1]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(4200 mils, 2200 mils): Symbol #PWR058 [GND_POWER_GROUND]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(4200 mils, 4400 mils): Symbol ST4 [CMP-00028-00000-1]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(4200 mils, 4400 mils): Symbol ST4 [CMP-00028-00000-1]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(4200 mils, 4500 mils): Symbol #PWR059 [GND_POWER_GROUND]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(5400 mils, 3300 mils): Symbol U1 [NCP1117LPST50T3G (Ultra Library Ve...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(5400 mils, 3300 mils): Symbol U1 [NCP1117LPST50T3G (Ultra Library Ve...]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(5400 mils, 3600 mils): Symbol #PWR060 [GND_POWER_GROUND]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(5400 mils, 3700 mils): Symbol C1 [Capacitor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(5400 mils, 3700 mils): Symbol C1 [Capacitor_Generic]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(5400 mils, 5200 mils): Symbol U2 [NCV1117STAT3G]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(5400 mils, 5200 mils): Symbol U2 [NCV1117STAT3G]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(5400 mils, 5500 mils): Symbol #PWR061 [GND_POWER_GROUND]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(5400 mils, 5600 mils): Symbol C3 [Capacitor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(5400 mils, 5600 mils): Symbol C3 [Capacitor_Generic]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(5400 mils, 5200 mils): Horizontal Wire, length 100 mils
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(6300 mils, 3800 mils): Symbol #PWR062 [GND_POWER_GROUND]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(6300 mils, 5700 mils): Symbol R6 [Resistor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(6300 mils, 5700 mils): Symbol R6 [Resistor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(6300 mils, 6100 mils): Symbol #PWR063 [GND_POWER_GROUND]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(7100 mils, 3300 mils): Horizontal Wire, length 100 mils
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(7200 mils, 3300 mils): Symbol #PWR064 [VCC_BAR]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(7200 mils, 3600 mils): Symbol #PWR065 [GND_POWER_GROUND]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(7200 mils, 3700 mils): Symbol C2 [Capacitor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(7200 mils, 3700 mils): Symbol C2 [Capacitor_Generic]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(7200 mils, 5200 mils): Symbol R4 [Resistor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(7200 mils, 5200 mils): Symbol R4 [Resistor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(7200 mils, 6100 mils): Symbol #PWR066 [GND_POWER_GROUND]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(7200 mils, 6200 mils): Symbol C5 [Capacitor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(7200 mils, 6200 mils): Symbol C5 [Capacitor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(8100 mils, 5200 mils): Symbol #PWR067 [+7_BAR]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(8100 mils, 5500 mils): Symbol #PWR068 [GND_POWER_GROUND]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(8100 mils, 5600 mils): Symbol C4 [Capacitor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(8100 mils, 5600 mils): Symbol C4 [Capacitor_Generic]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(900 mils, 3900 mils): Symbol R23 [Resistor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(900 mils, 3900 mils): Symbol R23 [Resistor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(900 mils, 3900 mils): Symbol #PWR? [VCC_BAR]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(900 mils, 6300 mils): Symbol R29 [Resistor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(900 mils, 6300 mils): Symbol R29 [Resistor_Generic]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(1300 mils, 3900 mils): Symbol Q2 [2N7002]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(1300 mils, 3900 mils): Symbol Q2 [2N7002]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(1300 mils, 6300 mils): Symbol Q6 [2N7002]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(1300 mils, 6300 mils): Symbol Q6 [2N7002]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(1600 mils, 2600 mils): Symbol #PWR? [VCC_BAR]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(1600 mils, 3100 mils): Symbol D4 [LED - Generic]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(1600 mils, 3100 mils): Symbol R19 [Resistor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(1600 mils, 3100 mils): Symbol D4 [LED - Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(1600 mils, 3100 mils): Symbol R19 [Resistor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(1600 mils, 4100 mils): Symbol #PWR? [GND_POWER_GROUND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(1600 mils, 5000 mils): Symbol #PWR? [VCC_BAR]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(1600 mils, 5500 mils): Symbol R27 [Resistor_Generic]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(1600 mils, 5500 mils): Symbol D8 [LED - Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(1600 mils, 5500 mils): Symbol R27 [Resistor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(1600 mils, 5500 mils): Symbol D8 [LED - Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(1600 mils, 6500 mils): Symbol #PWR? [GND_POWER_GROUND]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(2700 mils, 3900 mils): Symbol R24 [Resistor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(2700 mils, 3900 mils): Symbol R24 [Resistor_Generic]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(2700 mils, 6300 mils): Symbol R30 [Resistor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(2700 mils, 6300 mils): Symbol R30 [Resistor_Generic]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(3100 mils, 3900 mils): Symbol Q3 [2N7002]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(3100 mils, 3900 mils): Symbol Q3 [2N7002]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(3100 mils, 6300 mils): Symbol Q7 [2N7002]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(3100 mils, 6300 mils): Symbol Q7 [2N7002]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(3400 mils, 2600 mils): Symbol #PWR? [VCC_BAR]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(3400 mils, 3100 mils): Symbol D5 [LED - Generic]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(3400 mils, 3100 mils): Symbol R20 [Resistor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(3400 mils, 3100 mils): Symbol D5 [LED - Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(3400 mils, 3100 mils): Symbol R20 [Resistor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(3400 mils, 4100 mils): Symbol #PWR? [GND_POWER_GROUND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(3400 mils, 5000 mils): Symbol #PWR? [VCC_BAR]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(3400 mils, 5500 mils): Symbol D9 [LED - Generic]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(3400 mils, 5500 mils): Symbol R28 [Resistor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(3400 mils, 5500 mils): Symbol D9 [LED - Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(3400 mils, 5500 mils): Symbol R28 [Resistor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(3400 mils, 6500 mils): Symbol #PWR? [GND_POWER_GROUND]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(4600 mils, 3900 mils): Symbol R25 [Resistor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(4600 mils, 3900 mils): Symbol R25 [Resistor_Generic]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(5000 mils, 3900 mils): Symbol Q4 [2N7002]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(5000 mils, 3900 mils): Symbol Q4 [2N7002]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(5300 mils, 2600 mils): Symbol #PWR? [VCC_BAR]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(5300 mils, 3100 mils): Symbol R21 [Resistor_Generic]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(5300 mils, 3100 mils): Symbol D6 [LED - Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(5300 mils, 3100 mils): Symbol R21 [Resistor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(5300 mils, 3100 mils): Symbol D6 [LED - Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(5300 mils, 4100 mils): Symbol #PWR? [GND_POWER_GROUND]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(6700 mils, 3900 mils): Symbol R26 [Resistor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(6700 mils, 3900 mils): Symbol R26 [Resistor_Generic]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(7100 mils, 3900 mils): Symbol Q5 [2N7002]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(7100 mils, 3900 mils): Symbol Q5 [2N7002]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(7400 mils, 2600 mils): Symbol #PWR? [VCC_BAR]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(7400 mils, 3100 mils): Symbol R22 [Resistor_Generic]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(7400 mils, 3100 mils): Symbol D7 [LED - Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(7400 mils, 3100 mils): Symbol R22 [Resistor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(7400 mils, 3100 mils): Symbol D7 [LED - Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'BSPD 2026-altium-import'
+    ; warning
+    @(7400 mils, 4100 mils): Symbol #PWR? [GND_POWER_GROUND]
+
+***** Sheet /Signal Prep/
+[pin_not_connected]: Pin not connected
+    ; error
+    @(1100 mils, 6600 mils): Symbol S3 Pin 4 [4, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(1700 mils, 6600 mils): Symbol S3 Pin 2 [2, Passive, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(5400 mils, 3300 mils): Symbol U1 Pin 3 [INPUT, Power input, Line]
+
+***** Sheet /Statuses/
+
+ ** ERC messages: 290  Errors 8  Warnings 282
+
+ ** Ignored checks:
+    - Global label only appears once in the schematic
+    - Four connection points are joined together
+    - SPICE model issue
+    - Assigned footprint doesn't match footprint filters

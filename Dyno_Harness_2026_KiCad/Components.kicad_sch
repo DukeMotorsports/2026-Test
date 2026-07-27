@@ -4729,33 +4729,9 @@
 					)
 				)
 				(arc
-					(start -11.43 -3.81)
-					(mid -12.328 -3.438)
-					(end -12.7 -2.54)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
 					(start -10.16 -2.54)
 					(mid -10.532 -3.438)
 					(end -11.43 -3.81)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -12.7 -7.62)
-					(mid -12.328 -6.722)
-					(end -11.43 -6.35)
 					(stroke
 						(width 0)
 						(type solid)
@@ -4777,9 +4753,21 @@
 					)
 				)
 				(arc
-					(start -8.89 -3.81)
-					(mid -9.788 -3.438)
-					(end -10.16 -2.54)
+					(start -11.43 -3.81)
+					(mid -12.328 -3.438)
+					(end -12.7 -2.54)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -12.7 -7.62)
+					(mid -12.328 -6.722)
+					(end -11.43 -6.35)
 					(stroke
 						(width 0)
 						(type solid)
@@ -4801,18 +4789,6 @@
 					)
 				)
 				(arc
-					(start -10.16 -7.62)
-					(mid -9.788 -6.722)
-					(end -8.89 -6.35)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
 					(start -8.89 -6.35)
 					(mid -7.992 -6.722)
 					(end -7.62 -7.62)
@@ -4825,9 +4801,21 @@
 					)
 				)
 				(arc
-					(start -6.35 -3.81)
-					(mid -7.248 -3.438)
-					(end -7.62 -2.54)
+					(start -8.89 -3.81)
+					(mid -9.788 -3.438)
+					(end -10.16 -2.54)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -10.16 -7.62)
+					(mid -9.788 -6.722)
+					(end -8.89 -6.35)
 					(stroke
 						(width 0)
 						(type solid)
@@ -4849,9 +4837,9 @@
 					)
 				)
 				(arc
-					(start -7.62 -7.62)
-					(mid -7.248 -6.722)
-					(end -6.35 -6.35)
+					(start -6.35 -6.35)
+					(mid -5.452 -6.722)
+					(end -5.08 -7.62)
 					(stroke
 						(width 0)
 						(type solid)
@@ -4861,9 +4849,21 @@
 					)
 				)
 				(arc
-					(start -6.35 -6.35)
-					(mid -5.452 -6.722)
-					(end -5.08 -7.62)
+					(start -6.35 -3.81)
+					(mid -7.248 -3.438)
+					(end -7.62 -2.54)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -7.62 -7.62)
+					(mid -7.248 -6.722)
+					(end -6.35 -6.35)
 					(stroke
 						(width 0)
 						(type solid)
@@ -5997,18 +5997,6 @@
 			)
 			(symbol "SPDT Relay_1_0"
 				(arc
-					(start -7.62 -3.81)
-					(mid -6.722 -4.182)
-					(end -6.35 -5.08)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
 					(start -6.35 -5.08)
 					(mid -6.722 -5.978)
 					(end -7.62 -6.35)
@@ -6021,9 +6009,9 @@
 					)
 				)
 				(arc
-					(start -7.62 -6.35)
-					(mid -6.722 -6.722)
-					(end -6.35 -7.62)
+					(start -7.62 -3.81)
+					(mid -6.722 -4.182)
+					(end -6.35 -5.08)
 					(stroke
 						(width 0)
 						(type solid)
@@ -6045,9 +6033,9 @@
 					)
 				)
 				(arc
-					(start -7.62 -8.89)
-					(mid -6.722 -9.262)
-					(end -6.35 -10.16)
+					(start -7.62 -6.35)
+					(mid -6.722 -6.722)
+					(end -6.35 -7.62)
 					(stroke
 						(width 0)
 						(type solid)
@@ -6060,6 +6048,18 @@
 					(start -6.35 -10.16)
 					(mid -6.722 -11.058)
 					(end -7.62 -11.43)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -7.62 -8.89)
+					(mid -6.722 -9.262)
+					(end -6.35 -10.16)
 					(stroke
 						(width 0)
 						(type solid)
@@ -9886,7 +9886,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "02e94a35-43c7-4c78-9542-ec6e6b885cd5")
-		(property "Reference" "Oil Temperature"
+		(property "Reference" "Oil Temperature1"
 			(at 148.59 76.454 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10095,7 +10095,7 @@
 		(instances
 			(project "Dyno Harness 2026"
 				(path "/8a66943b-4eff-42f1-8897-71310cd5bf1c"
-					(reference "Oil Temperature")
+					(reference "Oil Temperature1")
 					(unit 1)
 				)
 			)
@@ -10112,7 +10112,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "05c19856-4990-4380-92e8-9332cd38a58e")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR010"
 			(at 284.595 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -10169,7 +10169,7 @@
 		(instances
 			(project "Dyno Harness 2026"
 				(path "/8a66943b-4eff-42f1-8897-71310cd5bf1c"
-					(reference "#PWR?")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -10186,7 +10186,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0bba425d-0e4e-48c3-929f-4e1d1bc4aa22")
-		(property "Reference" "S?"
+		(property "Reference" "S3"
 			(at 384.417 86.106 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10370,7 +10370,7 @@
 		(instances
 			(project "Dyno Harness 2026"
 				(path "/8a66943b-4eff-42f1-8897-71310cd5bf1c"
-					(reference "S?")
+					(reference "S3")
 					(unit 1)
 				)
 			)
@@ -10387,7 +10387,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "14bcc27e-87dc-48eb-82e8-a7b81744a103")
-		(property "Reference" "MS"
+		(property "Reference" "MS1"
 			(at 272.796 86.868 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10523,7 +10523,7 @@
 		(instances
 			(project "Dyno Harness 2026"
 				(path "/8a66943b-4eff-42f1-8897-71310cd5bf1c"
-					(reference "MS")
+					(reference "MS1")
 					(unit 1)
 				)
 			)
@@ -10540,7 +10540,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "17bff249-f0da-46f0-bcdd-3e560087f2cf")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR08"
 			(at 274.435 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -10597,7 +10597,7 @@
 		(instances
 			(project "Dyno Harness 2026"
 				(path "/8a66943b-4eff-42f1-8897-71310cd5bf1c"
-					(reference "#PWR?")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -11794,7 +11794,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3b143531-ac2c-4b5d-9613-9c24ffca2ce2")
-		(property "Reference" "IGN"
+		(property "Reference" "IGN1"
 			(at 43.573 89.662 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11954,7 +11954,7 @@
 		(instances
 			(project "Dyno Harness 2026"
 				(path "/8a66943b-4eff-42f1-8897-71310cd5bf1c"
-					(reference "IGN")
+					(reference "IGN1")
 					(unit 2)
 				)
 			)
@@ -12185,7 +12185,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4cbbedd2-ecdd-4561-85da-a7c72b0dee74")
-		(property "Reference" "Starter Switch"
+		(property "Reference" "Starter Switch1"
 			(at 308.864 86.868 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12343,7 +12343,7 @@
 		(instances
 			(project "Dyno Harness 2026"
 				(path "/8a66943b-4eff-42f1-8897-71310cd5bf1c"
-					(reference "Starter Switch")
+					(reference "Starter Switch1")
 					(unit 1)
 				)
 			)
@@ -12741,7 +12741,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "55328dd6-32ed-411b-9209-843e050998a3")
-		(property "Reference" "DASH_ETH"
+		(property "Reference" "DASH_ETH1"
 			(at 116.078 248.158 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12955,7 +12955,7 @@
 		(instances
 			(project "Dyno Harness 2026"
 				(path "/8a66943b-4eff-42f1-8897-71310cd5bf1c"
-					(reference "DASH_ETH")
+					(reference "DASH_ETH1")
 					(unit 1)
 				)
 			)
@@ -12972,7 +12972,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5a7a30dd-e973-48b7-9485-c95eee2b5b6b")
-		(property "Reference" "FP"
+		(property "Reference" "FP1"
 			(at 32.004 249.682 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13207,7 +13207,7 @@
 		(instances
 			(project "Dyno Harness 2026"
 				(path "/8a66943b-4eff-42f1-8897-71310cd5bf1c"
-					(reference "FP")
+					(reference "FP1")
 					(unit 1)
 				)
 			)
@@ -13224,7 +13224,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5abe5f3d-2cdc-4893-a5e6-bf983e63f6e2")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR09"
 			(at 274.435 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -13281,7 +13281,7 @@
 		(instances
 			(project "Dyno Harness 2026"
 				(path "/8a66943b-4eff-42f1-8897-71310cd5bf1c"
-					(reference "#PWR?")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -13298,7 +13298,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5af0b8ca-bde4-4e1d-a3bf-e8fe5b294d69")
-		(property "Reference" "A?"
+		(property "Reference" "A1"
 			(at 228.715 48.006 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13434,7 +13434,7 @@
 		(instances
 			(project "Dyno Harness 2026"
 				(path "/8a66943b-4eff-42f1-8897-71310cd5bf1c"
-					(reference "A?")
+					(reference "A1")
 					(unit 1)
 				)
 			)
@@ -13677,7 +13677,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "69bed9ec-26a9-4bd4-bac1-d29d2b7f63dc")
-		(property "Reference" "DBR?"
+		(property "Reference" "DBR1"
 			(at 255.778 38.354 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13819,7 +13819,7 @@
 		(instances
 			(project "Dyno Harness 2026"
 				(path "/8a66943b-4eff-42f1-8897-71310cd5bf1c"
-					(reference "DBR?")
+					(reference "DBR1")
 					(unit 1)
 				)
 			)
@@ -13836,7 +13836,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6bc5bd84-4534-4aa4-8179-279ef1432b38")
-		(property "Reference" "R?"
+		(property "Reference" "R1"
 			(at 382.524 33.528 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14020,7 +14020,7 @@
 		(instances
 			(project "Dyno Harness 2026"
 				(path "/8a66943b-4eff-42f1-8897-71310cd5bf1c"
-					(reference "R?")
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -14190,7 +14190,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "795669b2-3ea7-4dde-947b-5df67448ea4a")
-		(property "Reference" "MoTeC LTCDB"
+		(property "Reference" "MoTeC LTCDB1"
 			(at 24.892 175.768 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14380,7 +14380,7 @@
 		(instances
 			(project "Dyno Harness 2026"
 				(path "/8a66943b-4eff-42f1-8897-71310cd5bf1c"
-					(reference "MoTeC LTCDB")
+					(reference "MoTeC LTCDB1")
 					(unit 1)
 				)
 			)
@@ -14550,7 +14550,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "92c43eb9-9afb-4643-b4f2-23f4597e0940")
-		(property "Reference" "RPS"
+		(property "Reference" "RPS1"
 			(at 328.168 220.726 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14773,7 +14773,7 @@
 		(instances
 			(project "Dyno Harness 2026"
 				(path "/8a66943b-4eff-42f1-8897-71310cd5bf1c"
-					(reference "RPS")
+					(reference "RPS1")
 					(unit 1)
 				)
 			)
@@ -14790,7 +14790,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9497fe0f-225f-4c6a-982a-528f98058b97")
-		(property "Reference" "Oil Pressure"
+		(property "Reference" "Oil Pressure1"
 			(at 154.178 56.388 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15026,7 +15026,7 @@
 		(instances
 			(project "Dyno Harness 2026"
 				(path "/8a66943b-4eff-42f1-8897-71310cd5bf1c"
-					(reference "Oil Pressure")
+					(reference "Oil Pressure1")
 					(unit 1)
 				)
 			)
@@ -15043,7 +15043,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9818c00e-633a-438c-8f63-4d38b8f7fe2c")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR07"
 			(at 269.355 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -15100,7 +15100,7 @@
 		(instances
 			(project "Dyno Harness 2026"
 				(path "/8a66943b-4eff-42f1-8897-71310cd5bf1c"
-					(reference "#PWR?")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -15691,7 +15691,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9b5309d6-8d62-4f05-a9e5-b1e5d8723129")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR02"
 			(at 45.835 190.5 0)
 			(hide yes)
 			(show_name no)
@@ -15748,7 +15748,7 @@
 		(instances
 			(project "Dyno Harness 2026"
 				(path "/8a66943b-4eff-42f1-8897-71310cd5bf1c"
-					(reference "#PWR?")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -15990,7 +15990,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a7ec7cd6-804e-450c-9869-7b77a1b3cb8f")
-		(property "Reference" "SM"
+		(property "Reference" "SM3"
 			(at 282.194 226.822 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16141,7 +16141,7 @@
 		(instances
 			(project "Dyno Harness 2026"
 				(path "/8a66943b-4eff-42f1-8897-71310cd5bf1c"
-					(reference "SM")
+					(reference "SM3")
 					(unit 1)
 				)
 			)
@@ -16158,7 +16158,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b0734de9-288d-41c6-9df3-d8794ebada7d")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR05"
 			(at 256.655 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -16215,7 +16215,7 @@
 		(instances
 			(project "Dyno Harness 2026"
 				(path "/8a66943b-4eff-42f1-8897-71310cd5bf1c"
-					(reference "#PWR?")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -16232,7 +16232,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b1d98253-f16a-41ac-91b4-c67dea622720")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR06"
 			(at 269.355 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -16289,7 +16289,7 @@
 		(instances
 			(project "Dyno Harness 2026"
 				(path "/8a66943b-4eff-42f1-8897-71310cd5bf1c"
-					(reference "#PWR?")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -16306,7 +16306,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bdde6f8d-ae8b-4130-ac26-1369aa1c117f")
-		(property "Reference" "Crankshaft Pos"
+		(property "Reference" "Crankshaft Pos1"
 			(at 109.474 56.642 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16491,7 +16491,7 @@
 		(instances
 			(project "Dyno Harness 2026"
 				(path "/8a66943b-4eff-42f1-8897-71310cd5bf1c"
-					(reference "Crankshaft Pos")
+					(reference "Crankshaft Pos1")
 					(unit 1)
 				)
 			)
@@ -16508,7 +16508,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "be2fae7e-f3cf-414d-8b80-170bd9848af2")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR04"
 			(at 185.535 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -16565,7 +16565,7 @@
 		(instances
 			(project "Dyno Harness 2026"
 				(path "/8a66943b-4eff-42f1-8897-71310cd5bf1c"
-					(reference "#PWR?")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -16783,7 +16783,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c4163cd0-2b68-4e83-8c55-5aa5fe3c1a9b")
-		(property "Reference" "IGN"
+		(property "Reference" "IGN1"
 			(at 58.928 41.402 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16943,7 +16943,7 @@
 		(instances
 			(project "Dyno Harness 2026"
 				(path "/8a66943b-4eff-42f1-8897-71310cd5bf1c"
-					(reference "IGN")
+					(reference "IGN1")
 					(unit 1)
 				)
 			)
@@ -16960,7 +16960,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c45d839b-81e7-45d7-bfca-2d3a7801754e")
-		(property "Reference" "Camshaft Position"
+		(property "Reference" "Camshaft Position1"
 			(at 139.7 38.608 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17172,7 +17172,7 @@
 		(instances
 			(project "Dyno Harness 2026"
 				(path "/8a66943b-4eff-42f1-8897-71310cd5bf1c"
-					(reference "Camshaft Position")
+					(reference "Camshaft Position1")
 					(unit 1)
 				)
 			)
@@ -17189,7 +17189,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c6867888-8437-42f1-82fb-d1d01c8779d0")
-		(property "Reference" "Coolant Temp"
+		(property "Reference" "Coolant Temp1"
 			(at 109.474 71.628 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17398,7 +17398,7 @@
 		(instances
 			(project "Dyno Harness 2026"
 				(path "/8a66943b-4eff-42f1-8897-71310cd5bf1c"
-					(reference "Coolant Temp")
+					(reference "Coolant Temp1")
 					(unit 1)
 				)
 			)
@@ -17415,7 +17415,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "caf5a1ef-7b15-4c09-9a09-96700ff5bd7b")
-		(property "Reference" "TB"
+		(property "Reference" "TB1"
 			(at 40.64 122.682 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17587,7 +17587,7 @@
 		(instances
 			(project "Dyno Harness 2026"
 				(path "/8a66943b-4eff-42f1-8897-71310cd5bf1c"
-					(reference "TB")
+					(reference "TB1")
 					(unit 1)
 				)
 			)
@@ -17988,7 +17988,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d108f684-3d17-41aa-8763-6b491595abb3")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR011"
 			(at 287.135 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -18045,7 +18045,7 @@
 		(instances
 			(project "Dyno Harness 2026"
 				(path "/8a66943b-4eff-42f1-8897-71310cd5bf1c"
-					(reference "#PWR?")
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -18062,7 +18062,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d2482298-bb47-4a79-9b79-38320cddd1f5")
-		(property "Reference" "BATTERY"
+		(property "Reference" "BATTERY1"
 			(at 292.215 48.006 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18209,7 +18209,7 @@
 		(instances
 			(project "Dyno Harness 2026"
 				(path "/8a66943b-4eff-42f1-8897-71310cd5bf1c"
-					(reference "BATTERY")
+					(reference "BATTERY1")
 					(unit 1)
 				)
 			)
@@ -18394,7 +18394,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e0e06024-4911-49ab-9fe7-a3ae59f994c4")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR012"
 			(at 325.235 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -18451,7 +18451,7 @@
 		(instances
 			(project "Dyno Harness 2026"
 				(path "/8a66943b-4eff-42f1-8897-71310cd5bf1c"
-					(reference "#PWR?")
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -18849,7 +18849,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e9380f35-fe30-43f7-b3ba-3a7202747271")
-		(property "Reference" "ECU_ETH"
+		(property "Reference" "ECU_ETH1"
 			(at 116.586 220.472 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19063,7 +19063,7 @@
 		(instances
 			(project "Dyno Harness 2026"
 				(path "/8a66943b-4eff-42f1-8897-71310cd5bf1c"
-					(reference "ECU_ETH")
+					(reference "ECU_ETH1")
 					(unit 1)
 				)
 			)
@@ -19080,7 +19080,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ebcdd52b-ff62-472c-9537-d38c52fbb0ba")
-		(property "Reference" "EPS"
+		(property "Reference" "EPS1"
 			(at 270.002 176.022 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19291,7 +19291,7 @@
 		(instances
 			(project "Dyno Harness 2026"
 				(path "/8a66943b-4eff-42f1-8897-71310cd5bf1c"
-					(reference "EPS")
+					(reference "EPS1")
 					(unit 1)
 				)
 			)
@@ -19308,7 +19308,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f1bffe20-e815-43ce-9840-b4aac8b4fd6a")
-		(property "Reference" "RS"
+		(property "Reference" "RS1"
 			(at 242.316 86.868 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19486,7 +19486,7 @@
 		(instances
 			(project "Dyno Harness 2026"
 				(path "/8a66943b-4eff-42f1-8897-71310cd5bf1c"
-					(reference "RS")
+					(reference "RS1")
 					(unit 1)
 				)
 			)
@@ -19888,7 +19888,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f62646bd-6512-4561-88bd-0bf0beffa5e1")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR03"
 			(at 58.42 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -19945,7 +19945,7 @@
 		(instances
 			(project "Dyno Harness 2026"
 				(path "/8a66943b-4eff-42f1-8897-71310cd5bf1c"
-					(reference "#PWR?")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)

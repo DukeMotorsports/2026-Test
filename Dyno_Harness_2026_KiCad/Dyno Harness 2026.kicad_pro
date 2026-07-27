@@ -676,7 +676,7 @@
         "uuid": "01d52fff-0621-4906-b716-923629de591a"
       }
     ],
-    "used_designators": "",
+    "used_designators": "TB1,S3,Starter Switch1,Crankshaft Pos1,SM3,IGN1,RS1,RPS1,R1,MoTeC LTCDB1,Oil Temperature1,FP1,EPS1,PDM15/30 Connector C1,DBR1,Coolant Temp1,MS1,DASH_ETH1,#PWR1-13,A1,Camshaft Position1,Oil Pressure1,ECU_ETH1,BATTERY1",
     "variants": []
   },
   "sheets": [

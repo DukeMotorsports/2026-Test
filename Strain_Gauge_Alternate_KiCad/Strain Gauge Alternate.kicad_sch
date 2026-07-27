@@ -2251,7 +2251,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "155039eb-1dd6-472f-a36b-b531fdcb8f3e")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR03"
 			(at 63.5 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -2308,7 +2308,7 @@
 		(instances
 			(project "Strain Gauge Alternate"
 				(path "/67086dc8-797e-49ef-8e82-194f9c4e0532"
-					(reference "#PWR?")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -2622,7 +2622,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2534ceb7-e413-4b41-98b2-f1309aa4df43")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR07"
 			(at 134.62 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -2679,7 +2679,7 @@
 		(instances
 			(project "Strain Gauge Alternate"
 				(path "/67086dc8-797e-49ef-8e82-194f9c4e0532"
-					(reference "#PWR?")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -2697,7 +2697,7 @@
 		(dnp no)
 		(uuid "4bacfaa8-da2d-4c2e-9bc4-524dbcbc2f86")
 		(property "Reference" "ST4"
-			(at 68.58 152.4 90)
+			(at 69.342 150.622 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2708,7 +2708,7 @@
 			)
 		)
 		(property "Value" "PTH-M2D5X5"
-			(at 66.04 149.86 90)
+			(at 66.802 148.082 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2846,7 +2846,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7a53f266-7e66-47d2-b8d8-0f432c350a8c")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR06"
 			(at 71.12 160.02 0)
 			(hide yes)
 			(show_name no)
@@ -2903,7 +2903,7 @@
 		(instances
 			(project "Strain Gauge Alternate"
 				(path "/67086dc8-797e-49ef-8e82-194f9c4e0532"
-					(reference "#PWR?")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -3217,7 +3217,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7c17793f-f2a6-4823-9cb5-6dcc9f72f257")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR09"
 			(at 139.7 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -3274,7 +3274,7 @@
 		(instances
 			(project "Strain Gauge Alternate"
 				(path "/67086dc8-797e-49ef-8e82-194f9c4e0532"
-					(reference "#PWR?")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -3291,7 +3291,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "86ddf5cd-c860-416c-a09f-effbb21cb1b8")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR011"
 			(at 170.18 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -3348,7 +3348,7 @@
 		(instances
 			(project "Strain Gauge Alternate"
 				(path "/67086dc8-797e-49ef-8e82-194f9c4e0532"
-					(reference "#PWR?")
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -3366,7 +3366,7 @@
 		(dnp no)
 		(uuid "a44b8ec6-20bc-40bf-8b40-ac28ac483b37")
 		(property "Reference" "ST2"
-			(at 68.58 129.54 90)
+			(at 69.342 127.762 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3377,7 +3377,7 @@
 			)
 		)
 		(property "Value" "PTH-M2D5X5"
-			(at 66.04 127 90)
+			(at 66.802 125.222 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3813,7 +3813,7 @@
 		(dnp no)
 		(uuid "ad8752f4-5ae9-4406-ad79-b0dfe2d30c8e")
 		(property "Reference" "ST3"
-			(at 50.8 152.4 90)
+			(at 51.562 150.622 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3824,7 +3824,7 @@
 			)
 		)
 		(property "Value" "PTH-M2D5X5"
-			(at 48.26 149.86 90)
+			(at 49.022 148.082 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3962,7 +3962,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b9e94121-75c1-4731-b54e-2c3064d3fb01")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR010"
 			(at 139.7 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -4019,7 +4019,7 @@
 		(instances
 			(project "Strain Gauge Alternate"
 				(path "/67086dc8-797e-49ef-8e82-194f9c4e0532"
-					(reference "#PWR?")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -4334,7 +4334,7 @@
 		(dnp no)
 		(uuid "c34777a4-5b4f-4deb-b896-8fa6f8b4b901")
 		(property "Reference" "ST1"
-			(at 50.8 129.54 90)
+			(at 51.562 127.762 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4345,7 +4345,7 @@
 			)
 		)
 		(property "Value" "PTH-M2D5X5"
-			(at 48.26 127 90)
+			(at 49.022 125.222 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4780,7 +4780,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cc071576-bc6f-43dc-aefc-c5e92b80a09e")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR04"
 			(at 63.5 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -4837,7 +4837,7 @@
 		(instances
 			(project "Strain Gauge Alternate"
 				(path "/67086dc8-797e-49ef-8e82-194f9c4e0532"
-					(reference "#PWR?")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -6229,7 +6229,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "df4e2465-7f74-456d-98d5-8d03e2f54716")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR02"
 			(at 53.34 160.02 0)
 			(hide yes)
 			(show_name no)
@@ -6286,7 +6286,7 @@
 		(instances
 			(project "Strain Gauge Alternate"
 				(path "/67086dc8-797e-49ef-8e82-194f9c4e0532"
-					(reference "#PWR?")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -6303,7 +6303,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e23b0c6c-a2b1-42a1-a26f-b63c128ba39b")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR08"
 			(at 134.62 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -6360,7 +6360,7 @@
 		(instances
 			(project "Strain Gauge Alternate"
 				(path "/67086dc8-797e-49ef-8e82-194f9c4e0532"
-					(reference "#PWR?")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -6377,7 +6377,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e3f99571-2242-42e5-99b5-443ef00ddc5f")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR05"
 			(at 71.12 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -6434,7 +6434,7 @@
 		(instances
 			(project "Strain Gauge Alternate"
 				(path "/67086dc8-797e-49ef-8e82-194f9c4e0532"
-					(reference "#PWR?")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -6451,7 +6451,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e9dfd7f4-ae80-42f5-841b-c931c5222303")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR012"
 			(at 170.18 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -6508,7 +6508,7 @@
 		(instances
 			(project "Strain Gauge Alternate"
 				(path "/67086dc8-797e-49ef-8e82-194f9c4e0532"
-					(reference "#PWR?")
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -6525,7 +6525,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f8613921-2edb-4ebe-93af-c5e719056609")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR01"
 			(at 53.34 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -6582,7 +6582,7 @@
 		(instances
 			(project "Strain Gauge Alternate"
 				(path "/67086dc8-797e-49ef-8e82-194f9c4e0532"
-					(reference "#PWR?")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)

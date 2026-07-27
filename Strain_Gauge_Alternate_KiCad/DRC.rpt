@@ -1,0 +1,122 @@
+** Drc report for Strain Gauge Alternate.kicad_pcb **
+** Created on 2026-07-26T21:17:17 **
+** Report includes: Errors, Warnings **
+
+** Found 34 DRC violations **
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(148.8821 mm, 91.9226 mm): Footprint R2
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(156.5021 mm, 100.1776 mm): Footprint R4
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(141.2621 mm, 112.8776 mm): Footprint R3
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(148.8821 mm, 100.1776 mm): Footprint U1
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(141.2621 mm, 100.1776 mm): Footprint R1
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(148.8821 mm, 112.8776 mm): Footprint U2
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(156.5021 mm, 112.8776 mm): Footprint R5
+[starved_thermal]: Thermal relief connection to zone incomplete (layer Top Layer; zone min spoke count 2; actual 1)
+    Local override; error
+    @(159.1691 mm, 94.3356 mm): Zone [5V] on Top Layer, priority 2
+    @(136.8171 mm, 103.7336 mm): PTH pad 1 [5V] of J2
+[starved_thermal]: Thermal relief connection to zone incomplete (layer Top Layer; zone min spoke count 2; actual 1)
+    Local override; error
+    @(159.1691 mm, 94.3356 mm): Zone [5V] on Top Layer, priority 2
+    @(160.4391 mm, 103.7336 mm): PTH pad 1 [5V] of J1
+[padstack]: Padstack is questionable (negative solder paste margin is larger than pad; no solder paste mask will be generated)
+    Local override; warning
+    @(136.8171 mm, 103.7336 mm): PTH pad 1 [5V] of J2
+[padstack]: Padstack is questionable (negative solder paste margin is larger than pad; no solder paste mask will be generated)
+    Local override; warning
+    @(136.8171 mm, 106.2736 mm): PTH pad 2 [NetJ2_2] of J2
+[padstack]: Padstack is questionable (negative solder paste margin is larger than pad; no solder paste mask will be generated)
+    Local override; warning
+    @(136.8171 mm, 108.8136 mm): PTH pad 3 [GND] of J2
+[padstack]: Padstack is questionable (negative solder paste margin is larger than pad; no solder paste mask will be generated)
+    Local override; warning
+    @(160.4391 mm, 103.7336 mm): PTH pad 1 [5V] of J1
+[padstack]: Padstack is questionable (negative solder paste margin is larger than pad; no solder paste mask will be generated)
+    Local override; warning
+    @(160.4391 mm, 106.2736 mm): PTH pad 2 [NetJ1_2] of J1
+[padstack]: Padstack is questionable (negative solder paste margin is larger than pad; no solder paste mask will be generated)
+    Local override; warning
+    @(160.4391 mm, 108.8136 mm): PTH pad 3 [GND] of J1
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(148.8821 mm, 91.9226 mm): Footprint R2
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(156.5021 mm, 100.1776 mm): Footprint R4
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(136.8171 mm, 106.2736 mm): Footprint J2
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(135.8011 mm, 92.1766 mm): Footprint ST3
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(141.2621 mm, 112.8776 mm): Footprint R3
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(148.8821 mm, 100.1776 mm): Footprint U1
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(160.4391 mm, 106.2736 mm): Footprint J1
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(135.8011 mm, 117.5766 mm): Footprint ST1
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(141.2621 mm, 100.1776 mm): Footprint R1
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(161.2011 mm, 117.5766 mm): Footprint ST2
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(148.8821 mm, 112.8776 mm): Footprint U2
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(161.2011 mm, 92.0496 mm): Footprint ST4
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(156.5021 mm, 112.8776 mm): Footprint R5
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(133.9007 mm, 102.3366 mm): PCB text 'STRAIN GAUGES' on Top Overlay
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7201 mm)
+    Rule: board setup constraints silk text height; warning
+    @(133.9007 mm, 102.3366 mm): PCB text 'STRAIN GAUGES' on Top Overlay
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(162.0947 mm, 103.0986 mm): PCB text '5V' on Top Overlay
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7201 mm)
+    Rule: board setup constraints silk text height; warning
+    @(162.0947 mm, 103.0986 mm): PCB text '5V' on Top Overlay
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7201 mm)
+    Rule: board setup constraints silk text height; warning
+    @(162.0947 mm, 105.3846 mm): PCB text 'SIG' on Top Overlay
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7201 mm)
+    Rule: board setup constraints silk text height; warning
+    @(162.0947 mm, 107.6706 mm): PCB text 'GND' on Top Overlay
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **

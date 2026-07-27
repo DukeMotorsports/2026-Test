@@ -1,0 +1,132 @@
+ERC report (2026-07-26T21:18:23, Encoding UTF8)
+Report includes: Errors, Warnings
+
+***** Sheet /
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(2100 mils, 5400 mils): Symbol #PWR01 Hidden pin  [GND, Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(2500 mils, 3300 mils): Symbol #PWR03 Hidden pin  [5V, Power input, Line]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(2000 mils, 3800 mils): Symbol R1 [Resistor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(2000 mils, 3800 mils): Symbol R1 [Resistor_Generic]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(2000 mils, 4200 mils): Symbol R3 [Resistor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(2000 mils, 4200 mils): Symbol R3 [Resistor_Generic]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(2100 mils, 5400 mils): Symbol ST1 [CMP-00028-00000-1]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(2100 mils, 5400 mils): Symbol ST1 [CMP-00028-00000-1]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Strain Gauge Alternate-altium-import'
+    ; warning
+    @(2100 mils, 5400 mils): Symbol #PWR01 [GND_POWER_GROUND]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(2100 mils, 6300 mils): Symbol ST3 [CMP-00028-00000-1]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(2100 mils, 6300 mils): Symbol ST3 [CMP-00028-00000-1]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Strain Gauge Alternate-altium-import'
+    ; warning
+    @(2100 mils, 6300 mils): Symbol #PWR02 [GND_POWER_GROUND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Strain Gauge Alternate-altium-import'
+    ; warning
+    @(2500 mils, 3300 mils): Symbol #PWR03 [5V_BAR]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Strain Gauge Alternate-altium-import'
+    ; warning
+    @(2500 mils, 4300 mils): Symbol #PWR04 [GND_POWER_GROUND]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(2800 mils, 3600 mils): Symbol J2 [SSW-103-01-G-S]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(2800 mils, 3600 mils): Symbol J2 [SSW-103-01-G-S]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(2800 mils, 5400 mils): Symbol ST2 [CMP-00028-00000-1]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(2800 mils, 5400 mils): Symbol ST2 [CMP-00028-00000-1]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Strain Gauge Alternate-altium-import'
+    ; warning
+    @(2800 mils, 5400 mils): Symbol #PWR05 [GND_POWER_GROUND]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(2800 mils, 6300 mils): Symbol ST4 [CMP-00028-00000-1]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(2800 mils, 6300 mils): Symbol ST4 [CMP-00028-00000-1]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Strain Gauge Alternate-altium-import'
+    ; warning
+    @(2800 mils, 6300 mils): Symbol #PWR06 [GND_POWER_GROUND]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(3600 mils, 3900 mils): Symbol R2 [Resistor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(3600 mils, 3900 mils): Symbol R2 [Resistor_Generic]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(4400 mils, 3900 mils): Symbol U1 [TI-INA1XX-8]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(4400 mils, 3900 mils): Symbol U1 [TI-INA1XX-8]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Strain Gauge Alternate-altium-import'
+    ; warning
+    @(5300 mils, 3300 mils): Symbol #PWR07 [5V_BAR]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Strain Gauge Alternate-altium-import'
+    ; warning
+    @(5300 mils, 4100 mils): Symbol #PWR08 [GND_POWER_GROUND]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(5400 mils, 3500 mils): Symbol J1 [SSW-103-01-G-S]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(5400 mils, 3500 mils): Symbol J1 [SSW-103-01-G-S]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Strain Gauge Alternate-altium-import'
+    ; warning
+    @(5500 mils, 4900 mils): Symbol #PWR09 [5V_BAR]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Strain Gauge Alternate-altium-import'
+    ; warning
+    @(5500 mils, 5900 mils): Symbol #PWR010 [GND_POWER_GROUND]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(5700 mils, 5200 mils): Symbol U2 [TI-AMP-S5-2-8]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(5700 mils, 5200 mils): Symbol U2 [TI-AMP-S5-2-8]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Strain Gauge Alternate-altium-import'
+    ; warning
+    @(6700 mils, 5100 mils): Symbol #PWR011 [5V_BAR]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(6700 mils, 5500 mils): Symbol R4 [Resistor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(6700 mils, 5500 mils): Symbol R4 [Resistor_Generic]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(6700 mils, 5900 mils): Symbol R5 [Resistor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(6700 mils, 5900 mils): Symbol R5 [Resistor_Generic]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Strain Gauge Alternate-altium-import'
+    ; warning
+    @(6700 mils, 5900 mils): Symbol #PWR012 [GND_POWER_GROUND]
+
+ ** ERC messages: 40  Errors 2  Warnings 38
+
+ ** Ignored checks:
+    - Global label only appears once in the schematic
+    - Four connection points are joined together
+    - SPICE model issue
+    - Assigned footprint doesn't match footprint filters

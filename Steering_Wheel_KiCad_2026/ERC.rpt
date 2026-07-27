@@ -1,0 +1,177 @@
+ERC report (2026-07-26T21:16:53, Encoding UTF8)
+Report includes: Errors, Warnings
+
+***** Sheet /
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(2200 mils, 6500 mils): Symbol #PWR01 Hidden pin  [+5, Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(2200 mils, 7200 mils): Symbol #PWR02 Hidden pin  [GND, Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(2400 mils, 1300 mils): Symbol #PWR04 Hidden pin  [3V3, Power input, Line]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(1800 mils, 5400 mils): Symbol J5 [S8B-XH-A-1(LF)(SN)]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(1800 mils, 5400 mils): Symbol J5 [S8B-XH-A-1(LF)(SN)]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(2100 mils, 6600 mils): Symbol J6 [S6B-XH-A]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(2100 mils, 6600 mils): Symbol J6 [S6B-XH-A]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Steering Wheel 2026-altium-import'
+    ; warning
+    @(2200 mils, 6500 mils): Symbol #PWR01 [+5_BAR]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Steering Wheel 2026-altium-import'
+    ; warning
+    @(2200 mils, 7200 mils): Symbol #PWR02 [GND_POWER_GROUND]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(2100 mils, 5400 mils): Horizontal Wire, length 200 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(2100 mils, 5500 mils): Horizontal Wire, length 200 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(2100 mils, 5600 mils): Horizontal Wire, length 200 mils
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Steering Wheel 2026-altium-import'
+    ; warning
+    @(2300 mils, 5800 mils): Symbol #PWR03 [GND_POWER_GROUND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Steering Wheel 2026-altium-import'
+    ; warning
+    @(2400 mils, 1300 mils): Symbol #PWR04 [3V3_BAR]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(2400 mils, 2000 mils): Symbol R1 [1029c3af85768c4190bb7ad29bc67b5]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Altium Content Vault'
+    ; warning
+    @(2400 mils, 2000 mils): Symbol R1 [1029c3af85768c4190bb7ad29bc67b5]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Steering Wheel 2026-altium-import'
+    ; warning
+    @(2400 mils, 2800 mils): Symbol #PWR05 [3V3_BAR]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(2400 mils, 3400 mils): Symbol R3 [1029c3af85768c4190bb7ad29bc67b5]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Altium Content Vault'
+    ; warning
+    @(2400 mils, 3400 mils): Symbol R3 [1029c3af85768c4190bb7ad29bc67b5]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Steering Wheel 2026-altium-import'
+    ; warning
+    @(2800 mils, 1800 mils): Symbol #PWR06 [3V3_BAR]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Steering Wheel 2026-altium-import'
+    ; warning
+    @(2800 mils, 2200 mils): Symbol #PWR07 [GND_POWER_GROUND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Steering Wheel 2026-altium-import'
+    ; warning
+    @(2800 mils, 3200 mils): Symbol #PWR08 [3V3_BAR]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Steering Wheel 2026-altium-import'
+    ; warning
+    @(2800 mils, 3600 mils): Symbol #PWR09 [GND_POWER_GROUND]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(3200 mils, 2000 mils): Symbol J2 [B3PS-VH(LF)(SN)]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(3200 mils, 2000 mils): Symbol J2 [B3PS-VH(LF)(SN)]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(3200 mils, 3400 mils): Symbol J4 [B3PS-VH(LF)(SN)]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(3200 mils, 3400 mils): Symbol J4 [B3PS-VH(LF)(SN)]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(3700 mils, 5000 mils): Symbol U1 [ESP32-C3]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(3700 mils, 5000 mils): Symbol U1 [ESP32-C3]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Steering Wheel 2026-altium-import'
+    ; warning
+    @(4400 mils, 4500 mils): Symbol #PWR010 [3V3_BAR]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Steering Wheel 2026-altium-import'
+    ; warning
+    @(4400 mils, 5500 mils): Symbol #PWR011 [GND_POWER_GROUND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Steering Wheel 2026-altium-import'
+    ; warning
+    @(4600 mils, 4600 mils): Symbol #PWR012 [+5_BAR]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Steering Wheel 2026-altium-import'
+    ; warning
+    @(5300 mils, 1600 mils): Symbol #PWR013 [3V3_BAR]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Steering Wheel 2026-altium-import'
+    ; warning
+    @(5300 mils, 2000 mils): Symbol #PWR014 [GND_POWER_GROUND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Steering Wheel 2026-altium-import'
+    ; warning
+    @(5300 mils, 2800 mils): Symbol #PWR015 [3V3_BAR]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Steering Wheel 2026-altium-import'
+    ; warning
+    @(5300 mils, 3200 mils): Symbol #PWR016 [GND_POWER_GROUND]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(5400 mils, 5000 mils): Horizontal Wire, length 600 mils
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Steering Wheel 2026-altium-import'
+    ; warning
+    @(5600 mils, 5300 mils): Symbol #PWR017 [GND_POWER_GROUND]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(5700 mils, 1800 mils): Symbol J1 [B3PS-VH(LF)(SN)]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(5700 mils, 1800 mils): Symbol J1 [B3PS-VH(LF)(SN)]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(5700 mils, 3000 mils): Symbol J3 [B3PS-VH(LF)(SN)]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(5700 mils, 3000 mils): Symbol J3 [B3PS-VH(LF)(SN)]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Steering Wheel 2026-altium-import'
+    ; warning
+    @(5700 mils, 4700 mils): Symbol #PWR018 [GND_POWER_GROUND]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(6000 mils, 4600 mils): Symbol U2 [CAN_WCMCU-1051-Symbol-1]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Steering Wheel 2026-altium-import'
+    ; warning
+    @(6000 mils, 4600 mils): Symbol #PWR019 [+5_BAR]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(6000 mils, 4600 mils): Symbol U2 [CAN_WCMCU-1051-Symbol-1]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(7500 mils, 1700 mils): Symbol H1 [CMP-00028-00000-1]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(7500 mils, 1700 mils): Symbol H1 [CMP-00028-00000-1]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(8100 mils, 1700 mils): Symbol H2 [CMP-00028-00000-1]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(8100 mils, 1700 mils): Symbol H2 [CMP-00028-00000-1]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Steering Wheel 2026-altium-import'
+    ; warning
+    @(8400 mils, 2000 mils): Symbol #PWR020 [GND_POWER_GROUND]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(8700 mils, 1700 mils): Symbol H3 [CMP-00028-00000-1]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(8700 mils, 1700 mils): Symbol H3 [CMP-00028-00000-1]
+[footprint_link_issues]: The current configuration does not include the footprint library ''
+    ; warning
+    @(9300 mils, 1700 mils): Symbol H4 [CMP-00028-00000-1]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Duke Motorsports'
+    ; warning
+    @(9300 mils, 1700 mils): Symbol H4 [CMP-00028-00000-1]
+
+ ** ERC messages: 55  Errors 3  Warnings 52
+
+ ** Ignored checks:
+    - Global label only appears once in the schematic
+    - Four connection points are joined together
+    - SPICE model issue
+    - Assigned footprint doesn't match footprint filters

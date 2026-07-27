@@ -1,0 +1,257 @@
+** Drc report for Steering Wheel 2026.kicad_pcb **
+** Created on 2026-07-26T21:16:41 **
+** Report includes: Errors, Warnings **
+
+** Found 77 DRC violations **
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(162.0139 mm, 130.6068 mm): Via [DownShiftPaddle] on Top Layer - Bottom Layer
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(162.0139 mm, 132.2070 mm): Via [NetU1_8] on Top Layer - Bottom Layer
+[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0953 mm)
+    Rule: board setup constraints; error
+    @(160.6169 mm, 131.3688 mm): Via [NetU1_7] on Top Layer - Bottom Layer
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(126.6825 mm, 115.7478 mm): Footprint U2
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2794 mm)
+    Rule: board setup constraints edge; error
+    @(182.1561 mm, 66.9036 mm): Segment on Edge.Cuts
+    @(170.2816 mm, 141.7066 mm): Track [SW4] on Top Layer, length 16.2183 mm
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2794 mm)
+    Rule: board setup constraints edge; error
+    @(182.1561 mm, 66.9036 mm): Segment on Edge.Cuts
+    @(181.7497 mm, 130.2385 mm): Track [SW4] on Top Layer, length 51.1683 mm
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2794 mm)
+    Rule: board setup constraints edge; error
+    @(182.1561 mm, 66.9036 mm): Segment on Edge.Cuts
+    @(172.4279 mm, 69.7484 mm): Track [SW4] on Top Layer, length 13.1830 mm
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(163.1061 mm, 112.6236 mm): Segment on Edge.Cuts
+    @(139.7092 mm, 112.6376 mm): Segment of J6 on Top Overlay
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(163.1061 mm, 112.6236 mm): Segment on Edge.Cuts
+    @(139.7092 mm, 124.3978 mm): Segment of J6 on Top Overlay
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(163.1061 mm, 112.6236 mm): Segment on Edge.Cuts
+    @(157.3622 mm, 124.3978 mm): Segment of J6 on Top Overlay
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(114.8461 mm, 66.9036 mm): Segment on Edge.Cuts
+    @(137.3011 mm, 78.3940 mm): Segment of J5 on Top Overlay
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(114.8461 mm, 66.9036 mm): Segment on Edge.Cuts
+    @(159.7011 mm, 78.3940 mm): Segment of J5 on Top Overlay
+[padstack]: Padstack is questionable (negative solder paste margin is larger than pad; no solder paste mask will be generated)
+    Local override; warning
+    @(154.7857 mm, 121.9708 mm): PTH pad 1 [+5] of J6
+[padstack]: Padstack is questionable (negative solder paste margin is larger than pad; no solder paste mask will be generated)
+    Local override; warning
+    @(154.7857 mm, 121.9708 mm): PTH pad 1 [+5] of J6
+[padstack]: Padstack is questionable (negative solder paste margin is larger than pad; no solder paste mask will be generated)
+    Local override; warning
+    @(154.7857 mm, 121.9708 mm): PTH pad 1 [+5] of J6
+[padstack]: Padstack is questionable (negative solder paste margin is larger than pad; no solder paste mask will be generated)
+    Local override; warning
+    @(152.2857 mm, 121.9708 mm): PTH pad 2 [PTT+] of J6
+[padstack]: Padstack is questionable (negative solder paste margin is larger than pad; no solder paste mask will be generated)
+    Local override; warning
+    @(152.2857 mm, 121.9708 mm): PTH pad 2 [PTT+] of J6
+[padstack]: Padstack is questionable (negative solder paste margin is larger than pad; no solder paste mask will be generated)
+    Local override; warning
+    @(152.2857 mm, 121.9708 mm): PTH pad 2 [PTT+] of J6
+[padstack]: Padstack is questionable (negative solder paste margin is larger than pad; no solder paste mask will be generated)
+    Local override; warning
+    @(149.7857 mm, 121.9708 mm): PTH pad 3 [PTT-] of J6
+[padstack]: Padstack is questionable (negative solder paste margin is larger than pad; no solder paste mask will be generated)
+    Local override; warning
+    @(149.7857 mm, 121.9708 mm): PTH pad 3 [PTT-] of J6
+[padstack]: Padstack is questionable (negative solder paste margin is larger than pad; no solder paste mask will be generated)
+    Local override; warning
+    @(149.7857 mm, 121.9708 mm): PTH pad 3 [PTT-] of J6
+[padstack]: Padstack is questionable (negative solder paste margin is larger than pad; no solder paste mask will be generated)
+    Local override; warning
+    @(147.2857 mm, 121.9708 mm): PTH pad 4 [CAN_P] of J6
+[padstack]: Padstack is questionable (negative solder paste margin is larger than pad; no solder paste mask will be generated)
+    Local override; warning
+    @(147.2857 mm, 121.9708 mm): PTH pad 4 [CAN_P] of J6
+[padstack]: Padstack is questionable (negative solder paste margin is larger than pad; no solder paste mask will be generated)
+    Local override; warning
+    @(147.2857 mm, 121.9708 mm): PTH pad 4 [CAN_P] of J6
+[padstack]: Padstack is questionable (negative solder paste margin is larger than pad; no solder paste mask will be generated)
+    Local override; warning
+    @(144.7857 mm, 121.9708 mm): PTH pad 5 [CAN_N] of J6
+[padstack]: Padstack is questionable (negative solder paste margin is larger than pad; no solder paste mask will be generated)
+    Local override; warning
+    @(144.7857 mm, 121.9708 mm): PTH pad 5 [CAN_N] of J6
+[padstack]: Padstack is questionable (negative solder paste margin is larger than pad; no solder paste mask will be generated)
+    Local override; warning
+    @(144.7857 mm, 121.9708 mm): PTH pad 5 [CAN_N] of J6
+[padstack]: Padstack is questionable (negative solder paste margin is larger than pad; no solder paste mask will be generated)
+    Local override; warning
+    @(142.2857 mm, 121.9708 mm): PTH pad 6 [GND] of J6
+[padstack]: Padstack is questionable (negative solder paste margin is larger than pad; no solder paste mask will be generated)
+    Local override; warning
+    @(142.2857 mm, 121.9708 mm): PTH pad 6 [GND] of J6
+[padstack]: Padstack is questionable (negative solder paste margin is larger than pad; no solder paste mask will be generated)
+    Local override; warning
+    @(142.2857 mm, 121.9708 mm): PTH pad 6 [GND] of J6
+[padstack]: Padstack is questionable (negative solder paste margin is larger than pad; no solder paste mask will be generated)
+    Local override; warning
+    @(166.6161 mm, 92.9386 mm): PTH pad 1 [UpShiftPaddle] of R3
+[padstack]: Padstack is questionable (negative solder paste margin is larger than pad; no solder paste mask will be generated)
+    Local override; warning
+    @(177.3761 mm, 92.9386 mm): PTH pad 2 [3V3] of R3
+[padstack]: Padstack is questionable (negative solder paste margin is larger than pad; no solder paste mask will be generated)
+    Local override; warning
+    @(129.7511 mm, 92.9386 mm): PTH pad 1 [DownShiftPaddle] of R1
+[padstack]: Padstack is questionable (negative solder paste margin is larger than pad; no solder paste mask will be generated)
+    Local override; warning
+    @(118.9911 mm, 92.9386 mm): PTH pad 2 [3V3] of R1
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(154.7857 mm, 121.9708 mm): Footprint J6
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(148.5011 mm, 72.6440 mm): Footprint J5
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(178.9811 mm, 70.0786 mm): Footprint H2
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(171.9961 mm, 92.9386 mm): Footprint R3
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(124.3711 mm, 92.9386 mm): Footprint R1
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(118.0211 mm, 70.0786 mm): Footprint H1
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(126.6825 mm, 115.7478 mm): Footprint U2
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(130.0861 mm, 106.9086 mm): Footprint J1
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(130.0861 mm, 81.6586 mm): Footprint J2
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(165.1381 mm, 134.0866 mm): Footprint U1
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(166.9161 mm, 107.5436 mm): Footprint J3
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(178.9811 mm, 139.9286 mm): Footprint H4
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(166.9161 mm, 81.5086 mm): Footprint J4
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Vault'
+    Local override; warning
+    @(118.0211 mm, 139.9286 mm): Footprint H3
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(139.0269 mm, 76.4594 mm): PCB text 'SW1' on Top Overlay
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.4801 mm)
+    Rule: board setup constraints silk text height; warning
+    @(139.0269 mm, 76.4594 mm): PCB text 'SW1' on Top Overlay
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(141.4907 mm, 123.8856 mm): PCB text 'GND' on Top Overlay
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.4801 mm)
+    Rule: board setup constraints silk text height; warning
+    @(141.4907 mm, 123.8856 mm): PCB text 'GND' on Top Overlay
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(141.5669 mm, 76.4594 mm): PCB text 'SW2' on Top Overlay
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.4801 mm)
+    Rule: board setup constraints silk text height; warning
+    @(141.5669 mm, 76.4594 mm): PCB text 'SW2' on Top Overlay
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(143.5989 mm, 123.8223 mm): PCB text 'CAN_L' on Top Overlay
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.4801 mm)
+    Rule: board setup constraints silk text height; warning
+    @(143.5989 mm, 123.8223 mm): PCB text 'CAN_L' on Top Overlay
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(144.0561 mm, 76.4594 mm): PCB text 'SW3' on Top Overlay
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.4801 mm)
+    Rule: board setup constraints silk text height; warning
+    @(144.0561 mm, 76.4594 mm): PCB text 'SW3' on Top Overlay
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(146.2151 mm, 123.8223 mm): PCB text 'CAN_H' on Top Overlay
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.4801 mm)
+    Rule: board setup constraints silk text height; warning
+    @(146.2151 mm, 123.8223 mm): PCB text 'CAN_H' on Top Overlay
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(146.5453 mm, 76.4594 mm): PCB text 'SW4' on Top Overlay
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.4801 mm)
+    Rule: board setup constraints silk text height; warning
+    @(146.5453 mm, 76.4594 mm): PCB text 'SW4' on Top Overlay
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(149.1361 mm, 76.4594 mm): PCB text 'SW5' on Top Overlay
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.4801 mm)
+    Rule: board setup constraints silk text height; warning
+    @(149.1361 mm, 76.4594 mm): PCB text 'SW5' on Top Overlay
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(149.1361 mm, 123.8812 mm): PCB text 'PTT-' on Top Overlay
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.4801 mm)
+    Rule: board setup constraints silk text height; warning
+    @(149.1361 mm, 123.8812 mm): PCB text 'PTT-' on Top Overlay
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(151.5237 mm, 76.4594 mm): PCB text 'PTT+' on Top Overlay
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.4801 mm)
+    Rule: board setup constraints silk text height; warning
+    @(151.5237 mm, 76.4594 mm): PCB text 'PTT+' on Top Overlay
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(151.6761 mm, 123.8856 mm): PCB text 'PTT+' on Top Overlay
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.4801 mm)
+    Rule: board setup constraints silk text height; warning
+    @(151.6761 mm, 123.8856 mm): PCB text 'PTT+' on Top Overlay
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(154.0383 mm, 76.4594 mm): PCB text 'PTT-' on Top Overlay
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.4801 mm)
+    Rule: board setup constraints silk text height; warning
+    @(154.0383 mm, 76.4594 mm): PCB text 'PTT-' on Top Overlay
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(154.3939 mm, 123.8728 mm): PCB text '5V' on Top Overlay
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.4801 mm)
+    Rule: board setup constraints silk text height; warning
+    @(154.3939 mm, 123.8728 mm): PCB text '5V' on Top Overlay
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(156.5529 mm, 76.4594 mm): PCB text 'GND' on Top Overlay
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.4801 mm)
+    Rule: board setup constraints silk text height; warning
+    @(156.5529 mm, 76.4594 mm): PCB text 'GND' on Top Overlay
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(158.7229 mm, 123.7051 mm): Reference field of J6
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **
