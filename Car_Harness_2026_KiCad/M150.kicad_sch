@@ -2078,6 +2078,121 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "power:PWR_FLAG"
+			(power global)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "#FLG"
+				(at 0 1.905 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "PWR_FLAG"
+				(at 0 3.81 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Special symbol for telling ERC where power comes from"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "flag power"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "PWR_FLAG_0_0"
+				(pin power_out line
+					(at 0 0 90)
+					(length 0)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "PWR_FLAG_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 1.27) (xy -1.016 1.905) (xy 0 2.54) (xy 1.016 1.905) (xy 0 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "root_0_MoTeC M150-C / M130-A - Symbol-1_Duke Motorsports_1"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -2876,6 +2991,12 @@
 		(uuid "c0876fb5-5e36-4564-8066-420a46b89232")
 	)
 	(junction
+		(at 58.42 33.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c81548a9-b959-47d4-8071-b8e3718dec3b")
+	)
+	(junction
 		(at 137.16 101.6)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3063,6 +3184,16 @@
 	)
 	(wire
 		(pts
+			(xy 58.42 33.02) (xy 55.88 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1f91e3ed-1487-4a61-849c-2c92482f2d84")
+	)
+	(wire
+		(pts
 			(xy 63.5 68.58) (xy 55.88 68.58)
 		)
 		(stroke
@@ -3073,7 +3204,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 33.02) (xy 55.88 33.02)
+			(xy 63.5 33.02) (xy 58.42 33.02)
 		)
 		(stroke
 			(width 0)
@@ -4377,6 +4508,84 @@
 			(justify left)
 		)
 		(uuid "fa4b1ad6-5346-4b70-b55a-4e71a36848dc")
+	)
+	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 58.42 33.02 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "05206a9e-beb9-4f11-82e8-69339a3c6b73")
+		(property "Reference" "#FLG01"
+			(at 58.42 31.115 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 58.42 27.94 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 58.42 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 58.42 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 58.42 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f53156f4-c8f3-4fed-81b0-965222ce5929")
+		)
+		(instances
+			(project "Car Harness 2026_KiCad"
+				(path "/5dbc07ba-3bc7-4ac7-a248-7c4937eb7523/14a27544-892c-405d-a2d9-61a7cb7a920b"
+					(reference "#FLG01")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Duke Motorsports:root_0_MoTec M150 Connector A-Symbol-1_Duke Motorsports")
